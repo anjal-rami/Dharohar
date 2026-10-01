@@ -1,0 +1,343 @@
+[
+  {
+    "id": "fest-garba-gujarat",
+    "slug": "navratri-garba",
+    "name": "Navratri & Garba of Gujarat",
+    "nativeName": "નવરાત્રી ગરબા",
+    "state": "Gujarat",
+    "region": "West",
+    "monthHindi": "Ashwin (September – October)",
+    "significance": "Celebration of Shakti (Divine Feminine) over the demon Mahishasura through 9 nights of rhythmic circular dance.",
+    "unescoStatus": "UNESCO Intangible Cultural Heritage of Humanity",
+    "heroImage": "/images/festivals/garba_gujarat.jpg",
+    "historicalOrigin": {
+      "period": "10th Century CE (Mentioned in Kumarapala Charita)",
+      "lineage": "Rooted in the Sanskrit term 'Garbha Deep' (womb lamp). A perforated earthen pot with an inner oil lamp represents the living womb and divine feminine cosmos.",
+      "deityOrTheme": "Goddess Durga / Amba"
+    },
+    "rituals": [
+      { "day": "Day 1 (Ghatasthapana)", "title": "Sanctification of the Garbha Deep", "description": "Invocation of Mother Goddess; barley seeds sown in sacred clay mounds." },
+      { "day": "Days 2–8 (Norta)", "title": "Nightly Mandvi Parikrama", "description": "Rhythmic clapping in concentric counter-clockwise rings around the central lamp shrine." },
+      { "day": "Day 8 (Ashtami)", "title": "Havan & Chandi Path", "description": "Sacred fire offerings and devotional garbis sung in archaic Gujarati dialects." },
+      { "day": "Day 10 (Dussehra)", "title": "Fafda-Jalebi Community Feast", "description": "Victory celebration symbolizing the triumph of Dharma; mass community morning gatherings." }
+    ],
+    "culinaryOfferings": [
+      { "dishName": "Sabudana Khichdi & Moraiya", "description": "Upvas (fasting) staple prepared with crushed peanuts and rock salt (sendha namak)." },
+      { "dishName": "Fafda-Jalebi & Papaya Sambharo", "description": "Dussehra morning ritual combination eaten across all Saurashtra and Gujarat towns." }
+    ],
+    "artisanalEcosystem": "Drives the year-round economy of Kutch bandhani tie-dye artisans, mirror-work tailors, bronze manjira casters, and earthen pot (garbo) turners.",
+    "folkInstruments": ["Dhol", "Manjira", "Khanjari", "Dholak"]
+  },
+  {
+    "id": "fest-durga-puja-bengal",
+    "slug": "durga-puja-kolkata",
+    "name": "Durga Puja of Bengal",
+    "nativeName": "দুর্গাপূজা",
+    "state": "West Bengal",
+    "region": "East",
+    "monthHindi": "Ashwin (September – October)",
+    "significance": "Homecoming of Goddess Durga with her children (Lakshmi, Saraswati, Kartik, Ganesha) and triumph over Mahishasura.",
+    "unescoStatus": "UNESCO Intangible Cultural Heritage of Humanity",
+    "heroImage": "/images/festivals/durga_puja_bengal.jpg",
+    "historicalOrigin": {
+      "period": "Late 16th Century (Baro-Bhuiyan & Rajbari Patronage)",
+      "lineage": "Evolved from aristocratic zamindar courtyards into open community-funded (Sarbojanin) installations creating the world's largest open-air art pavilion.",
+      "deityOrTheme": "Mahishasuramardini (Durga)"
+    },
+    "rituals": [
+      { "day": "Mahalaya", "title": "Tarpan & Chokkhudan", "description": "Ancestral dawn rites at the Hooghly Ghats; master clay artisans paint the eyes of Maa Durga." },
+      { "day": "Maha Saptami", "title": "Kola Bou Snan", "description": "The sacred banana plant (representing nine forms of vegetation) is ritually bathed in river water." },
+      { "day": "Maha Ashtami", "title": "Sandhi Puja & Dhunuchi Naach", "description": "The intense juncture of Ashtami and Navami marked by 108 lotus offerings and camphor smoke dance." },
+      { "day": "Bijoya Dashami", "title": "Sindoor Khela & Bisarjan", "description": "Married women smear vermilion in celebration before the clay deities are returned to the sacred river." }
+    ],
+    "culinaryOfferings": [
+      { "dishName": "Khichuri & Labra Bhog", "description": "Fragrant Gobindobhog rice and moong dal preparation offered to the deity with 5 types of fried vegetables." },
+      { "dishName": "Narkel Naru & Sandesh", "description": "Hand-rolled jaggery-coconut sweets shared across households on Bijoya." }
+    ],
+    "artisanalEcosystem": "Sustains the Kumartuli clay sculptor district, Patachitra banner artists, sholapith craftsmen, and traditional Dhaki drummers from Murshidabad.",
+    "folkInstruments": ["Dhak", "Kansor (Gong)", "Shankha (Conch shell)"]
+  },
+  {
+    "id": "fest-chhath-bihar",
+    "slug": "chhath-puja",
+    "name": "Chhath Mahaparva of Bihar",
+    "nativeName": "छठ पूजा",
+    "state": "Bihar",
+    "region": "East",
+    "monthHindi": "Kartik (October – November)",
+    "significance": "Ancient solar thanksgiving ritual honouring Surya Dev and Chhathi Maiyya for sustaining cosmic life.",
+    "unescoStatus": "National Cultural Asset",
+    "heroImage": "/images/festivals/chhath_puja_bihar.jpg",
+    "historicalOrigin": {
+      "period": "Vedic Era (Rigvedic Solar Invocations)",
+      "lineage": "One of India's few living Vedic celebrations conducted without priests; completely egalitarian rituals performed directly at natural water bodies.",
+      "deityOrTheme": "Surya (Sun God) and Goddess Usha"
+    },
+    "rituals": [
+      { "day": "Day 1 (Nahay Khay)", "title": "Sacred Purification", "description": "Vratis take a holy dip in the river and prepare a clean meal of bottle gourd (kaddu-bhat) in brass vessels." },
+      { "day": "Day 2 (Kharna)", "title": "36-Hour Nirjala Fast Begins", "description": "Evening ritual of jaggery kheer and roti cooked on earthen chulhas using mango wood." },
+      { "day": "Day 3 (Sandhya Arghya)", "title": "Evening River Oblation", "description": "Vratis stand waist-deep in the river offering soop baskets filled with seasonal produce to the setting sun." },
+      { "day": "Day 4 (Usha Arghya)", "title": "Dawn Greeting & Parana", "description": "Final milk and water oblations offered to the rising sun, followed by breaking of the 36-hour fast." }
+    ],
+    "culinaryOfferings": [
+      { "dishName": "Thekua", "description": "Iconic Prasad made from whole wheat flour, desi ghee, jaggery syrup, and dry coconut pressed onto wooden moulds." },
+      { "dishName": "Rasiya Kheer", "description": "Fragrant raw rice boiled in condensed sugarcane jaggery milk." }
+    ],
+    "artisanalEcosystem": "Empowers village bamboo weavers producing 'Soop' and 'Daura' baskets, and traditional potters making Mitti ka Chulha and oil lamps.",
+    "folkInstruments": ["Traditional Dhol", "Bhojpuri & Maithili Chhathi Geet"]
+  },
+  {
+    "id": "fest-onam-kerala",
+    "slug": "onam-kerala",
+    "name": "Onam of Kerala",
+    "nativeName": "ഓണം",
+    "state": "Kerala",
+    "region": "South",
+    "monthHindi": "Chingam (August – September)",
+    "significance": "Celebration of the harvest and welcoming the legendary golden-age reign of Asura King Mahabali.",
+    "unescoStatus": "National Cultural Asset",
+    "heroImage": "/images/festivals/onam_kerala.jpg",
+    "historicalOrigin": {
+      "period": "Sangam Era (Documented in Madurai Kanji)",
+      "lineage": "Commemorates the mythological visit of King Mahabali and Vamana avatar, celebrating universal equality and abundance.",
+      "deityOrTheme": "King Mahabali & Lord Vamana"
+    },
+    "rituals": [
+      { "day": "Atham to Thiruvonam", "title": "Pookkalam Design", "description": "Expanding floral concentric carpets assembled outside homes every morning for 10 days." },
+      { "day": "Uthradam", "title": "First Onam Preparations", "description": "Harvest collections and purchasing of traditional Kasavu mundu attire." },
+      { "day": "Thiruvonam", "title": "Thrikkakara Appan Rites & Feast", "description": "Clay pyramid installation representing Vamana, followed by community Onasadya." },
+      { "day": "Aranmula Vallamkali", "title": "Sacred Snake Boat Regatta", "description": "Dozens of ornate Chundan Vallam rowed in unison to Vanchipattu boat songs." }
+    ],
+    "culinaryOfferings": [
+      { "dishName": "Onasadya (26-Course Feast)", "description": "Served strictly on fresh plantain leaves: includes Avial, Thoran, Olan, Kalan, Inji Puli, and Ada Pradhaman." },
+      { "dishName": "Palada Payasam", "description": "Slow-reduced milk dessert cooked with steamed rice flakes and cardamoms." }
+    ],
+    "artisanalEcosystem": "Supports the master boatbuilders of Aranmula, Balaramapuram Kasavu handloom weavers, and Kathakali makeup costumers.",
+    "folkInstruments": ["Chenda", "Maddalam", "Ilathalam", "Kuzhal"]
+  },
+  {
+    "id": "fest-baisakhi-punjab",
+    "slug": "baisakhi-lohri",
+    "name": "Baisakhi & Lohri of Punjab",
+    "nativeName": "ਵੈਸਾਖੀ ਤੇ ਲੋਹੜੀ",
+    "state": "Punjab",
+    "region": "North",
+    "monthHindi": "Vaisakh (Mid-April) & Magh (January)",
+    "significance": "Dual agrarian celebration of the winter rabi crop harvest and solar new year, intertwined with the founding of the Khalsa Panth in 1699.",
+    "unescoStatus": "National Cultural Asset",
+    "heroImage": "/images/festivals/baisakhi_punjab.jpg",
+    "historicalOrigin": {
+      "period": "1699 CE (Khalsa Panth Formation)",
+      "lineage": "Guru Gobind Singh created the Khalsa brotherhood at Anandpur Sahib; farmers celebrate golden wheat harvests across the five rivers.",
+      "deityOrTheme": "Guru Gobind Singh & Solar Harvest Deities"
+    },
+    "rituals": [
+      { "day": "Lohri Night", "title": "Bonfire & Til-Chowk", "description": "Community bonfires with offerings of sesame seeds, gur, and roasted corn singing Sunder Mundriye." },
+      { "day": "Baisakhi Dawn", "title": "Amrit Vela & Sarovar Snan", "description": "Holy dip at the sacred sarovar of Sri Harmandir Sahib followed by Nagar Kirtan processions." },
+      { "day": "Afternoon", "title": "Bhangra & Giddha Melas", "description": "Energetic folk dances in agricultural open fields celebrating the abundance of rabi harvest." }
+    ],
+    "culinaryOfferings": [
+      { "dishName": "Makki di Roti & Sarson da Saag", "description": "Slow-simmered mustard greens with hand-patted cornmeal flatbreads and fresh white butter." },
+      { "dishName": "Kheer & Pinni", "description": "Sugarcane juice rice pudding and roasted wheat-ghee sweet laddoos." }
+    ],
+    "artisanalEcosystem": "Supports Phulkari embroiderers of Patiala, wooden Dhol drum carvers, and Punjabi Jutti leather shoemakers.",
+    "folkInstruments": ["Dhol", "Tumbi", "Chimta", "Algoza"]
+  },
+  {
+    "id": "fest-pongal-tamilnadu",
+    "slug": "pongal-jallikattu",
+    "name": "Pongal & Jallikattu of Tamil Nadu",
+    "nativeName": "தமிழர் திருநாள் பொங்கல்",
+    "state": "Tamil Nadu",
+    "region": "South",
+    "monthHindi": "Thai (Mid-January)",
+    "significance": "Four-day agrarian thanksgiving festival honoring Surya (the Sun God) and cattle with sweet rice preparations and traditional valour sports.",
+    "unescoStatus": "National Cultural Asset",
+    "heroImage": "/images/festivals/pongal_tamilnadu.jpg",
+    "historicalOrigin": {
+      "period": "Sangam Era (c. 300 BCE–300 CE as Thai Niradal)",
+      "lineage": "Celebrates the sun's northward transition into Capricorn (Makara Sankranti), marking the dawn of harvest prosperity.",
+      "deityOrTheme": "Surya Bhagavan & Kamadhenu (Cattle)"
+    },
+    "rituals": [
+      { "day": "Bhogi Pongal", "title": "Cleansing & Renewal", "description": "Old belongings are consigned to morning bonfires symbolizing spiritual renewal and cleanliness." },
+      { "day": "Surya Pongal", "title": "The Overflowing Pot", "description": "Boiling fresh milk and newly harvested rice with jaggery in terracotta pots tied with turmeric leaves." },
+      { "day": "Mattu Pongal", "title": "Cattle Thanksgiving & Jallikattu", "description": "Decorating cattle horns with garlands and celebrating bull-embracing valour sports in Alanganallur." },
+      { "day": "Kaanum Pongal", "title": "Family Gatherings", "description": "Reuniting with relatives, sharing sugarcane, and enjoying village folk performances." }
+    ],
+    "culinaryOfferings": [
+      { "dishName": "Sakkarai Pongal", "description": "Sweet rice cooked in milk with jaggery, pure ghee, roasted cashew nuts, and cardamom." },
+      { "dishName": "Ven Pongal & Medu Vadai", "description": "Cumin-pepper ghee rice served with crispy black gram lentil fritters and coconut chutney." }
+    ],
+    "artisanalEcosystem": "Supports terracotta potters of Madurai, sugarcane cultivators, and bull breeding pastoralists.",
+    "folkInstruments": ["Nadaswaram", "Thavil", "Parai", "Urumi"]
+  },
+  {
+    "id": "fest-ratha-yatra-odisha",
+    "slug": "puri-ratha-yatra",
+    "name": "Ratha Yatra of Puri",
+    "nativeName": "ରଥଯାତ୍ରା",
+    "state": "Odisha",
+    "region": "East",
+    "monthHindi": "Ashadha (June – July)",
+    "significance": "World's oldest chariot procession where Lord Jagannath, Balabhadra, and Subhadra emerge onto Grand Road for all humanity.",
+    "unescoStatus": "National Cultural Asset",
+    "heroImage": "/images/festivals/ratha_yatra_odisha.jpg",
+    "historicalOrigin": {
+      "period": "12th Century CE (Ganga Dynasty Patronage)",
+      "lineage": "Reenacts Lord Krishna's journey to Kurukshetra and the divine siblings' 9-day sojourn to Gundicha Temple.",
+      "deityOrTheme": "Lord Jagannath, Balabhadra & Devi Subhadra"
+    },
+    "rituals": [
+      { "day": "Snana Purnima", "title": "The 108-Pitcher Bath", "description": "Deities bathed with 108 pots of herbal water, entering a 14-day convalescence isolation." },
+      { "day": "Gundicha Yatra", "title": "Pulling the Sacred Chariots", "description": "Millions pull Nandighosha, Taladhwaja, and Darpadalana along Bada Danda to Gundicha temple." },
+      { "day": "Bahuda Yatra", "title": "Return Journey & Suna Besha", "description": "Deities return adorned in pure gold armor upon their mammoth wooden chariots." }
+    ],
+    "culinaryOfferings": [
+      { "dishName": "Chhena Poda", "description": "Baked cottage cheese dessert caramelised with cardamom, ghee, and jaggery in sal leaves." },
+      { "dishName": "Mahaprasad Khaja", "description": "Layered crisp wheat pastry fried in desi ghee and glazed with raw sugar syrup." }
+    ],
+    "artisanalEcosystem": "Employs hereditary Maharana carpenters, Chitrakara Pattachitra painters, and Applique artists of Pipli.",
+    "folkInstruments": ["Mardala", "Kahali", "Ghanta", "Pakhawaj"]
+  },
+  {
+    "id": "fest-ganesh-maharashtra",
+    "slug": "ganesh-chaturthi",
+    "name": "Ganesh Chaturthi of Maharashtra",
+    "nativeName": "गणेशोत्सव",
+    "state": "Maharashtra",
+    "region": "West",
+    "monthHindi": "Bhadrapada (August – September)",
+    "significance": "Ten-day public celebration transformed by Lokmanya Tilak in 1893 into a mass anti-colonial cultural movement.",
+    "unescoStatus": "National Cultural Asset",
+    "heroImage": "/images/festivals/ganesh_chaturthi_maharashtra.jpg",
+    "historicalOrigin": {
+      "period": "Revived in 1893 by Lokmanya Tilak",
+      "lineage": "Rooted in Maratha royal devotion under Shivaji Maharaj and the Peshwas, formalized into community sarvajanik mandals.",
+      "deityOrTheme": "Lord Ganesha (Vighnaharta)"
+    },
+    "rituals": [
+      { "day": "Day 1 (Pratishthapana)", "title": "Prana Pratishtha & Shodashopachara", "description": "Ritual consecration of clay idols in homes and public sarvajanik pandals." },
+      { "day": "Days 2–9", "title": "Aarti & Dhol-Tasha Recitals", "description": "Rhythmic percussion performances by pathaks and distribution of prasad." },
+      { "day": "Day 10 (Anant Chaturdashi)", "title": "Visarjan Miravnuk", "description": "Grand processions through city streets singing Ganpati Bappa Morya before immersion in water." }
+    ],
+    "culinaryOfferings": [
+      { "dishName": "Ukadiche Modak", "description": "Steamed rice flour dumplings stuffed with freshly grated coconut, jaggery, nutmeg, and cardamom." },
+      { "dishName": "Puran Poli & Katachi Amti", "description": "Sweet lentil-stuffed flatbreads paired with tangy chana dal broth." }
+    ],
+    "artisanalEcosystem": "Sustains Pen shadu clay sculptors, Dhol drum makers of Pune, and bamboo pavilion constructors.",
+    "folkInstruments": ["Dhol", "Tasha", "Zanj", "Lezim"]
+  },
+  {
+    "id": "fest-bihu-assam",
+    "slug": "rongali-bihu",
+    "name": "Rongali Bihu of Assam",
+    "nativeName": "ৰঙালী বিহু",
+    "state": "Assam",
+    "region": "Northeast",
+    "monthHindi": "Bohag (Mid-April)",
+    "significance": "Assamese spring festival marking the New Year, sowing of paddy seeds, and rejuvenation of nature.",
+    "unescoStatus": "National Cultural Asset",
+    "heroImage": "/images/festivals/rongali_bihu_assam.jpg",
+    "historicalOrigin": {
+      "period": "13th Century Ahom Dynasty Royal Patronage",
+      "lineage": "Rooted in Austroasiatic and Tibeto-Burman agrarian calendars, formalized into courtly performances by King Rudra Singha.",
+      "deityOrTheme": "Nature, Brahmaputra & Fertility Deities"
+    },
+    "rituals": [
+      { "day": "Goru Bihu", "title": "Cattle Bathing & Veneration", "description": "Livestock bathed in rivers with turmeric paste and fed raw bottle gourd and brinjals." },
+      { "day": "Manuh Bihu", "title": "Ancestral Respect & Gamosa", "description": "Offering woven red-and-white cotton Gamosas to elders and seeking blessings." },
+      { "day": "Gosai Bihu", "title": "Namghar Invocations", "description": "Community congregational prayers and singing of Borgeet in village prayer halls." }
+    ],
+    "culinaryOfferings": [
+      { "dishName": "Til Pitha & Ghila Pitha", "description": "Sticky bora rice rolls stuffed with roasted black sesame seeds and molten jaggery." },
+      { "dishName": "Laru & Jolpan", "description": "Coconut and puffed rice breakfast bowls served with thick buffalo milk curd." }
+    ],
+    "artisanalEcosystem": "Sustains Muga and Eri silk handloom weavers of Sualkuchi, buffalo horn carvers, and cane weavers.",
+    "folkInstruments": ["Pepa", "Dhol", "Gogona", "Toka"]
+  },
+  {
+    "id": "fest-hornbill-nagaland",
+    "slug": "hornbill-festival",
+    "name": "Hornbill Festival of Nagaland",
+    "nativeName": "Hornbill Festival",
+    "state": "Nagaland",
+    "region": "Northeast",
+    "monthHindi": "December (First 10 Days)",
+    "significance": "The 'Festival of Festivals' uniting 17 Naga indigenous tribes through morung tribal architecture, warrior songs, and ancestral craft lineages.",
+    "unescoStatus": "National Cultural Asset",
+    "heroImage": "/images/festivals/hornbill_nagaland.jpg",
+    "historicalOrigin": {
+      "period": "Ancient Indigenous Tribal Lore (Unified state festival since 2000)",
+      "lineage": "Named after the Indian Hornbill bird, celebrated across folk songs, woodcarvings, and ceremonial feathered headgear.",
+      "deityOrTheme": "Naga Ancestral Guardians & Unity"
+    },
+    "rituals": [
+      { "day": "Opening Day", "title": "Grand Morung Procession", "description": "17 tribal contingents dressed in ancestral warrior attire march into the Kisama amphitheatre." },
+      { "day": "Daily Exhibitions", "title": "Traditional Naga Sports & War Cries", "description": "Indigenous archery, grease-pole climbing, and synchronized warrior victory chants." },
+      { "day": "Evening", "title": "Hornbill Concert & Bonfire", "description": "Folk fusion music, fireside storytelling, and tribal unity dances around the communal fire." }
+    ],
+    "culinaryOfferings": [
+      { "dishName": "Smoked Pork with Axone & Bamboo Shoot", "description": "Wood-smoked pork braised with fermented soybean paste and tender fermented bamboo shoots." },
+      { "dishName": "Galho", "description": "Nutritious slow-cooked rice and wild greens broth spiced with Raja Mircha." }
+    ],
+    "artisanalEcosystem": "Empowers tribal backstrap-loom weavers, Naga spear-blacksmiths, and woodcarvers of Mon and Kohima.",
+    "folkInstruments": ["Log Drum", "Tatrü", "Tati", "Bamboo Mouth Flute"]
+  },
+  {
+    "id": "fest-hemis-ladakh",
+    "slug": "hemis-festival",
+    "name": "Hemis Monastery Festival of Ladakh",
+    "nativeName": "ཧེ་མིས་ཚེས་བཅུ།",
+    "state": "Ladakh",
+    "region": "North",
+    "monthHindi": "5th Lunar Month (June – July)",
+    "significance": "Sacred Mahayana Buddhist tantric monastic festival commemorating the birth of Guru Padmasambhava with elaborate masked Cham dances.",
+    "unescoStatus": "National Cultural Asset",
+    "heroImage": "/images/festivals/hemis_ladakh.jpg",
+    "historicalOrigin": {
+      "period": "1630 CE (Re-established under King Sengge Namgyal)",
+      "lineage": "Commemorates Guru Padmasambhava's 8th-century victory over malevolent spirits and the transmission of Vajrayana Buddhism.",
+      "deityOrTheme": "Guru Padmasambhava (Guru Rinpoche)"
+    },
+    "rituals": [
+      { "day": "Dawn", "title": "Thangka Unfurling", "description": "Solemn unveiling of the multi-story sacred silk applique thangka in the monastery courtyard." },
+      { "day": "Midday", "title": "Cham Masked Dances", "description": "Monks in elaborate silk robes and terrifying deity masks perform ritual dances to ward off evil." },
+      { "day": "Afternoon", "title": "Sacred Fire Offering & Blessings", "description": "Destruction of the effigy of evil forces (Dough Linga) and distribution of consecrated barley." }
+    ],
+    "culinaryOfferings": [
+      { "dishName": "Butter Tea (Gur Gur Chai)", "description": "Churned black tea with yak butter and rock salt, nourishing in high-altitude mountain winds." },
+      { "dishName": "Tsampa & Tingmo", "description": "Roasted barley flour kneaded with butter tea, served with steamed flower-shaped yeast bread." }
+    ],
+    "artisanalEcosystem": "Supports Ladakhi Thangka scroll painters, woodblock carvers, and brass prayer wheel metalworkers.",
+    "folkInstruments": ["Dungchen (Long Horn)", "Gyaling", "Damaru", "Rolmo Cymbals"]
+  },
+  {
+    "id": "fest-pushkar-rajasthan",
+    "slug": "pushkar-camel-fair",
+    "name": "Pushkar Camel Fair & Desert Festival",
+    "nativeName": "पुष्कर मेला",
+    "state": "Rajasthan",
+    "region": "West",
+    "monthHindi": "Kartik Purnima (October – November)",
+    "significance": "World's largest livestock gathering on Thar dunes, combined with holy Kartik Purnima full-moon dips in sacred Lake Pushkar.",
+    "unescoStatus": "National Cultural Asset",
+    "heroImage": "/images/festivals/pushkar_rajasthan.jpg",
+    "historicalOrigin": {
+      "period": "Padma Purana Antiquity / Documented since 14th Century",
+      "lineage": "According to Hindu lore, Lord Brahma dropped a blue lotus to earth to slay a demon, forming the holy lake where 330 million devas gather.",
+      "deityOrTheme": "Lord Brahma & Savitri Devi"
+    },
+    "rituals": [
+      { "day": "Kartik Ekadashi", "title": "Holy Lake Maha Snan", "description": "Pilgrims take purifying holy dips in the 52 ghats of sacred Pushkar Lake under moonlight." },
+      { "day": "Days 2–5", "title": "Camel Trading & Competitions", "description": "Shearing, decorating, and racing over 50,000 camels across the desert sand dunes." },
+      { "day": "Kartik Purnima", "title": "Maha Aarti at Brahma Temple", "description": "Lamps floated onto the lake waters (Deepdan) and grand evening fire dances by Kalbelia bards." }
+    ],
+    "culinaryOfferings": [
+      { "dishName": "Pushkar Rabdi Malpua", "description": "Tender, ghee-fried semolina pancakes dipped in saffron sugar syrup and topped with clotted malai rabdi." },
+      { "dishName": "Desert Dal Baati Churma", "description": "Clay-roasted wheat dough balls crushed with cow ghee, served with spicy 5-lentil dal and churma." }
+    ],
+    "artisanalEcosystem": "Supports Raika and Rabari camel breeders, leather saddle craftsmen, tribal silver smiths, and block printers.",
+    "folkInstruments": ["Kamaicha", "Ravanahatha", "Morchang", "Khartal", "Dholak"]
+  }
+]

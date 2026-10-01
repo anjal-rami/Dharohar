@@ -1,0 +1,680 @@
+[
+  {
+    "id": "kerala-sadya-feast",
+    "slug": "kerala-sadya-feast",
+    "title": "Traditional Kerala Sadya",
+    "name": "Traditional Kerala Sadya",
+    "dishName": "Traditional Kerala Sadya",
+    "category": "Food Traditions",
+    "region": "Kerala",
+    "state": "Kerala",
+    "imageUrl": "/images/culinary/sadya_feast.jpg",
+    "heroImage": "/images/culinary/sadya_feast.jpg",
+    "tags": [
+      "Vegetarian Feast",
+      "Banana Leaf",
+      "Onam",
+      "Ayurvedic Balance",
+      "Slow Cooking"
+    ],
+    "shortDescription": "A multi-course vegetarian banquet served on fresh plantain leaves, balancing the six Ayurvedic tastes.",
+    "fullDescription": "The quintessential ritual feast of Kerala, Sadya is an elaborate purely vegetarian banquet traditionally served during Onam, Vishu, and temple celebrations. Over 24 distinct preparations—including Parippu with ghee, Avial (root vegetables in coconut yogurt paste), Thoran, Olan, tangy Rasam, and sweet Payasam—are arranged in strict geographical order on a freshly cut plantain leaf, reflecting centuries of Ayurvedic culinary philosophy and seasonal agrarian abundance.",
+    "heritageClassification": "Traditional Community Feast",
+    "cookingTechnique": "24-Course Plantain Leaf Geometry & Coconut Milk Stewing",
+    "historicalGenesis": {
+      "period": "Sangam Era & 9th Century CE",
+      "lineageText": "The quintessential ritual feast of Kerala, Sadya is an elaborate purely vegetarian banquet traditionally served during Onam, Vishu, and temple celebrations.",
+      "culturalContext": "Symbolizes seasonal abundance, equality, and agricultural wealth."
+    },
+    "keyIngredients": [
+      "Kerala Matta Red Rice",
+      "Fresh Coconut & Coconut Oil",
+      "Curry Leaves",
+      "Raw Plantains",
+      "Yam & Ash Gourd",
+      "Jaggery & Cardamom"
+    ]
+  },
+  {
+    "id": "hyderabadi-dum-biryani",
+    "slug": "hyderabadi-dum-biryani",
+    "title": "Hyderabadi Dum Cooking & Biryani",
+    "name": "Hyderabadi Dum Cooking & Biryani",
+    "dishName": "Hyderabadi Dum Cooking & Biryani",
+    "category": "Food Traditions",
+    "region": "Telangana",
+    "state": "Telangana",
+    "imageUrl": "/images/culinary/hyderabadi_cuisine.jpg",
+    "heroImage": "/images/culinary/hyderabadi_cuisine.jpg",
+    "tags": [
+      "Dum Pukht",
+      "Deccani Cuisine",
+      "Nizami Heritage",
+      "Basmati",
+      "Slow Cooking"
+    ],
+    "shortDescription": "Royal Deccani culinary craft perfected through dough-sealed slow-steaming over aromatic embers.",
+    "fullDescription": "Born from the confluence of royal Mughal kitchens and vibrant Deccani cooking during the reign of the Asaf Jahi Nizams, Hyderabadi Dum Biryani relies on the ancient technique of 'Dum Pukht' (slow breathing). Marinated meat layered with partially cooked long-grain basmati rice, saffron-infused milk, and fried onions is sealed inside a heavy vessel (degh) with a ribbon of dough, allowing the ingredients to cook gently in their own trapped juices over gentle charcoal embers.",
+    "heritageClassification": "Centuries-Old Royal Heritage",
+    "cookingTechnique": "Kachchi Yakhni & Hermetic Dough Dum Pukht",
+    "historicalGenesis": {
+      "period": "Early 18th Century (Nizams of Asaf Jahi Dynasty)",
+      "lineageText": "Born from the confluence of royal Mughal kitchens and vibrant Deccani cooking during the reign of the Asaf Jahi Nizams, Hyderabadi Dum Biryani relies on the ancient technique of 'Dum Pukht' (slow breathing).",
+      "culturalContext": "Regal banqueting centerpiece celebrating royal heritage and festive gatherings."
+    },
+    "keyIngredients": [
+      "Aged Long-Grain Basmati Rice",
+      "Tender Marinated Meat",
+      "Saffron in Warm Milk",
+      "Fried Crispy Onions (Birista)",
+      "Potli Masala Spices",
+      "Pure Desi Ghee"
+    ]
+  },
+  {
+    "id": "food-fafda-jalebi-gujarat",
+    "slug": "fafda-jalebi-gujarat",
+    "dishName": "Fafda, Jalebi & Papaya Sambharo",
+    "name": "Fafda, Jalebi & Papaya Sambharo",
+    "title": "Fafda, Jalebi & Papaya Sambharo",
+    "nativeName": "ફાફડા જલેબી અને પપૈયાનો સંભારો",
+    "state": "Gujarat",
+    "region": "West",
+    "heritageClassification": "Traditional Community Feast",
+    "heritageStatus": "Traditional Community Feast",
+    "heroImage": "/images/food/fafda_jalebi_gujarat.jpg",
+    "imageUrl": "/images/food/fafda_jalebi_gujarat.jpg",
+    "cookingTechnique": "Palm-Gliding & Fermented Jalebi Coils",
+    "shortDescription": "Crispy spiced chickpea-flour fafda strips paired with golden saffron jalebis and shredded raw papaya sambharo.",
+    "historicalGenesis": {
+      "period": "Medieval Saurashtra",
+      "lineageText": "Celebrated especially on Dussehra morning across Gujarat. Legend and Ayurvedic culinary traditions maintain that jaggery/sugar syrup sweets consumed after fasting cool the body, while carom-spiced besan aids digestion.",
+      "culturalContext": "Dussehra morning community feast marking the triumph of Dharma over Adharma."
+    },
+    "keyIngredients": [
+      "Gram Flour (Besan)",
+      "Carom Seeds (Ajwain)",
+      "Papad Khar",
+      "Saffron (Kesar)",
+      "Raw Papaya",
+      "Green Chillies"
+    ],
+    "traditionalPreparationMethod": [
+      {
+        "stage": "Palm-Gliding the Fafda",
+        "description": "Dough seasoned with carom seeds and papad khar is dragged along a wooden board using the base of the palm to form uniform thin ribbons."
+      },
+      {
+        "stage": "Deep Crisp Fry",
+        "description": "Quickly released into hot groundnut oil using a broad brass scraper, frying until pale golden and crisp."
+      },
+      {
+        "stage": "Fermented Jalebi Coils",
+        "description": "Maida and yogurt batter fermented overnight, piped in concentric coils into bubbling ghee, and dipped into saffron-infused cardamom syrup."
+      },
+      {
+        "stage": "Raw Papaya Tempering",
+        "description": "Grated raw green papaya flash-sautéed with mustard seeds, turmeric, and slit chillies."
+      }
+    ],
+    "nutritionalAndAyurvedicWisdom": "Ajwain neutralizes the heavy vata of chickpea flour, while the bitter enzymes of raw papaya stimulate bile and digestion.",
+    "culturalServingTradition": "Served hot on newspapers or stainless platters with fried salted green chillies, eaten strictly as a morning breakfast ritual."
+  },
+  {
+    "id": "food-dal-baati-rajasthan",
+    "slug": "dal-baati-rajasthan",
+    "dishName": "Dal Baati Churma of Marwar",
+    "name": "Dal Baati Churma of Marwar",
+    "title": "Dal Baati Churma of Marwar",
+    "nativeName": "दाल बाटी चूरमा",
+    "state": "Rajasthan",
+    "region": "North",
+    "heritageClassification": "Centuries-Old Royal Heritage",
+    "heritageStatus": "Centuries-Old Royal Heritage",
+    "heroImage": "/images/food/dal_baati_rajasthan.jpg",
+    "imageUrl": "/images/food/dal_baati_rajasthan.jpg",
+    "cookingTechnique": "Cow-Dung Ember Pit Baking & Ghee Drenching",
+    "shortDescription": "Hard-baked whole wheat baatis submerged in pure desi cow ghee, served with panchmel dal and crushed cardamom churma.",
+    "historicalGenesis": {
+      "period": "8th Century CE (Bappa Rawal Reign)",
+      "lineageText": "Originated during the founding of Mewar kingdom. Rajput soldiers would bury balls of wheat dough under desert sands before battle; by midday, desert heat had baked them through, ready to be soaked in pure cow ghee.",
+      "culturalContext": "Desert warrior sustenance that later transformed into regal feast cuisine."
+    },
+    "keyIngredients": [
+      "Whole Wheat Flour",
+      "Desi Cow Ghee",
+      "Panchmel Lentils (Toor, Moong, Chana, Urad, Masoor)",
+      "Jaggery / Khand",
+      "Garlic & Dry Mathania Chillies"
+    ],
+    "traditionalPreparationMethod": [
+      {
+        "stage": "Baati Baking",
+        "description": "Dense wheat dough infused with ghee and ajwain baked over smoldering cow dung cakes (Kanda) or charcoal until crusty."
+      },
+      {
+        "stage": "Ghee Submersion",
+        "description": "Freshly cracked hot baatis submerged completely in warm desi cow ghee until thoroughly soaked."
+      },
+      {
+        "stage": "Panchmel Dal Simmer",
+        "description": "Five distinct pulses slow-cooked in earthen pots tempered with asafoetida, dry red chillies, and cumin."
+      },
+      {
+        "stage": "Churma Grinding",
+        "description": "Fried wheat dough balls hand-crushed into fine granules and blended with jaggery, cardamom, and almond slivers."
+      }
+    ],
+    "nutritionalAndAyurvedicWisdom": "Dense caloric nourishment designed to endure arid desert conditions; pure cow ghee provides lubrication to joints and sustains energy.",
+    "culturalServingTradition": "Served in large brass Thalis, where the diner crushes the baati with their fingers before pouring bubbling hot dal and garlic chutney on top."
+  },
+  {
+    "id": "food-makki-sarson-punjab",
+    "slug": "makki-sarson-punjab",
+    "dishName": "Makki di Roti & Sarson da Saag",
+    "name": "Makki di Roti & Sarson da Saag",
+    "title": "Makki di Roti & Sarson da Saag",
+    "nativeName": "ਮੱਕੀ ਦੀ ਰੋਟੀ ਤੇ ਸਰ੍ਹੋਂ ਦਾ ਸਾਗ",
+    "state": "Punjab",
+    "region": "North",
+    "heritageClassification": "Traditional Community Feast",
+    "heritageStatus": "Traditional Community Feast",
+    "heroImage": "/images/food/makki_sarson_punjab.jpg",
+    "imageUrl": "/images/food/makki_sarson_punjab.jpg",
+    "cookingTechnique": "Earthen Handi Slow-Simmer & Desi Ghee Tadka",
+    "shortDescription": "Winter agrarian staple of hand-mashed mustard greens slow-cooked on mud stoves and paired with hand-patted corn rotis.",
+    "historicalGenesis": {
+      "period": "Medieval Agrarian Punjab",
+      "lineageText": "The quintessential winter meal of Punjab's peasantry. Mustard greens growing abundantly in cold wheat fields were harvested and slow-cooked for hours on mud stoves (Chulhas).",
+      "culturalContext": "Celebrates the winter rabi harvest and Lohri festival gatherings."
+    },
+    "keyIngredients": [
+      "Fresh Mustard Leaves (Sarson)",
+      "Bathua & Spinach Leaves",
+      "Maize Flour (Makki Atta)",
+      "White Homemade Butter (Makhan)",
+      "Ginger & Garlic",
+      "Sugarcane Jaggery (Gud)"
+    ],
+    "traditionalPreparationMethod": [
+      {
+        "stage": "Earthen Pot Simmering",
+        "description": "Finely chopped greens slow-simmered for several hours in an earthenware handi with ginger, green chillies, and salt."
+      },
+      {
+        "stage": "Ghotna Mashing",
+        "description": "Vigorously beaten using a wooden masher (Mathani) while incorporating maize flour to achieve a silky consistency."
+      },
+      {
+        "stage": "Desi Ghee Tadka",
+        "description": "Tempered with generous amounts of browned garlic, sliced onions, and fresh ginger juliennes."
+      },
+      {
+        "stage": "Hand-Patted Rotis",
+        "description": "Gluten-free yellow cornmeal hand-patted between moist palms and cooked on heavy cast-iron tawas."
+      }
+    ],
+    "nutritionalAndAyurvedicWisdom": "Rich in iron, dietary fiber, and glucosinolates; wholesome maize and pure white butter sustain body warmth during harsh winters.",
+    "culturalServingTradition": "Served smoking hot with a slab of freshly churned white butter melting over the greens, accompanied by a chunk of raw jaggery and pickled radish."
+  },
+  {
+    "id": "food-onasadya-kerala",
+    "slug": "onasadya-kerala",
+    "dishName": "Traditional Onasadya Grand Feast",
+    "name": "Traditional Onasadya Grand Feast",
+    "title": "Traditional Onasadya Grand Feast",
+    "nativeName": "ഓണസദ്യ",
+    "state": "Kerala",
+    "region": "South",
+    "heritageClassification": "Traditional Community Feast",
+    "heritageStatus": "Traditional Community Feast",
+    "heroImage": "/images/food/onasadya_kerala.jpg",
+    "imageUrl": "/images/food/onasadya_kerala.jpg",
+    "cookingTechnique": "26-Course Plantain Leaf Geometry & Coconut Milk Stewing",
+    "shortDescription": "Elaborate 26-course harvest vegetarian banquet served on banana leaves in a codified mathematical order for King Mahabali.",
+    "historicalGenesis": {
+      "period": "Sangam Era & 9th Century CE",
+      "lineageText": "The supreme culinary expression of Kerala culture. A strictly vegetarian 26-course banquet cooked to welcome the golden-age egalitarian King Mahabali during Onam.",
+      "culturalContext": "Symbolizes seasonal abundance, equality, and agricultural wealth."
+    },
+    "keyIngredients": [
+      "Kerala Matta Red Rice",
+      "Fresh Coconut & Coconut Oil",
+      "Curry Leaves",
+      "Raw Plantains",
+      "Yam & Ash Gourd",
+      "Jaggery & Cardamom"
+    ],
+    "traditionalPreparationMethod": [
+      {
+        "stage": "Plantain Leaf Geometry",
+        "description": "Tapering leaf end points to the diner's left; dishes arranged in a strict codified mathematical sequence."
+      },
+      {
+        "stage": "Avial & Olan Preparation",
+        "description": "Garden vegetables gently stewed in coconut milk, seasoned with raw cold-pressed coconut oil and fresh curry leaves."
+      },
+      {
+        "stage": "Parippu & Ghee First Course",
+        "description": "Yellow dal and hot melted cow ghee ladled over steamed red matta rice."
+      },
+      {
+        "stage": "Sweet Payasam Finale",
+        "description": "Rich Ada Pradhaman cooked with steamed rice ribbons, condensed coconut cream, and dark palm jaggery."
+      }
+    ],
+    "nutritionalAndAyurvedicWisdom": "Incorporate all six fundamental tastes (Shadrasa): Sweet, Sour, Salty, Bitter, Pungent, and Astringent for holistic digestion.",
+    "culturalServingTradition": "Eaten strictly seated cross-legged on the floor, using only the right hand, honoring every course sequentially."
+  },
+  {
+    "id": "food-litti-chokha-bihar",
+    "slug": "litti-chokha-bihar",
+    "dishName": "Litti Chokha of Magadh & Mithila",
+    "name": "Litti Chokha of Magadh & Mithila",
+    "title": "Litti Chokha of Magadh & Mithila",
+    "nativeName": "लिट्टी चोखा",
+    "state": "Bihar",
+    "region": "East",
+    "heritageClassification": "Traditional Community Feast",
+    "heritageStatus": "Traditional Community Feast",
+    "heroImage": "/images/food/litti_chokha_bihar.jpg",
+    "imageUrl": "/images/food/litti_chokha_bihar.jpg",
+    "cookingTechnique": "Cow-Dung Goitha Smoke Baking & Mustard Oil Chokha Mash",
+    "shortDescription": "Ancient Magadhan roasted gram sattu dumplings baked on cow-dung embers, submerged in cow ghee and paired with charred brinjal chokha.",
+    "historicalGenesis": {
+      "period": "Ancient Magadha Empire & 1857 Uprising",
+      "lineageText": "Sustained the armies of Chandragupta Maurya and later the freedom fighters of the 1857 rebellion. Because roasted gram flour (sattu) does not spoil, litti required minimal water and utensils.",
+      "culturalContext": "Humble rural delicacy representing the resilience of the Gangetic plains."
+    },
+    "keyIngredients": [
+      "Roasted Gram Flour (Sattu)",
+      "Whole Wheat",
+      "Mustard Oil",
+      "Panchphoron / Nigella (Kalonji)",
+      "Charred Brinjal & Tomatoes",
+      "Garlic & Green Chillies"
+    ],
+    "traditionalPreparationMethod": [
+      {
+        "stage": "Spiced Sattu Stuffing",
+        "description": "Roasted gram flour blended with pungent raw mustard oil, crushed garlic, lemon juice, and red chilli pickle brine."
+      },
+      {
+        "stage": "Wheat Dough Pouching",
+        "description": "Stuffed inside whole-wheat dough rounds and sealed into smooth round dumplings."
+      },
+      {
+        "stage": "Cow Dung Smoke Baking",
+        "description": "Slowly roasted over smoldering cow-dung embers (Goitha) until the shell chars and cracks."
+      },
+      {
+        "stage": "Brinjal Chokha Mash",
+        "description": "Fire-roasted eggplants and tomatoes mashed with raw pungent mustard oil, garlic, and chopped onions."
+      }
+    ],
+    "nutritionalAndAyurvedicWisdom": "Sattu is a natural coolant and high-protein superfood that maintains sustained energy and stabilizes blood sugar.",
+    "culturalServingTradition": "Hot littis are crushed by hand and drowned in hot desi cow ghee before being served with smoky chokha and coriander-mint chutney."
+  },
+  {
+    "id": "food-biryani-hyderabad",
+    "slug": "biryani-hyderabad",
+    "dishName": "Hyderabadi Dum Biryani",
+    "name": "Hyderabadi Dum Biryani",
+    "title": "Hyderabadi Dum Biryani",
+    "nativeName": "حیدرآبادی بریانی",
+    "state": "Telangana",
+    "region": "South",
+    "heritageClassification": "Centuries-Old Royal Heritage",
+    "heritageStatus": "Centuries-Old Royal Heritage",
+    "heroImage": "/images/food/biryani_hyderabad.jpg",
+    "imageUrl": "/images/food/biryani_hyderabad.jpg",
+    "cookingTechnique": "Kachchi Yakhni & Hermetic Dough Dum Pukht",
+    "shortDescription": "Regal Nizam court dish cooking raw marinated meat and saffron parboiled basmati rice sealed together in a copper handi over slow embers.",
+    "historicalGenesis": {
+      "period": "Early 18th Century (Nizams of Asaf Jahi Dynasty)",
+      "lineageText": "Born from the confluence of royal Mughal culinary traditions and robust Telugu-Deccani spice cultivars inside the royal kitchens of the First Nizam, Mir Qamar-ud-din Khan.",
+      "culturalContext": "Regal banqueting centerpiece celebrating royal heritage and festive gatherings."
+    },
+    "keyIngredients": [
+      "Aged Long-Grain Basmati Rice",
+      "Tender Marinated Meat",
+      "Saffron in Warm Milk",
+      "Fried Crispy Onions (Birista)",
+      "Potli Masala Spices",
+      "Pure Desi Ghee"
+    ],
+    "traditionalPreparationMethod": [
+      {
+        "stage": "Kachchi Yakhni Marinating",
+        "description": "Raw tender meat marinated for hours in raw papaya paste, yogurt, ginger-garlic, mint, and exotic Deccani spices."
+      },
+      {
+        "stage": "Parboiled Rice Layering",
+        "description": "Basmati rice boiled with whole spices to precisely 70% doneness, layered over the marinated raw meat."
+      },
+      {
+        "stage": "Dough Seal (Dum)",
+        "description": "Heavy copper handi sealed hermetically with a rolled wheat-flour dough ribbon to trap internal steam."
+      },
+      {
+        "stage": "Gentle Charcoal Cooking",
+        "description": "Slow-cooked over live charcoal embers (dum pukht), allowing meat juices to steam and perfume every grain."
+      }
+    ],
+    "nutritionalAndAyurvedicWisdom": "Digestive spices like star anise, black cardamom, and mace enhance digestive agni and soothe the stomach.",
+    "culturalServingTradition": "Presented in broad platters garnished with golden onions and hard-boiled eggs, accompanied by Mirchi ka Salan and Dahi ki Chutney."
+  },
+  {
+    "id": "food-rosogolla-bengal",
+    "slug": "rosogolla-bengal",
+    "dishName": "Banglar Rosogolla & Mishti Doi",
+    "name": "Banglar Rosogolla & Mishti Doi",
+    "title": "Banglar Rosogolla & Mishti Doi",
+    "nativeName": "বাংলার রসগোল্লা ও মিষ্টি দই",
+    "state": "West Bengal",
+    "region": "East",
+    "heritageClassification": "GI Tag Certified",
+    "heritageStatus": "GI Tag Certified",
+    "heroImage": "/images/food/rosogolla_bengal.jpg",
+    "imageUrl": "/images/food/rosogolla_bengal.jpg",
+    "cookingTechnique": "Chhena Hand-Kneading & Sugar Syrup Bubble Boiling",
+    "shortDescription": "GI-certified sponge confection perfected by Nobin Chandra Das, paired with terracotta-pot fermented caramelized Mishti Doi.",
+    "historicalGenesis": {
+      "period": "1868 CE (Nobin Chandra Das)",
+      "lineageText": "Confectioner Nobin Chandra Das in Bagbazar, Kolkata perfected the technique of kneading fresh cottage cheese (chhena) into uniform round balls and boiling them in bubbling light sugar syrup.",
+      "culturalContext": "Icon of Bengali cultural hospitality, celebration, and Bijoya Dashami rituals."
+    },
+    "keyIngredients": [
+      "Cow Milk Curd (Chhena)",
+      "Semolina (Minimal Pinch)",
+      "Sugar Syrup",
+      "Green Cardamom",
+      "Caramelized Reduced Milk (for Doi)"
+    ],
+    "traditionalPreparationMethod": [
+      {
+        "stage": "Precision Chhena Kneading",
+        "description": "Fresh cow-milk curd drained and rhythmically kneaded with the palm until absolutely silky without releasing excess fat."
+      },
+      {
+        "stage": "Syrup Bubble Boiling",
+        "description": "Spongy spheres rolled without surface cracks and dropped into boiling clarified sugar syrup."
+      },
+      {
+        "stage": "Sponginess Lock",
+        "description": "Boiled under tight lids until spheres swell to twice their volume and absorb sweet syrup."
+      },
+      {
+        "stage": "Clay Pot Mishti Doi Fermentation",
+        "description": "Caramelized thick milk inoculated with live culture and set inside porous unglazed earthen pots."
+      }
+    ],
+    "nutritionalAndAyurvedicWisdom": "Pure cow-milk chhena provides bioavailable protein and calcium; porous earthenware wicks away whey, concentrating natural probiotics in Mishti Doi.",
+    "culturalServingTradition": "Served lukewarm or chilled in terracotta bowls; etiquette dictates squeezing the syrup gently with a spoon before biting into the airy sponge."
+  },
+  {
+    "id": "food-idli-coffee-tamilnadu",
+    "slug": "idli-coffee-tamilnadu",
+    "dishName": "Kanchipuram Idli, Sambar & Filter Coffee",
+    "name": "Kanchipuram Idli, Sambar & Filter Coffee",
+    "title": "Kanchipuram Idli, Sambar & Filter Coffee",
+    "nativeName": "இட்லி, சாம்பார் மற்றும் பில்டர் காபி",
+    "state": "Tamil Nadu",
+    "region": "South",
+    "heritageClassification": "Traditional Community Feast",
+    "heritageStatus": "Traditional Community Feast",
+    "heroImage": "/images/food/idli_coffee_tamilnadu.jpg",
+    "imageUrl": "/images/food/idli_coffee_tamilnadu.jpg",
+    "cookingTechnique": "Wet-Stone Grinding, Wild Fermentation & Live Steaming",
+    "shortDescription": "Ancient fermented steamed rice cakes traced to 7th century texts, served with drumstick sambar and arm-frothed filter coffee.",
+    "historicalGenesis": {
+      "period": "7th Century CE (Mentioned in Vaddaradhane)",
+      "lineageText": "Early fermented steamed rice cakes described in ancient Tamil and Kannada texts. Temple variations such as the Kanchipuram Varadharaja Perumal temple idli were steamed in dried Mandharai leaf baskets.",
+      "culturalContext": "The bedrock of Tamil morning domestic life and temple prasadam traditions."
+    },
+    "keyIngredients": [
+      "Parboiled Rice (Idli Rice)",
+      "Whole Dehusked Urad Dal",
+      "Fenugreek Seeds (Methi)",
+      "Tuvar Dal & Drumsticks",
+      "Dark Roasted Arabica-Robusta Coffee with Chicory"
+    ],
+    "traditionalPreparationMethod": [
+      {
+        "stage": "Wet-Stone Grinding",
+        "description": "Soaked lentils aerated in heavy stone wet grinders until foaming and fluffy."
+      },
+      {
+        "stage": "Natural Wild Fermentation",
+        "description": "Batter naturally fermented for 12 hours in warm ambient tropical conditions until doubled in volume."
+      },
+      {
+        "stage": "Live Steam Cooking",
+        "description": "Ladle-poured into muslin-lined brass or stainless plates, steamed under pressure for 10 minutes."
+      },
+      {
+        "stage": "Davarah-Tumbler Pour",
+        "description": "Fresh chicory-coffee decoction blended with boiled cow milk and frothed through high arm-length pours."
+      }
+    ],
+    "nutritionalAndAyurvedicWisdom": "Fermentation unlocks essential amino acids, generates vitamin B12, and ensures rapid gut-friendly digestibility.",
+    "culturalServingTradition": "Served on moist plantain leaves with coconut chutney, tomato chutney, gunpowder podi with gingelly oil, and hot vegetable drumstick sambar."
+  },
+  {
+    "id": "food-wazwan-kashmir",
+    "slug": "wazwan-kashmir",
+    "dishName": "Kashmiri Wazwan & Saffron Kahwa",
+    "name": "Kashmiri Wazwan & Saffron Kahwa",
+    "title": "Kashmiri Wazwan & Saffron Kahwa",
+    "nativeName": "کٲشُر وَزوان",
+    "state": "Jammu & Kashmir",
+    "region": "North",
+    "heritageClassification": "Centuries-Old Royal Heritage",
+    "heritageStatus": "Centuries-Old Royal Heritage",
+    "heroImage": "/images/food/wazwan_kashmir.jpg",
+    "imageUrl": "/images/food/wazwan_kashmir.jpg",
+    "cookingTechnique": "Walnut-Mallet Stone Pounding & Copper Samovar Infusion",
+    "shortDescription": "36-course royal Kashmiri banqueting tradition crafted by master Wazas, accompanied by saffron-infused brass samovar Kahwa.",
+    "historicalGenesis": {
+      "period": "14th Century CE (Reign of Timur & Sultan Zain-ul-Abidin)",
+      "lineageText": "Brought by master weavers, calligraphers, and master chefs (Wazas) migrating from Samarkand to Kashmir valley. Elevated to an art form of 36 distinct culinary courses.",
+      "culturalContext": "Grand ceremonial wedding banqueting tradition celebrating Kashmiri hospitality."
+    },
+    "keyIngredients": [
+      "Tender Mutton",
+      "Kashmiri Dried Red Chillies (Wundir)",
+      "Maval (Cockscomb Flower Extract)",
+      "Fennel Powder (Saunf)",
+      "Dry Ginger (Sonth)",
+      "Pampore Saffron"
+    ],
+    "traditionalPreparationMethod": [
+      {
+        "stage": "Stone Mortar Pounding",
+        "description": "Fresh meat rhythmically hand-pounded using walnut-wood mallets on smooth stone slabs until transformed into a silky paste."
+      },
+      {
+        "stage": "Gushtaba & Rista Poaching",
+        "description": "Velvety mutton meatballs simmered gently in rich spiced curd gravy (Gushtaba) and crimson chilli broth (Rista)."
+      },
+      {
+        "stage": "Rogan Josh Braise",
+        "description": "Meat slow-cooked with browned shallot paste (Pran), fennel, and vivid maval flower natural dye."
+      },
+      {
+        "stage": "Samovar Brewed Kahwa",
+        "description": "Green tea leaves infused with saffron stigmas, green cardamom, cinnamon, and slivered almonds inside a charcoal-fired brass samovar."
+      }
+    ],
+    "nutritionalAndAyurvedicWisdom": "Fennel and dry ginger counteract mountain chill; pure Kashmiri saffron stimulates blood circulation and elevated mood.",
+    "culturalServingTradition": "Served on a large, intricately carved tinned-copper platter (Traem) shared communally by a group of four diners, preceded by ritual handwashing in a Tash-t-naer."
+  },
+  {
+    "id": "food-misal-pav-maharashtra",
+    "slug": "misal-pav-maharashtra",
+    "dishName": "Kolhapuri Misal Pav & Puran Poli",
+    "name": "Kolhapuri Misal Pav & Puran Poli",
+    "title": "Kolhapuri Misal Pav & Puran Poli",
+    "nativeName": "मिसळ पाव आणि पुरणपोळी",
+    "state": "Maharashtra",
+    "region": "West",
+    "heritageClassification": "Traditional Community Feast",
+    "heritageStatus": "Traditional Community Feast",
+    "heroImage": "/images/food/misal_pav_maharashtra.jpg",
+    "imageUrl": "/images/food/misal_pav_maharashtra.jpg",
+    "cookingTechnique": "48h Bean Sprouting, Fiery Kat Simmer & Ghee Tawa Roasting",
+    "shortDescription": "Bold Kolhapuri sprouted moth bean curry with fiery red Tarri oil, served with farsan, buttery pav, and sweet nutmeg-infused puran poli.",
+    "historicalGenesis": {
+      "period": "19th Century Industrial & Agrarian Maharashtra",
+      "lineageText": "A hearty breakfast that sustained mill workers in Mumbai and farmers in western Maharashtra. Combined wholesome sprouted moth beans with intensely spiced gravies (Kat/Rassa).",
+      "culturalContext": "Everyday culinary icon celebrating bold Maharashtrian spices."
+    },
+    "keyIngredients": [
+      "Sprouted Moth Beans (Matki)",
+      "Kolhapuri Kanda-Lasun Masala",
+      "Dry Coconut & Fried Onions",
+      "Farsan (Crisp Chickpea Toppings)",
+      "Chana Dal & Jaggery (for Puran Poli)",
+      "Nutmeg & Cardamom"
+    ],
+    "traditionalPreparationMethod": [
+      {
+        "stage": "Bean Sprouting & Poaching",
+        "description": "Matki beans soaked and sprouted for 48 hours, then gently boiled with turmeric and rock salt."
+      },
+      {
+        "stage": "Fiery Kat Simmering",
+        "description": "Roasted coconut and browned onion paste fried with fiery Kolhapuri masala until deep-red oil (Tarri) floats to the top."
+      },
+      {
+        "stage": "Puran Poli Filling",
+        "description": "Cooked chana dal mashed with dark jaggery, nutmeg, and cardamom, encased inside soft wheat-flour dough and rolled tissue-thin."
+      },
+      {
+        "stage": "Ghee Roast",
+        "description": "Roasted on hot tawas with lavish lashings of pure ghee until puffed and golden."
+      }
+    ],
+    "nutritionalAndAyurvedicWisdom": "Sprouting enhances protein availability and digestive enzymes, while nutmeg and cardamom in Puran Poli ease digestion.",
+    "culturalServingTradition": "The sprouted beans are layered in a bowl, flooded with smoking hot red Kat, topped with crispy farsan and chopped raw onions, accompanied by lime wedges and buttered pav."
+  },
+  {
+    "id": "food-goan-curry-goa",
+    "slug": "goan-curry-goa",
+    "dishName": "Goan Fish Curry & Traditional Bebinca",
+    "name": "Goan Fish Curry & Traditional Bebinca",
+    "title": "Goan Fish Curry & Traditional Bebinca",
+    "nativeName": "कढी नि शीत आणि बेबिका",
+    "state": "Goa",
+    "region": "West",
+    "heritageClassification": "Centuries-Old Royal Heritage",
+    "heritageStatus": "Centuries-Old Royal Heritage",
+    "heroImage": "/images/food/goan_curry_goa.jpg",
+    "imageUrl": "/images/food/goan_curry_goa.jpg",
+    "cookingTechnique": "Stone-Ground Coconut Masala & Seven-Layer Bebinca Baking",
+    "shortDescription": "Tangy coastal kingfish curry infused with sour dried kokum and fresh coconut milk, followed by seven-layer caramelized Bebinca pudding.",
+    "historicalGenesis": {
+      "period": "16th Century Indo-Portuguese Confluence",
+      "lineageText": "The confluence of coastal Konkani seafood traditions with Portuguese influences. Local fisherfolk combined fresh kingfish and coconut with indigenous souring agents like dried kokum (Solam).",
+      "culturalContext": "Daily culinary soul of the Goan coastline and Christmas festive feasts."
+    },
+    "keyIngredients": [
+      "Fresh Kingfish (Surmai)",
+      "Freshly Grated Coconut",
+      "Kashmiri Chillies & Coriander Seeds",
+      "Dried Kokum Petals (Solam)",
+      "Egg Yolks, Coconut Milk & Nutmeg (for Bebinca)"
+    ],
+    "traditionalPreparationMethod": [
+      {
+        "stage": "Stone-Ground Orange Masala",
+        "description": "Grated coconut ground smooth with whole red chillies, coriander seeds, cumin, garlic, and turmeric."
+      },
+      {
+        "stage": "Kokum Infusion",
+        "description": "Simmered in earthen pots with sliced green chillies and dried kokum petals to impart a tart tanginess."
+      },
+      {
+        "stage": "Fish Poaching",
+        "description": "Fresh kingfish steaks gently placed into the bubbling curry, simmering for 5 minutes without stirring."
+      },
+      {
+        "stage": "Bebinca Multi-Layer Baking",
+        "description": "Batter of coconut milk, egg yolks, sugar, and nutmeg baked layer-by-layer under top-heat until seven caramelized layers form."
+      }
+    ],
+    "nutritionalAndAyurvedicWisdom": "Kokum (Garcinia indica) contains hydroxycitric acid, cooling the body and soothing acidity in humid coastal climates.",
+    "culturalServingTradition": "Served hot over steamed red parboiled Goan rice (Ukda rice) in traditional clay handis, followed by warm Bebinca with vanilla ice cream."
+  },
+  {
+    "id": "food-masor-tenga-assam",
+    "slug": "masor-tenga-assam",
+    "dishName": "Assamese Masor Tenga & Khar",
+    "name": "Assamese Masor Tenga & Khar",
+    "title": "Assamese Masor Tenga & Khar",
+    "nativeName": "মাছৰ টেঙা আৰু খাৰ",
+    "state": "Assam",
+    "region": "Northeast",
+    "heritageClassification": "Traditional Community Feast",
+    "heritageStatus": "Traditional Community Feast",
+    "heroImage": "/images/food/masor_tenga_assam.jpg",
+    "imageUrl": "/images/food/masor_tenga_assam.jpg",
+    "cookingTechnique": "Banana Peel Ash Alkaline Extraction & Citrus-Tenga Stewing",
+    "shortDescription": "Light Brahmaputra river fish curry soured with indigenous elephant apples or dried thekera, preceded by gut-cleansing banana-ash Khar.",
+    "historicalGenesis": {
+      "period": "Medieval Brahmaputra Riverine Civilization",
+      "lineageText": "Integral to the culinary identity of the Brahmaputra valley. Light, sour fish curries designed to revive the appetite during hot and humid monsoon months, avoiding heavy drying spices.",
+      "culturalContext": "Quintessential Assamese summer lunch served on ceremonial bell-metal plates."
+    },
+    "keyIngredients": [
+      "Fresh River Carp (Rohu / Katla)",
+      "Elephant Apple (Ou Tenga) / Thekera / Tomatoes",
+      "Mustard Oil",
+      "Panch Phoron / Fenugreek",
+      "Kolakhar (Banana Peel Alkaline Ash Extract)"
+    ],
+    "traditionalPreparationMethod": [
+      {
+        "stage": "Khar Starter",
+        "description": "Water filtered through the charred ash of sun-dried Bhimkol banana peels, cooked with raw papaya and mustard oil as a cleansing opening course."
+      },
+      {
+        "stage": "Mustard Oil Fish Sear",
+        "description": "River fish steaks rubbed with turmeric and salt, lightly seared in cold-pressed mustard oil."
+      },
+      {
+        "stage": "Tenga Broth Simmer",
+        "description": "Mustard oil tempered with fenugreek seeds, followed by sliced elephant apple or dried sun-dried thekera soaked in water."
+      },
+      {
+        "stage": "Gentle Stewing",
+        "description": "Light aromatic broth simmered with seared fish until subtle citrus tang permeates the gravy."
+      }
+    ],
+    "nutritionalAndAyurvedicWisdom": "Kolakhar is an ancient alkaline detoxifier that cleanses the stomach, while sour fruit extracts provide vitamin C and aid hydration.",
+    "culturalServingTradition": "Served on traditional bell-metal (Kanh) plates and bowls, eaten with indigenous Joha fragrant rice."
+  },
+  {
+    "id": "dish-chettinad-kitchen",
+    "slug": "chettinad-kitchen-traditions",
+    "title": "Chettinad Kitchen & Culinary Traditions",
+    "name": "Chettinad Kitchen & Culinary Traditions",
+    "dishName": "Chettinad Kitchen Traditions",
+    "state": "Tamil Nadu",
+    "region": "South",
+    "category": "Food Traditions",
+    "heritageClassification": "Heritage Culinary Tradition",
+    "imageUrl": "/images/food/chettinad_kitchen.jpg",
+    "heroImage": "/images/food/chettinad_kitchen.jpg",
+    "tags": [
+      "Nattukotai Chettiars",
+      "Stone Ground Spices",
+      "Kalpasi",
+      "Cast Iron Adukku",
+      "Banana Leaf",
+      "Food Traditions"
+    ],
+    "shortDescription": "Famed culinary lineage of maritime merchant traders, defined by freshly hand-ground black pepper, kalpasi, and sun-dried meats.",
+    "fullDescription": "Originating from the seafaring merchant community of Nattukottai Chettiars, Chettinad cuisine is one of India's most aromatic and complex culinary traditions. Developed through overseas trade links across Burma, Ceylon, and Southeast Asia, Chettinad recipes rely on stone-ground spice pastes featuring star anise, marathi mokku (dried flower pods), and kalpasi (black stone flower). Traditional kitchens (Veedukal) prepare dishes like Chettinad Kozhi, Vellai Paniyaram, and sun-dried crisps (Vadam) in heavy brass, seasoned soapstone (Kalchatti), and cast-iron cookware over wood-fired stoves."
+  }
+]

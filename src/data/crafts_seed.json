@@ -1,0 +1,666 @@
+[
+  {
+    "id": "craft-patola-gujarat",
+    "slug": "patan-patola-gujarat",
+    "craftName": "Patan Patola Double Ikat",
+    "nativeName": "પાટણના પટોળા",
+    "state": "Gujarat",
+    "region": "West",
+    "category": "Textile & Handloom",
+    "giStatus": "GI Tag Certified (Geographical Indication)",
+    "heroImage": "/images/crafts/patola_gujarat.jpg",
+    "historicalLineage": {
+      "originCentury": "12th Century CE (Solanki Dynasty)",
+      "royalPatronageOrGenesis": "King Kumarapala brought 700 master Salvi weavers from Jalna to Patan to craft pure silk garments for temple worship.",
+      "clusterLocation": "Patan, North Gujarat"
+    },
+    "rawMaterials": [
+      "Mulberry Raw Silk",
+      "Natural Dyes (Madder, Catechu, Indigo)",
+      "Teakwood Slanted Handloom"
+    ],
+    "artisanalTechnique": [
+      {
+        "stage": "Resist Tie-Dye (Bandhana)",
+        "description": "Both warp and weft yarns are tied with cotton threads and dyed multiple times to align designs prior to weaving."
+      },
+      {
+        "stage": "Mathematical Loom Calibration",
+        "description": "Woven on a slanted rosewood handloom where warp and weft intersections must align with millimeter precision."
+      },
+      {
+        "stage": "Reversible Finish",
+        "description": "Both sides of the silk exhibit identical color vibrancy and sharp geometric motifs."
+      }
+    ],
+    "sustainabilityAndEcosystem": "Practiced by only a few hereditary Salvi families; uses 100% natural vegetable dyes that remain colorfast for over 300 years.",
+    "preservationStatus": "Vulnerable"
+  },
+  {
+    "id": "craft-blue-pottery-rajasthan",
+    "slug": "blue-pottery-jaipur",
+    "craftName": "Jaipur Glazed Blue Pottery",
+    "nativeName": "जयपुर ब्लू पॉटरी",
+    "state": "Rajasthan",
+    "region": "North",
+    "category": "Pottery & Ceramics",
+    "giStatus": "GI Tag Certified (Geographical Indication)",
+    "heroImage": "/images/crafts/blue_pottery_rajasthan.jpg",
+    "historicalLineage": {
+      "originCentury": "19th Century (Sawai Ram Singh II Reign)",
+      "royalPatronageOrGenesis": "Turko-Persian glazing techniques integrated into Jaipur under royal patronage, revolutionized by Kripal Singh Shekhawat.",
+      "clusterLocation": "Kot Jewar and Jaipur, Rajasthan"
+    },
+    "rawMaterials": [
+      "Quartz Stone Powder",
+      "Glass Cullet",
+      "Fuller's Earth (Multani Mitti)",
+      "Cobalt Oxide (Blue)",
+      "Copper Oxide (Turquoise)"
+    ],
+    "artisanalTechnique": [
+      {
+        "stage": "Clay-Free Dough Making",
+        "description": "Unlike standard pottery, no natural clay is used; ground quartz, sajjimitti, and gum are kneaded into dough."
+      },
+      {
+        "stage": "Open Mold Pressing",
+        "description": "Pressed into open terra-cotta molds and filled with wood ash to retain shape while drying in the sun."
+      },
+      {
+        "stage": "Brushwork & Kiln Glaze",
+        "description": "Hand-painted with cobalt oxide and glazed before a single low-temperature firing in traditional kilns."
+      }
+    ],
+    "sustainabilityAndEcosystem": "Lead-free glazed tableware made from indigenous minerals, sustaining thousands of rural potters in Kot Jewar.",
+    "preservationStatus": "Thriving"
+  },
+  {
+    "id": "craft-banarasi-silk-up",
+    "slug": "banarasi-brocade-up",
+    "craftName": "Banarasi Zari Brocade & Silk",
+    "nativeName": "बनारसी सिल्क व ज़री",
+    "state": "Uttar Pradesh",
+    "region": "North",
+    "category": "Textile & Handloom",
+    "giStatus": "GI Tag Certified (Geographical Indication)",
+    "heroImage": "/images/crafts/banarasi_silk_up.jpg",
+    "historicalLineage": {
+      "originCentury": "Vedic Era & Mughal Zenith (16th Century)",
+      "royalPatronageOrGenesis": "Mentioned in Buddhist texts and the Mahabharata; attained peak refinement under Mughal court weavers crafting Kinkhwab (cloth of gold).",
+      "clusterLocation": "Varanasi (Banaras), Uttar Pradesh"
+    },
+    "rawMaterials": [
+      "Pure Katan Mulberry Silk",
+      "Silver Electroplated Gold Zari",
+      "Jacquard Punch Cards"
+    ],
+    "artisanalTechnique": [
+      {
+        "stage": "Naksha Drawing & Punch Cards",
+        "description": "Intricate floral, jal, and kalga motifs translated into punched jacquard cards."
+      },
+      {
+        "stage": "Kadwa (Interlocking Weave)",
+        "description": "Each zari motif is hand-interlocked into the silk base using tiny wooden spools without leaving floats on the reverse."
+      },
+      {
+        "stage": "Finishing & Polishing",
+        "description": "Manual clipping of loose threads and rolling over wooden cylinders to enhance silk luster."
+      }
+    ],
+    "sustainabilityAndEcosystem": "Supports over 100,000 weavers, punch-card artists, and dyers across the ancient alleys of Madanpura and Alaipura.",
+    "preservationStatus": "Thriving"
+  },
+  {
+    "id": "craft-pashmina-kashmir",
+    "slug": "pashmina-kani-kashmir",
+    "craftName": "Kashmiri Pashmina & Kani Shawls",
+    "nativeName": "کٲشُر پشمینہ",
+    "state": "Jammu & Kashmir",
+    "region": "North",
+    "category": "Textile & Handloom",
+    "giStatus": "GI Tag Certified (Geographical Indication)",
+    "heroImage": "/images/crafts/pashmina_kashmir.jpg",
+    "historicalLineage": {
+      "originCentury": "14th Century (Mir Sayyid Ali Hamadani)",
+      "royalPatronageOrGenesis": "Sufi saint Shah-e-Hamdan introduced Changthangi goat wool processing to Kashmir; popularized across European royal courts by Napoleon's Empress Josephine.",
+      "clusterLocation": "Srinagar and Kanihama, Kashmir Valley"
+    },
+    "rawMaterials": [
+      "Capra Hircus Underfleece (12–15 Microns)",
+      "Wooden Kani Eyeless Bobbins",
+      "Traditional Charkha (Yender)"
+    ],
+    "artisanalTechnique": [
+      {
+        "stage": "Tujhi / Kani Weaving",
+        "description": "Interwoven using small eyeless wooden bobbins following a coded script (Talim) chanted by the master weaver."
+      },
+      {
+        "stage": "Sozni Needle Embroidery",
+        "description": "Single-thread needlepoint creating identical floral jaal embroidery visible on both sides of the shawl."
+      },
+      {
+        "stage": "Spring Water Washing",
+        "description": "Washed gently in Dal Lake spring water with wild soapnuts to condition delicate fibers."
+      }
+    ],
+    "sustainabilityAndEcosystem": "Ethically harvested by nomadic Changpa tribes at 14,000 ft in Ladakh, spun exclusively by Kashmiri women.",
+    "preservationStatus": "Vulnerable"
+  },
+  {
+    "id": "craft-pattachitra-odisha",
+    "slug": "pattachitra-odisha",
+    "craftName": "Raghurajpur Pattachitra Scroll Painting",
+    "nativeName": "ପଟ୍ଟଚିତ୍ର",
+    "state": "Odisha",
+    "region": "East",
+    "category": "Folk Painting",
+    "giStatus": "GI Tag Certified (Geographical Indication)",
+    "heroImage": "/images/crafts/pattachitra_odisha.jpg",
+    "historicalLineage": {
+      "originCentury": "5th Century BCE & 12th Century CE",
+      "royalPatronageOrGenesis": "Intimately linked to Lord Jagannath temple rituals during the Anavasara quarantine period when original deities are secluded from view.",
+      "clusterLocation": "Raghurajpur Heritage Crafts Village, Puri"
+    },
+    "rawMaterials": [
+      "Cotton Cloth / Cured Palm Leaves (Tala Pattachitra)",
+      "Tamarind Seed Gum",
+      "Chalk Powder",
+      "Natural Mineral & Plant Pigments"
+    ],
+    "artisanalTechnique": [
+      {
+        "stage": "Patti Canvas Preparation",
+        "description": "Layers of cotton cloth pasted with tamarind glue and chalk powder, sun-dried, and polished with river stones."
+      },
+      {
+        "stage": "Stylus Etching & Lampblack",
+        "description": "Intricate mythological scenes sketched directly using iron styluses or squirrel-hair brushes."
+      },
+      {
+        "stage": "Natural Pigment Filling",
+        "description": "Conch-shell white, lampblack, hingula red, and haritala yellow ground in stone pestles and applied."
+      }
+    ],
+    "sustainabilityAndEcosystem": "Entire village of Raghurajpur sustains itself as a living open-air museum where every household practices Pattachitra.",
+    "preservationStatus": "Thriving"
+  },
+  {
+    "id": "craft-chanderi-mp",
+    "slug": "chanderi-weaves-mp",
+    "craftName": "Chanderi Silk-Cotton Weaves",
+    "nativeName": "चंदेरी सिल्क",
+    "state": "Madhya Pradesh",
+    "region": "Central",
+    "category": "Textile & Handloom",
+    "giStatus": "GI Tag Certified (Geographical Indication)",
+    "heroImage": "/images/crafts/chanderi_mp.jpg",
+    "historicalLineage": {
+      "originCentury": "7th Century BCE – 13th Century CE",
+      "royalPatronageOrGenesis": "Mentioned in the Vedic era; flourished under the patronage of the Bundela Rajputs and Scindia royal dynasty of Gwalior.",
+      "clusterLocation": "Chanderi, Ashoknagar District, Madhya Pradesh"
+    },
+    "rawMaterials": [
+      "Degummed Raw Silk Warp",
+      "Fine Cotton Weft (up to 120 count)",
+      "Pure Gold & Silver Zari"
+    ],
+    "artisanalTechnique": [
+      {
+        "stage": "Pit Loom Setup",
+        "description": "Woven on floor-level pit looms with throw shuttles to achieve sheer gossamer transparency."
+      },
+      {
+        "stage": "Hand-Picked Buttis",
+        "description": "Gold motifs (Ashrafi, swans, peacocks) hand-picked on warp threads using darning needles."
+      },
+      {
+        "stage": "Adda Border Finishing",
+        "description": "Dense metallic borders contrasting against translucent pastel fabric bodies."
+      }
+    ],
+    "sustainabilityAndEcosystem": "Combines non-violent degummed silk with breathable cotton, sustaining 5,000+ weaver households in historic Bundelkhand.",
+    "preservationStatus": "Thriving"
+  },
+  {
+    "id": "kanchipuram-silk-weaving",
+    "slug": "kanchipuram-silk-weaving",
+    "title": "Kanchipuram Silk Weaving",
+    "craftName": "Kanchipuram Silk Weaving",
+    "nativeName": "காஞ்சிபுரம் பட்டு",
+    "state": "Tamil Nadu",
+    "region": "Kanchipuram, Tamil Nadu",
+    "category": "Handloom & Jacquard Brocade",
+    "giTag": "Geographical Indication (GI) Registered",
+    "giStatus": "GI Tag Certified (Geographical Indication)",
+    "imageUrl": "/images/crafts/kanchipuram_silk.jpg",
+    "heroImage": "/images/crafts/kanchipuram_silk.jpg",
+    "tags": [
+      "Mulberry Silk",
+      "Zari",
+      "Korvai Technique",
+      "Temple Borders",
+      "Dravidian Heritage"
+    ],
+    "shortDescription": "Heavy mulberry silk sarees renowned for interlocking contrasting borders woven with pure gold and silver zari.",
+    "fullDescription": "Woven on traditional wooden pit looms by hereditary weaver communities tracing their descent to Sage Markanda, Kanchipuram silk sarees represent the pinnacle of South Indian handloom mastery. Crafted from three-ply mulberry silk yarn twisted with pure silver electroplated in 24k gold zari, these textiles are distinguished by the 'Korvai' technique—where the contrasting body and border are woven separately and interlocked seamlessly using a specialized three-shuttle interlocking process. The motifs draw directly from Chola and Pallava temple iconography, featuring temple gopuram spires (Thazhampoo rekku), floral creepers (kodi visiri), celestial swans (annapakshi), and mythical winged beasts (yali).",
+    "historicalLineage": {
+      "originCentury": "10th Century CE (Chola & Pallava Dynasties)",
+      "royalPatronageOrGenesis": "Woven on traditional wooden pit looms by hereditary weaver communities tracing their descent to Sage Markanda, Kanchipuram silk sarees represent the pinnacle of South Indian handloom mastery.",
+      "clusterLocation": "Kanchipuram, Tamil Nadu"
+    },
+    "rawMaterials": [
+      "Three-ply Mulberry Silk Yarn",
+      "Pure Silver Electroplated in 24k Gold Zari",
+      "Rice Starch Sizing",
+      "Traditional Wooden Pit Looms"
+    ],
+    "artisanalTechnique": [
+      {
+        "stage": "Korvai Three-Shuttle Interlocking",
+        "description": "The contrasting body and border are woven separately and interlocked seamlessly using a specialized three-shuttle interlocking process."
+      },
+      {
+        "stage": "Petni Contrast Pallu Join",
+        "description": "The heavy contrasting pallu is woven with a distinct warp and seamlessly linked to the body."
+      },
+      {
+        "stage": "Temple Iconography Brocade",
+        "description": "Motifs draw directly from Chola and Pallava temple iconography, featuring temple gopuram spires (Thazhampoo rekku), floral creepers (kodi visiri), celestial swans (annapakshi), and mythical winged beasts (yali)."
+      }
+    ],
+    "sustainabilityAndEcosystem": "Handloom cooperative societies in Kanchipuram guarantee fair wages, pension funds, and authentic GI certification for weavers.",
+    "preservationStatus": "Thriving"
+  },
+  {
+    "id": "bandhani-kutch",
+    "slug": "bandhani-kutch",
+    "title": "Bandhani Tie-Dye of Kutch",
+    "craftName": "Bandhani Tie-Dye of Kutch",
+    "nativeName": "બાંધણી (કચ્છ)",
+    "state": "Gujarat",
+    "region": "Kutch & Jamnagar, Gujarat",
+    "category": "Resist Dye & Surface Ornamentation",
+    "giTag": "Geographical Indication (GI) Registered",
+    "giStatus": "GI Tag Certified (Geographical Indication)",
+    "imageUrl": "/images/crafts/bandhani_kutch.jpg",
+    "heroImage": "/images/crafts/bandhani_kutch.jpg",
+    "tags": [
+      "Tie-Dye",
+      "Khatri Community",
+      "Resist Dyeing",
+      "Natural Dyes",
+      "Kutch Heritage"
+    ],
+    "shortDescription": "Centuries-old resist tie-dye art of Kutch, producing intricate dot constellations using fingernail-plucked thread resists.",
+    "fullDescription": "Practiced primarily by the Khatri community across Kutch and Saurashtra, Bandhani (derived from the Sanskrit 'Bandh' meaning to tie) is one of the world's oldest resist-dyeing traditions. Artisans use pointed fingernails or metal rings to pluck pinpoint folds of fine silk, georgette, or muslin into tiny knots bound tightly with waxed cotton thread. When immersed in successive baths of natural madder, pomegranate, and indigo, the bound areas resist color absorption. The unpicked textile reveals kaleidoscopic patterns of dots (bindi), paisleys (kodi), and waves (leheriya), celebrated for their distinctive crinkled texture and auspicious wedding significance.",
+    "historicalLineage": {
+      "originCentury": "6th Century BCE (Indus Valley & Ajanta Roots)",
+      "royalPatronageOrGenesis": "Practiced primarily by the Khatri community across Kutch and Saurashtra, Bandhani was patronized by Kutch royal darbars in Mandvi and Bhuj.",
+      "clusterLocation": "Kutch & Jamnagar, Gujarat"
+    },
+    "rawMaterials": [
+      "Pure Silk, Georgette & Muslin",
+      "Waxed Cotton Resisting Thread",
+      "Natural Dyes (Madder, Pomegranate, Indigo)",
+      "Pointed Metal Fingernail Ring (Nakhli)"
+    ],
+    "artisanalTechnique": [
+      {
+        "stage": "Fingernail Plucking & Binding",
+        "description": "Artisans use pointed fingernails or metal rings to pluck pinpoint folds into tiny knots bound tightly with waxed cotton thread."
+      },
+      {
+        "stage": "Sequential Natural Vat Immersion",
+        "description": "Immersed in successive baths of natural madder, pomegranate, and indigo, the bound areas resist color absorption."
+      },
+      {
+        "stage": "Unpicking & Crinkled Texturing",
+        "description": "The unpicked textile reveals kaleidoscopic patterns of dots (bindi), paisleys (kodi), and waves (leheriya), celebrated for their distinctive crinkled texture."
+      }
+    ],
+    "sustainabilityAndEcosystem": "Sustains multi-generational Khatri families; uses biological madder and indigo vats with natural water-conserving artisanal methods.",
+    "preservationStatus": "Thriving"
+  },
+  {
+    "id": "craft-muga-silk-assam",
+    "slug": "muga-silk-assam",
+    "craftName": "Golden Muga Silk & Gamosa",
+    "nativeName": "মুগা ৰেচম আৰু গামোচা",
+    "state": "Assam",
+    "region": "Northeast",
+    "category": "Textile & Handloom",
+    "giStatus": "GI Tag Certified (Geographical Indication)",
+    "heroImage": "/images/crafts/muga_silk_assam.jpg",
+    "historicalLineage": {
+      "originCentury": "13th Century (Ahom Dynasty)",
+      "royalPatronageOrGenesis": "Reserved exclusively for Ahom royalty. The wild golden silkworm is endemic solely to the Brahmaputra river valley ecosystem.",
+      "clusterLocation": "Sualkuchi ('Manchester of the East'), Assam"
+    },
+    "rawMaterials": [
+      "Antheraea Assamensis Wild Silk",
+      "Som & Sualu Plant Foliage",
+      "Fly-Shuttle Wooden Handloom"
+    ],
+    "artisanalTechnique": [
+      {
+        "stage": "Wild Silkworm Rearing",
+        "description": "Silkworms feed outdoors in Som tree groves; cocoons yield naturally golden, non-fading silk fibers."
+      },
+      {
+        "stage": "Indigenous Reeling (Bhir)",
+        "description": "Continuous filaments extracted by hand using indigenous wooden spindles."
+      },
+      {
+        "stage": "Jacquard Traditional Motifs",
+        "description": "Weaving the Gos Buta (tree of life) and Kaziranga rhino motifs into Mekhela Chador and Gamosa."
+      }
+    ],
+    "sustainabilityAndEcosystem": "High tensile strength; silk outlives its owner and gloss increases with every wash. Forest ecosystems protected by sericulturists.",
+    "preservationStatus": "Vulnerable"
+  },
+  {
+    "id": "craft-kalamkari-andhra",
+    "slug": "srikalahasti-kalamkari-andhra",
+    "craftName": "Srikalahasti Freehand Kalamkari",
+    "nativeName": "శ్రీకాళహస్తి కలంకారీ",
+    "state": "Andhra Pradesh",
+    "region": "South",
+    "category": "Folk Painting",
+    "giStatus": "GI Tag Certified (Geographical Indication)",
+    "heroImage": "/images/crafts/kalamkari_andhra.jpg",
+    "historicalLineage": {
+      "originCentury": "11th Century (Golconda Sultanate & Vijayanagara)",
+      "royalPatronageOrGenesis": "Used as temple wall hangings (Toranas) depicting episodes of the Ramayana and Mahabharata for non-literate devotees.",
+      "clusterLocation": "Srikalahasti, Tirupati District, Andhra Pradesh"
+    },
+    "rawMaterials": [
+      "Unbleached Cotton Cloth",
+      "Bamboo Reed Stylus (Kalam)",
+      "Buffalo Milk (Myrobalan Mordant)",
+      "Alum & Vegetable Extracts"
+    ],
+    "artisanalTechnique": [
+      {
+        "stage": "Milk & Myrobalan Treatment",
+        "description": "Cotton treated with myrobalan nut powder and buffalo milk to prevent natural dye capillary bleed."
+      },
+      {
+        "stage": "Freehand Charcoal Sketching",
+        "description": "Outlines drawn freehand with burnt tamarind twigs, then inked with fermented jaggery-iron rust."
+      },
+      {
+        "stage": "Flowing River Washing",
+        "description": "Washed exclusively in the flowing waters of the Swarnamukhi river to clear excess alum and fix hues."
+      }
+    ],
+    "sustainabilityAndEcosystem": "Uses 100% biodegradable organic vegetable materials and natural minerals; zero chemical effluents.",
+    "preservationStatus": "Thriving"
+  },
+  {
+    "id": "craft-channapatna-karnataka",
+    "slug": "channapatna-lacquer-toys",
+    "craftName": "Channapatna Ivory-Wood Lacquerware",
+    "nativeName": "ಚನ್ನಪಟ್ಟಣದ ಗೊಂಬೆಗಳು",
+    "state": "Karnataka",
+    "region": "South",
+    "category": "Woodcraft & Lacquerware",
+    "giStatus": "GI Tag Certified (Geographical Indication)",
+    "heroImage": "/images/crafts/channapatna_toys_karnataka.jpg",
+    "historicalLineage": {
+      "originCentury": "18th Century (Tipu Sultan Reign)",
+      "royalPatronageOrGenesis": "Tipu Sultan invited master Persian toy artisans to Channapatna to train local woodturners in natural lacquer craft.",
+      "clusterLocation": "Channapatna (Gombegala Ooru), Ramanagara, Karnataka"
+    },
+    "rawMaterials": [
+      "Seasoned Ivory Wood (Wrightia Tinctoria)",
+      "Natural Shellac Button Lac",
+      "Vegetable Dyes (Turmeric, Indigo)",
+      "Kewda Palm Leaves"
+    ],
+    "artisanalTechnique": [
+      {
+        "stage": "Lathe Woodturning",
+        "description": "Soft ivory wood turned on power or treadle lathes into smooth spherical and curved components."
+      },
+      {
+        "stage": "Friction Lacquering",
+        "description": "Natural resin sticks pressed against revolving wood; friction heat melts the color onto the surface."
+      },
+      {
+        "stage": "Palm Leaf Polishing",
+        "description": "Polished with dry Kewda palm leaves containing natural wax, giving an ultra-smooth non-toxic glass sheen."
+      }
+    ],
+    "sustainabilityAndEcosystem": "Completely non-toxic, lead-free child-safe toy craft preserving indigenous sustainable forestry.",
+    "preservationStatus": "Thriving"
+  },
+  {
+    "id": "craft-bastar-dhokra-cg",
+    "slug": "bastar-dhokra-chhattisgarh",
+    "craftName": "Bastar Lost-Wax Dhokra Metal Casting",
+    "nativeName": "बस्तर ढोकरा शिल्पकला",
+    "state": "Chhattisgarh",
+    "region": "Central",
+    "category": "Metal Craft & Casting",
+    "giStatus": "GI Tag Certified (Geographical Indication)",
+    "heroImage": "/images/crafts/bastar_dhokra_chhattisgarh.jpg",
+    "historicalLineage": {
+      "originCentury": "4,500 Years Continuity (Harappan Dancing Girl Lineage)",
+      "royalPatronageOrGenesis": "Practiced by the Ghadwa tribal community of Bastar to craft ancestral tribal deities, elephants, lamps, and measurement vessels (Paili).",
+      "clusterLocation": "Kondagaon and Jagdalpur, Bastar, Chhattisgarh"
+    },
+    "rawMaterials": [
+      "Beeswax & Damar Gum (Sal Tree Resin)",
+      "Scrap Brass / Bronze",
+      "River Anthill Clay",
+      "Rice Husk Charcoal"
+    ],
+    "artisanalTechnique": [
+      {
+        "stage": "Clay Core Sculpting",
+        "description": "Anthill clay sculpted into initial shapes and dried under the sun."
+      },
+      {
+        "stage": "Wax Thread Wrapping",
+        "description": "Beeswax ribbons extruded into fine wires and wrapped uniformly around the clay body."
+      },
+      {
+        "stage": "Molten Metal Pouring (Cire Perdue)",
+        "description": "Encased in outer clay molds; molten bronze is poured into hot molds, displacing the molten wax."
+      }
+    ],
+    "sustainabilityAndEcosystem": "Completely non-industrial recycling of scrap brass with forest resin and river soil, sustaining tribal craft collectives.",
+    "preservationStatus": "Vulnerable"
+  },
+  {
+    "id": "craft-madhubani-bihar",
+    "slug": "madhubani-painting-bihar",
+    "craftName": "Mithila Madhubani Folk Art",
+    "nativeName": "मधुबनी चित्रकला",
+    "state": "Bihar",
+    "region": "East",
+    "category": "Folk Painting",
+    "giStatus": "GI Tag Certified (Geographical Indication)",
+    "heroImage": "/images/crafts/madhubani_bihar.jpg",
+    "historicalLineage": {
+      "originCentury": "Ancient Ramayana Era (King Janaka Reign)",
+      "royalPatronageOrGenesis": "King Janaka commissioned artists to paint the wedding of Princess Sita and Lord Rama. Preserved on mud hut walls (Kohbar) by Mithila women.",
+      "clusterLocation": "Ranti and Jitwarpur, Madhubani District, Bihar"
+    },
+    "rawMaterials": [
+      "Handmade Paper Treated with Cow Dung Wash",
+      "Bamboo Twigs & Nibs",
+      "Natural Dyes (Aparajita Blue, Turmeric, Bilva Juice)"
+    ],
+    "artisanalTechnique": [
+      {
+        "stage": "Double-Line Outlining",
+        "description": "All figures drawn with strict double parallel lines using bamboo sticks and lampblack ink."
+      },
+      {
+        "stage": "Kachni & Bharni Styles",
+        "description": "Intricate cross-hatching line-fill (Kachni) or vivid solid natural pigment fill (Bharni)."
+      },
+      {
+        "stage": "Horror Vacui Geometric Fill",
+        "description": "Zero blank space left; borders filled with sacred flora, fish, peacocks, and solar patterns."
+      }
+    ],
+    "sustainabilityAndEcosystem": "Global icon of women's financial autonomy in rural Bihar, exported worldwide with geographical indicator authentication.",
+    "preservationStatus": "Thriving"
+  },
+  {
+    "id": "chola-bronze-stone",
+    "slug": "chola-bronze-stone",
+    "craftName": "Chola Bronze & Stone",
+    "nativeName": "சோழர் வெண்கலமும் கல்லும்",
+    "state": "Tamil Nadu",
+    "region": "South",
+    "category": "Metal Craft & Casting",
+    "giStatus": "GI Tag Certified (Geographical Indication)",
+    "heroImage": "/images/heritage/chola_bronze_stone.jpg",
+    "imageUrl": "/images/heritage/chola_bronze_stone.jpg",
+    "title": "Chola Bronze & Stone",
+    "shortDescription": "Imperial Chola lost-wax bronze casting and hard granite monolithic sculpting from the Kaveri basin.",
+    "fullDescription": "The zenith of Dravidian metallurgical mastery, Chola bronzes represent an unbroken lineage of lost-wax casting (cire perdue) nurtured along the Kaveri river banks. Created according to strict mathematical canons of the Shilpa Shastras, these hollow-cast and solid Panchaloha masterpieces—most famously the Nataraja embodying the cosmic cycle of creation and dissolution—are celebrated globally for their rhythmic kinetic poise, sensual anatomical elegance, and intricate ornamentation. Paired with monumental metamorphic granite relief sculptures, they epitomize the spiritual and artistic sovereignty of the Imperial Chola epoch.",
+    "historicalLineage": {
+      "originCentury": "9th–13th Century CE (Imperial Chola Dynasty)",
+      "royalPatronageOrGenesis": "Imperial Chola royal foundries under Rajaraja I and Queen Sembiyan Mahadevi along the Kaveri basin.",
+      "clusterLocation": "Thanjavur & Swamimalai, Tamil Nadu"
+    },
+    "rawMaterials": [
+      "Panchaloha (Five-Metal Alloy)",
+      "Beeswax",
+      "Kaveri Alluvial Silt",
+      "Hard Metamorphic Granite"
+    ],
+    "artisanalTechnique": [
+      {
+        "stage": "Lost-Wax Model Sculpting",
+        "description": "Hand-carved in pure beeswax and dammar resin according to Shilpa Shastra proportions."
+      },
+      {
+        "stage": "Alluvial Clay Mold Firing",
+        "description": "Enclosed in Kaveri river silt layers and dewaxed under kiln heat to create hollow void."
+      },
+      {
+        "stage": "Molten Panchaloha Casting & Chiseling",
+        "description": "Cast with molten five-metal alloy, quenched, and chiseled by hereditary Sthapathis."
+      }
+    ],
+    "sustainabilityAndEcosystem": "Centuries-old unbroken hereditary Sthapathi lineage practicing zero-waste lost-wax metallurgy along the Kaveri delta.",
+    "preservationStatus": "Thriving"
+  },
+  {
+    "id": "delta-song-and-scroll",
+    "slug": "delta-song-and-scroll",
+    "craftName": "Delta Song & Scroll",
+    "nativeName": "காவேரி கதைப் பட்டு சுருள்",
+    "state": "Tamil Nadu",
+    "region": "South",
+    "category": "Folk Painting",
+    "giStatus": "National Master Craft Heritage",
+    "heroImage": "/images/heritage/delta_song_scroll.jpg",
+    "imageUrl": "/images/heritage/delta_song_scroll.jpg",
+    "title": "Delta Song & Scroll",
+    "shortDescription": "Hand-painted narrative textile scrolls synchronized with oral folk epics and riverine ballads.",
+    "fullDescription": "An ancient audiovisual storytelling medium of Southern riverine deltas, the 'Song and Scroll' lineage weaves painted fabric narratives with sung oral epics. Nomadic storytellers and temple balladeers unrolled massive, vegetable-dyed cotton scrolls—rendered with a bamboo kalam using natural mineral pigments, iron rust, and myrobalan mordants—to accompany melodious Harikatha and seasonal agricultural ballads. Each horizontal register depicts episodes from the epics and regional folklore, transforming visual textile craftsmanship into a participatory community performance of song, memory, and heritage preservation.",
+    "historicalLineage": {
+      "originCentury": "Ancient & Medieval Kaveri Riverine Lineage",
+      "royalPatronageOrGenesis": "Nomadic temple balladeers and Kaveri river delta storytellers performing oral epics with textile scrolls.",
+      "clusterLocation": "Kaveri Basin, Tamil Nadu & Andhra Borders"
+    },
+    "rawMaterials": [
+      "Unbleached Cotton Cloth",
+      "Bamboo Kalam Stylus",
+      "Myrobalan Mordant",
+      "Fermented Iron Rust",
+      "Natural Mineral Pigments"
+    ],
+    "artisanalTechnique": [
+      {
+        "stage": "Cloth Mordanting with Myrobalan",
+        "description": "Cotton steeped in buffalo milk and myrobalan to fix natural mineral dyes."
+      },
+      {
+        "stage": "Bamboo Kalam Freehand Line Drawing",
+        "description": "Outlines drawn with fermented iron rust (kasimi) using sharp bamboo nibs."
+      },
+      {
+        "stage": "Natural Pigment Infusion & River Washing",
+        "description": "Filled with vegetable and mineral dyes, followed by running river-water wash cycles."
+      }
+    ],
+    "sustainabilityAndEcosystem": "Pure non-toxic biological colors and handcrafted cotton sustaining oral performance and visual heritage ecosystems.",
+    "preservationStatus": "Vulnerable"
+  },
+  {
+    "id": "desert-dye-route",
+    "slug": "desert-dye-route",
+    "craftName": "Desert Dye Route",
+    "nativeName": "અજરખ અને દાબુ રેગિસ્તાન માર્ગ",
+    "state": "Gujarat",
+    "region": "West",
+    "category": "Textile & Handloom",
+    "giStatus": "GI Tag Certified (Geographical Indication)",
+    "heroImage": "/images/heritage/desert_dye_route.jpg",
+    "imageUrl": "/images/heritage/desert_dye_route.jpg",
+    "title": "Desert Dye Route",
+    "shortDescription": "Arid-zone resist printing and natural indigo-madder textile heritage across historic caravan pathways.",
+    "fullDescription": "Stretching across the arid sands of Kutch and the Thar Desert, the Desert Dye Route chronicles centuries of nomadic pastoralist trade, mineral alchemy, and geometric resist printing. Centered on legendary crafts like Ajrakh and Dabu, artisans hand-stamp unbleached cotton using hand-chiseled wooden blocks and mud-gum resists before submerging them in biological indigo and wild madder vats. Designed to reflect the cosmological harmony of desert stars and oasis water, these textiles were historically traded across ancient caravan pathways, standing as enduring symbols of ecological resourcefulness and tactile geometry.",
+    "historicalLineage": {
+      "originCentury": "Indus Valley Roots & Medieval Caravan Trade (14th Century)",
+      "royalPatronageOrGenesis": "Khatri artisanal clans migrating along trans-Thar caravan routes under Kutch royal patronage.",
+      "clusterLocation": "Ajrakhpur & Kutch, Gujarat / Barmer, Rajasthan"
+    },
+    "rawMaterials": [
+      "Biological Indigo (Indigofera tinctoria)",
+      "Wild Madder (Manjistha)",
+      "Hand-Chiseled Teakwood Blocks",
+      "Dabu Mud-Gum Resist"
+    ],
+    "artisanalTechnique": [
+      {
+        "stage": "Saaj Pre-Wash & Harda Mordant",
+        "description": "Raw cotton treated with camel dung, castor oil, and wild harda mordant."
+      },
+      {
+        "stage": "Symmetrical Hand Block Stamping",
+        "description": "Chiseled teak wood blocks align intricate geometric matrices on both cloth sides."
+      },
+      {
+        "stage": "Biological Indigo & Madder Boiling",
+        "description": "Repeated vat immersion in fermented natural indigo and copper cauldron madder boiling."
+      }
+    ],
+    "sustainabilityAndEcosystem": "Water-conserving closed-loop artisanal printing villages utilizing indigenous desert shrubs and non-toxic earthen vats.",
+    "preservationStatus": "Thriving"
+  },
+  {
+    "id": "craft-odisha-palm-leaf",
+    "slug": "odisha-palm-leaf-manuscript",
+    "title": "Palm-Leaf Manuscript Tradition (Tala Pattachitra)",
+    "name": "Palm-Leaf Manuscript Tradition (Tala Pattachitra)",
+    "craftName": "Tala Pattachitra (Palm-Leaf Etching)",
+    "state": "Odisha",
+    "region": "East",
+    "category": "Crafts & Textiles",
+    "giTag": "Geographical Indication (GI) Registered",
+    "heritageStatus": "Geographical Indication (GI) Registered",
+    "imageUrl": "/images/crafts/odisha_palm_leaf.jpg",
+    "heroImage": "/images/crafts/odisha_palm_leaf.jpg",
+    "tags": [
+      "Tala Patra",
+      "Iron Stylus",
+      "Natural Lampblack",
+      "Puri Heritage",
+      "Manuscript Painting",
+      "Crafts & Textiles"
+    ],
+    "shortDescription": "Ancient epigraphic and illustrative art incised with a sharp iron stylus on cured palmyra palm leaves.",
+    "fullDescription": "Known natively as 'Tala Pattachitra', Odisha's palm-leaf manuscript tradition dates back over a millennium as an epigraphic medium for recording sacred texts, treatises, and astrological horoscopes. Artisans harvest fronds from the Palmyra palm (Borassus flabellifer), cure them in turmeric water, dry them in shaded breezes, and cut them to uniform sizes. Master calligraphers and painters etch intricate line drawings directly onto the brittle surface using a fine-tipped iron stylus (Lekhani). Natural lampblack mixed with bean juice is rubbed into the fine incisions to reveal black illustrative registers depicting the Gita Govinda, Ramayana, and botanical motifs, stitched together with silk cord."
+  }
+]

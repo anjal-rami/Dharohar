@@ -1,0 +1,301 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+
+@custom-variant dark (&:is(.dark *));
+
+/*
+ * Dharohar heritage design system.
+ * Warm sandstone + terracotta + marigold + indigo, inspired by Indian
+ * temple stone, textile dyes and manuscript inks. All colors are oklch.
+ */
+
+@theme inline {
+  --radius-sm: calc(var(--radius) - 4px);
+  --radius-md: calc(var(--radius) - 2px);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) + 4px);
+  --radius-2xl: calc(var(--radius) + 8px);
+  --radius-3xl: calc(var(--radius) + 12px);
+  --radius-4xl: calc(var(--radius) + 16px);
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-popover: var(--popover);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-destructive: var(--destructive);
+  --color-destructive-foreground: var(--destructive-foreground);
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+  --color-ring-offset-background: var(--background);
+  --color-indigo-ink: var(--indigo-ink);
+  --color-indigo-ink-foreground: var(--indigo-ink-foreground);
+  --color-marigold: var(--marigold);
+  --color-marigold-foreground: var(--marigold-foreground);
+  --color-leaf: var(--leaf);
+  --color-status-safe: var(--status-safe);
+  --color-status-attention: var(--status-attention);
+  --color-status-risk: var(--status-risk);
+  --color-status-restoration: var(--status-restoration);
+  --color-chart-1: var(--chart-1);
+  --color-chart-2: var(--chart-2);
+  --color-chart-3: var(--chart-3);
+  --color-chart-4: var(--chart-4);
+  --color-chart-5: var(--chart-5);
+  --color-sidebar: var(--sidebar);
+  --color-sidebar-foreground: var(--sidebar-foreground);
+  --color-sidebar-primary: var(--sidebar-primary);
+  --color-sidebar-primary-foreground: var(--sidebar-primary-foreground);
+  --color-sidebar-accent: var(--sidebar-accent);
+  --color-sidebar-accent-foreground: var(--sidebar-accent-foreground);
+  --color-sidebar-border: var(--sidebar-border);
+  --color-sidebar-ring: var(--sidebar-ring);
+  --font-display: "Marcellus", "Iowan Old Style", Georgia, serif;
+  --font-sans: "Karla", ui-sans-serif, system-ui, sans-serif;
+  --shadow-heritage:
+    0 1px 2px oklch(0.28 0.06 45 / 0.06), 0 12px 32px -12px oklch(0.28 0.06 45 / 0.22);
+  --shadow-lift: 0 24px 60px -24px oklch(0.28 0.06 45 / 0.38);
+}
+
+:root {
+  --radius: 0.75rem;
+  --background: oklch(0.985 0.012 85);
+  --foreground: oklch(0.24 0.035 45);
+  --card: oklch(0.998 0.006 85);
+  --card-foreground: oklch(0.24 0.035 45);
+  --popover: oklch(0.998 0.006 85);
+  --popover-foreground: oklch(0.24 0.035 45);
+  --primary: oklch(0.53 0.155 38);
+  --primary-foreground: oklch(0.99 0.01 85);
+  --secondary: oklch(0.945 0.026 82);
+  --secondary-foreground: oklch(0.32 0.05 45);
+  --muted: oklch(0.951 0.02 82);
+  --muted-foreground: oklch(0.5 0.032 60);
+  --accent: oklch(0.93 0.06 85);
+  --accent-foreground: oklch(0.3 0.06 55);
+  --destructive: oklch(0.55 0.2 25);
+  --destructive-foreground: oklch(0.99 0.01 85);
+  --border: oklch(0.9 0.022 78);
+  --input: oklch(0.9 0.022 78);
+  --ring: oklch(0.53 0.155 38);
+  --indigo-ink: oklch(0.36 0.105 265);
+  --indigo-ink-foreground: oklch(0.97 0.015 85);
+  --marigold: oklch(0.78 0.155 72);
+  --marigold-foreground: oklch(0.28 0.06 55);
+  --leaf: oklch(0.5 0.09 150);
+  --status-safe: oklch(0.55 0.11 150);
+  --status-attention: oklch(0.72 0.15 78);
+  --status-risk: oklch(0.55 0.19 28);
+  --status-restoration: oklch(0.5 0.11 250);
+  --chart-1: oklch(0.53 0.155 38);
+  --chart-2: oklch(0.78 0.155 72);
+  --chart-3: oklch(0.36 0.105 265);
+  --chart-4: oklch(0.55 0.11 150);
+  --chart-5: oklch(0.62 0.14 12);
+  --sidebar: oklch(0.968 0.018 82);
+  --sidebar-foreground: oklch(0.24 0.035 45);
+  --sidebar-primary: oklch(0.53 0.155 38);
+  --sidebar-primary-foreground: oklch(0.99 0.01 85);
+  --sidebar-accent: oklch(0.93 0.06 85);
+  --sidebar-accent-foreground: oklch(0.3 0.06 55);
+  --sidebar-border: oklch(0.9 0.022 78);
+  --sidebar-ring: oklch(0.53 0.155 38);
+}
+
+.dark {
+  --background: oklch(0.19 0.024 45);
+  --foreground: oklch(0.95 0.014 85);
+  --card: oklch(0.235 0.028 45);
+  --card-foreground: oklch(0.95 0.014 85);
+  --popover: oklch(0.235 0.028 45);
+  --popover-foreground: oklch(0.95 0.014 85);
+  --primary: oklch(0.68 0.15 45);
+  --primary-foreground: oklch(0.2 0.03 45);
+  --secondary: oklch(0.29 0.03 45);
+  --secondary-foreground: oklch(0.95 0.014 85);
+  --muted: oklch(0.28 0.026 45);
+  --muted-foreground: oklch(0.72 0.025 70);
+  --accent: oklch(0.33 0.05 60);
+  --accent-foreground: oklch(0.95 0.014 85);
+  --destructive: oklch(0.62 0.18 25);
+  --destructive-foreground: oklch(0.97 0.012 85);
+  --border: oklch(1 0 0 / 12%);
+  --input: oklch(1 0 0 / 16%);
+  --ring: oklch(0.68 0.15 45);
+  --indigo-ink: oklch(0.62 0.12 265);
+  --indigo-ink-foreground: oklch(0.16 0.02 265);
+  --marigold: oklch(0.8 0.15 75);
+  --marigold-foreground: oklch(0.24 0.04 55);
+  --leaf: oklch(0.66 0.1 150);
+  --status-safe: oklch(0.68 0.12 150);
+  --status-attention: oklch(0.8 0.14 78);
+  --status-risk: oklch(0.66 0.17 28);
+  --status-restoration: oklch(0.66 0.11 250);
+  --chart-1: oklch(0.68 0.15 45);
+  --chart-2: oklch(0.8 0.15 75);
+  --chart-3: oklch(0.62 0.12 265);
+  --chart-4: oklch(0.68 0.12 150);
+  --chart-5: oklch(0.7 0.14 12);
+  --sidebar: oklch(0.22 0.026 45);
+  --sidebar-foreground: oklch(0.95 0.014 85);
+  --sidebar-primary: oklch(0.68 0.15 45);
+  --sidebar-primary-foreground: oklch(0.2 0.03 45);
+  --sidebar-accent: oklch(0.33 0.05 60);
+  --sidebar-accent-foreground: oklch(0.95 0.014 85);
+  --sidebar-border: oklch(1 0 0 / 12%);
+  --sidebar-ring: oklch(0.68 0.15 45);
+}
+
+/* Leaflet & MapLibre container containment safeguards */
+.leaflet-container {
+  isolation: isolate !important;
+  overflow: hidden !important;
+  z-index: 0 !important;
+}
+.leaflet-pane {
+  z-index: 10 !important;
+}
+.leaflet-map-pane {
+  z-index: 10 !important;
+}
+.leaflet-marker-pane,
+.leaflet-shadow-pane,
+.leaflet-overlay-pane {
+  z-index: 10 !important;
+}
+
+/* MapLibre marker positioning & containment safeguard */
+.maplibregl-map {
+  isolation: isolate !important;
+  overflow: hidden !important;
+  z-index: 0 !important;
+  max-width: 100% !important;
+}
+.maplibregl-canvas-container {
+  overflow: hidden !important;
+}
+.maplibregl-marker {
+  position: absolute !important;
+  top: 0 !important;
+  left: 0 !important;
+  will-change: transform;
+}
+
+#condition-map {
+  isolation: isolate !important;
+  overflow: hidden !important;
+  max-width: 100% !important;
+  position: relative !important;
+  z-index: 0 !important;
+}
+#condition-map > div {
+  max-width: 100% !important;
+  overflow: hidden !important;
+}
+
+@layer base {
+  * {
+    border-color: var(--color-border);
+  }
+
+  body {
+    background-color: var(--color-background);
+    color: var(--color-foreground);
+    font-family: var(--font-sans);
+    -webkit-font-smoothing: antialiased;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4 {
+    font-family: var(--font-display);
+    letter-spacing: -0.01em;
+  }
+
+  :focus-visible {
+    outline: 2px solid var(--color-ring);
+    outline-offset: 2px;
+  }
+}
+
+/* Subtle regional artwork pattern: kolam-inspired dot grid */
+@utility pattern-kolam {
+  background-image: radial-gradient(var(--color-primary) 1px, transparent 1px);
+  background-size: 18px 18px;
+  background-position: 0 0;
+  opacity: 1;
+}
+
+/* Jaali lattice pattern used behind hero and section headers */
+@utility pattern-jaali {
+  background-image:
+    linear-gradient(45deg, var(--color-border) 1px, transparent 1px),
+    linear-gradient(-45deg, var(--color-border) 1px, transparent 1px);
+  background-size: 22px 22px;
+}
+
+@utility surface-heritage {
+  background-image: linear-gradient(
+    150deg,
+    color-mix(in oklab, var(--color-accent) 55%, var(--color-card)),
+    var(--color-card) 60%
+  );
+}
+
+@utility text-gradient-heritage {
+  background-image: linear-gradient(
+    100deg,
+    var(--color-primary),
+    var(--color-marigold) 55%,
+    var(--color-indigo-ink)
+  );
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+@utility shadow-heritage {
+  box-shadow: var(--shadow-heritage);
+}
+
+@utility shadow-lift {
+  box-shadow: var(--shadow-lift);
+}
+
+/* Custom Heritage Ground Arrows for Pannellum 360 Walk */
+.pnlm-hotspot-base.pnlm-scene {
+  background-color: rgba(245, 158, 11, 0.85) !important;
+  border: 2px solid #ffffff !important;
+  border-radius: 50% !important;
+  box-shadow: 0 0 15px rgba(245, 158, 11, 0.6) !important;
+  animation: pulse-hotspot 2s infinite ease-in-out;
+}
+
+@keyframes pulse-hotspot {
+  0% { transform: scale(1); box-shadow: 0 0 0 0 rgba(245, 158, 11, 0.7); }
+  70% { transform: scale(1.15); box-shadow: 0 0 0 10px rgba(245, 158, 11, 0); }
+  100% { transform: scale(1); box-shadow: 0 0 0 0 rgba(245, 158, 11, 0); }
+}
+
+.pnlm-tooltip span {
+  background-color: rgba(15, 15, 15, 0.92) !important;
+  color: #f3f4f6 !important;
+  border: 1px solid rgba(255, 255, 255, 0.15) !important;
+  border-radius: 8px !important;
+  font-size: 12px !important;
+  font-weight: 500 !important;
+  padding: 6px 12px !important;
+  box-shadow: 0 10px 25px rgba(0,0,0,0.5) !important;
+}
+
+

@@ -1,0 +1,57 @@
+[
+  {
+    "id": "deccan-and-south",
+    "slug": "deccan-and-south",
+    "name": "Deccan & South",
+    "states": ["Tamil Nadu", "Kerala", "Karnataka", "Telangana"],
+    "tagline": "Dravidian temple towns, bronze casting, Carnatic music and temple theatre.",
+    "imageUrl": "/images/regions/deccan_south.jpg",
+    "accentColor": "from-amber-600/80 to-amber-950/90",
+    "highlights": ["Madurai Gopurams", "Panchaloha Bronzes", "Carnatic Sangeet", "Koodiyattam & Kathakali"],
+    "description": "Anchored by deep granite traditions and living ritual continuity, the Deccan & South encompasses monumental Dravidian temple towns characterized by soaring concentric gopurams and monolithic halls. From the sacred lost-wax metallurgical mastery of Chola bronze casters along the Kaveri to the mathematical rhythms of Carnatic music and the theatrical fury of Koodiyattam and Kathakali, this region preserves classical arts directly tied to community sanctuaries."
+  },
+  {
+    "id": "western-deserts-and-coast",
+    "slug": "western-deserts-and-coast",
+    "name": "Western Deserts & Coast",
+    "states": ["Rajasthan", "Gujarat", "Maharashtra"],
+    "tagline": "Stepwells, block printing, bandhani ties and desert ballad traditions.",
+    "imageUrl": "/images/regions/western_deserts_coast.jpg",
+    "accentColor": "from-orange-600/80 to-stone-950/90",
+    "highlights": ["Rani ki Vav Stepwells", "Ajrakh & Dabu Printing", "Bandhani Tie-Dye", "Manganiyar Ballads"],
+    "description": "A dynamic corridor of arid sands, salt flats, and maritime trade routes, Western India transforms harsh desert geographies into celebrated architectural and textile wonders. Highly engineered subterranean stepwells served as vital hydraulic and communal sanctums adorned with intricate stone carvings. Across Kutch, Thar, and Bagru, master printers harness riverbeds to yield geometric Ajrakh and intricate Bandhani, set against the hypnotic desert ballads of hereditary folk minstrels."
+  },
+  {
+    "id": "eastern-delta",
+    "slug": "eastern-delta",
+    "name": "Eastern Delta",
+    "states": ["West Bengal", "Odisha", "Bihar"],
+    "tagline": "Terracotta temples, patachitra scrolls, baul song and river festivals.",
+    "imageUrl": "/images/regions/eastern_delta.jpg",
+    "accentColor": "from-red-600/80 to-stone-950/90",
+    "highlights": ["Bishnupur Terracotta", "Patachitra Scrolls", "Baul Minstrels", "Riverine Epics & Chhath"],
+    "description": "The fertile floodplains and deltas of the Ganges, Brahmaputra, and Mahanadi river systems gave rise to an expressive, clay-and-cloth material heritage. In places like Bishnupur, where stone was scarce, artisans sculpted monumental temples out of burnt alluvial terracotta tiles depicting epic narratives. Complemented by the vibrant mythological storytelling of Patachitra scroll painters and the spiritual wandering of Baul minstrels, this region celebrates cyclic water ecology and agrarian festival traditions."
+  },
+  {
+    "id": "himalayan-belt",
+    "slug": "himalayan-belt",
+    "name": "Himalayan Belt",
+    "states": ["Himachal Pradesh", "Uttarakhand", "Sikkim", "Ladakh"],
+    "tagline": "Wooden hill temples, monastic murals, mask dances and pastoral memory.",
+    "imageUrl": "/images/regions/himalayan_belt.jpg",
+    "accentColor": "from-teal-600/80 to-slate-950/90",
+    "highlights": ["Kath-Kuni Timber Temples", "Monastic Cham Mask Dances", "Gompa Thangkas", "Pastoralist Weaving"],
+    "description": "Rising through the high-altitude passes and cedar forests of the Himalayan ridge, this region represents a unique synthesis of indigenous hill lore and Tibetan Buddhist cosmology. Traditional vernacular architecture thrives through wood-and-stone interlocking Kath-Kuni structures engineered to absorb seismic shifts. Within cliffside gompas and valley shrines, heritage is safeguarded through gilded thangka murals, monastic Cham mask dances embodying cosmic protectors, and nomadic pastoral weaving."
+  },
+  {
+    "id": "north-east",
+    "slug": "north-east",
+    "name": "North East",
+    "states": ["Assam", "Manipur", "Nagaland", "Meghalaya"],
+    "tagline": "Satras and sattriya dance, living root bridges, loin-loom weaving.",
+    "imageUrl": "/images/regions/north_east.jpg",
+    "accentColor": "from-emerald-600/80 to-emerald-950/90",
+    "highlights": ["Living Root Bridges (Jingkieng Jri)", "Majuli Satras & Masks", "Sattriya Monastic Dance", "Backstrap Loin-Loom"],
+    "description": "A biodiversity hotspot with extraordinary community stewardship, the North East showcases profound ecological integration with cultural identity. From the living root bridges engineered by Khasi and Jaintia communities using trained aerial tree roots, to the island monastic Satras of Majuli where 500-year-old Sattriya dance-dramas and bamboo masks are passed down through oral lineages, this region is celebrated for complex backstrap loin-loom textiles that visually encode clan heritage."
+  }
+]

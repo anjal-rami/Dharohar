@@ -1,0 +1,8 @@
+node_modules
+.output
+dist
+.wrangler
+.nitro
+.tanstack
+.git
+*.log

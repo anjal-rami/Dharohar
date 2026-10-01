@@ -1,0 +1,26 @@
+[
+  {
+    "id": "bandhani-kutch",
+    "slug": "bandhani-kutch",
+    "title": "Bandhani Tie-Dye of Kutch",
+    "category": "Resist Dye & Surface Ornamentation",
+    "region": "Kutch & Jamnagar, Gujarat",
+    "imageUrl": "/images/crafts/bandhani_kutch.jpg",
+    "giTag": "Geographical Indication (GI) Registered",
+    "tags": ["Tie-Dye", "Khatri Community", "Resist Dyeing", "Natural Dyes", "Kutch Heritage"],
+    "shortDescription": "Centuries-old resist tie-dye art of Kutch, producing intricate dot constellations using fingernail-plucked thread resists.",
+    "fullDescription": "Practiced primarily by the Khatri community across Kutch and Saurashtra, Bandhani (derived from the Sanskrit 'Bandh' meaning to tie) is one of the world's oldest resist-dyeing traditions. Artisans use pointed fingernails or metal rings to pluck pinpoint folds of fine silk, georgette, or muslin into tiny knots bound tightly with waxed cotton thread. When immersed in successive baths of natural madder, pomegranate, and indigo, the bound areas resist color absorption. The unpicked textile reveals kaleidoscopic patterns of dots (bindi), paisleys (kodi), and waves (leheriya), celebrated for their distinctive crinkled texture and auspicious wedding significance."
+  },
+  {
+    "id": "kanchipuram-silk-weaving",
+    "slug": "kanchipuram-silk-weaving",
+    "title": "Kanchipuram Silk Weaving",
+    "category": "Handloom & Jacquard Brocade",
+    "region": "Kanchipuram, Tamil Nadu",
+    "imageUrl": "/images/crafts/kanchipuram_silk.jpg",
+    "giTag": "Geographical Indication (GI) Registered",
+    "tags": ["Mulberry Silk", "Zari", "Korvai Technique", "Temple Borders", "Dravidian Heritage"],
+    "shortDescription": "Heavy mulberry silk sarees renowned for interlocking contrasting borders woven with pure gold and silver zari.",
+    "fullDescription": "Woven on traditional wooden pit looms by hereditary weaver communities tracing their descent to Sage Markanda, Kanchipuram silk sarees represent the pinnacle of South Indian handloom mastery. Crafted from three-ply mulberry silk yarn twisted with pure silver electroplated in 24k gold zari, these textiles are distinguished by the 'Korvai' technique—where the contrasting body and border are woven separately and interlocked seamlessly using a specialized three-shuttle interlocking process. The motifs draw directly from Chola and Pallava temple iconography, featuring temple gopuram spires (Thazhampoo rekku), floral creepers (kodi visiri), celestial swans (annapakshi), and mythical winged beasts (yali)."
+  }
+]

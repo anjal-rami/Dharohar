@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Dharohar">
+  <!-- Dharohar mark: temple arch (chandrashala) over a stepwell, in the app palette -->
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#c96a3f"/>
+      <stop offset="1" stop-color="#a94c26"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="112" fill="url(#bg)"/>
+  <!-- chandrashala arch -->
+  <path d="M116 384 V 260 Q 116 116 256 116 Q 396 116 396 260 V 384 Z" fill="#fdf8ef"/>
+  <!-- doorway -->
+  <path d="M210 384 V 292 Q 210 232 256 232 Q 302 232 302 292 V 384 Z" fill="#7f3a1a"/>
+  <!-- kalash finial -->
+  <circle cx="256" cy="92" r="20" fill="#e9b44c"/>
+  <!-- stepwell steps -->
+  <rect x="156" y="416" width="200" height="16" rx="8" fill="#e9b44c"/>
+  <rect x="196" y="444" width="120" height="16" rx="8" fill="#e2a63d"/>
+</svg>

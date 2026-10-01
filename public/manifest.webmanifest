@@ -1,0 +1,55 @@
+{
+  "name": "Dharohar: India Living Heritage",
+  "short_name": "Dharohar",
+  "description": "Progressive Web App for discovering India's cultural heritage: trails, 3D relics, reels, AI assistant and offline field dossiers.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#0c0a09",
+  "theme_color": "#0c0a09",
+  "orientation": "portrait-primary",
+  "categories": ["travel", "education", "culture", "navigation"],
+  "icons": [
+    {
+      "src": "/dharohar-logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/dharohar-logo.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/favicon.ico",
+      "sizes": "48x48",
+      "type": "image/x-icon",
+      "purpose": "any"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Heritage Trails",
+      "short_name": "Trails",
+      "description": "Access curated GIS cultural trails and offline itineraries",
+      "url": "/trails",
+      "icons": [{ "src": "/dharohar-logo.svg", "sizes": "any" }]
+    },
+    {
+      "name": "Heritage Reels",
+      "short_name": "Reels",
+      "description": "Immersive cultural video shorts with Indic narration",
+      "url": "/reels",
+      "icons": [{ "src": "/dharohar-logo.svg", "sizes": "any" }]
+    },
+    {
+      "name": "Explore Heritage",
+      "short_name": "Explore",
+      "description": "Discover monuments, stepwells and living traditions",
+      "url": "/explore",
+      "icons": [{ "src": "/dharohar-logo.svg", "sizes": "any" }]
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+[
+  {
+    "id": "seed-1",
+    "siteId": "rani-ki-vav-patan",
+    "title": "Rani ki Vav Subterranean Sculptures",
+    "description": "Intricate Maru-Gurjara stepwell carving depicting Vishnu Dashavatara avatars and apsaras.",
+    "authorName": "Dr. Ananya Deshmukh",
+    "imageUrl": "/images/monuments/rani_ki_vav.jpg",
+    "endorsements": 48,
+    "status": "ASI_SEALED",
+    "exifVerified": true,
+    "createdAt": "2026-08-15T09:30:00.000Z"
+  },
+  {
+    "id": "seed-2",
+    "siteId": "hampi-monuments",
+    "title": "Vijayanagara Stone Chariot at Vittala Temple",
+    "description": "Monolithic granite shrine dedicated to Garuda with revolving stone wheels from 16th century Vijayanagara Empire.",
+    "authorName": "Prof. R. Venkatesh",
+    "imageUrl": "/images/monuments/hampi.jpg",
+    "endorsements": 62,
+    "status": "ASI_SEALED",
+    "exifVerified": true,
+    "createdAt": "2026-08-20T11:15:00.000Z"
+  },
+  {
+    "id": "seed-3",
+    "siteId": "konark-sun-temple",
+    "title": "Konark Sun Temple Surya Chariot Wheel Dial",
+    "description": "Astronomically aligned 13th-century Kalinga chlorite stone wheel functioning as a high-precision sundial.",
+    "authorName": "Subhashree Mohapatra",
+    "imageUrl": "/images/monuments/konark_sun_temple.jpg",
+    "endorsements": 55,
+    "status": "ASI_SEALED",
+    "exifVerified": true,
+    "createdAt": "2026-08-25T14:00:00.000Z"
+  },
+  {
+    "id": "seed-4",
+    "siteId": "ellora-caves",
+    "title": "Kailash Cave 16 Monolithic Megalith Excavation",
+    "description": "World's largest single monolithic rock excavation carved top-down under Rashtrakuta King Krishna I.",
+    "authorName": "Devendra Patil",
+    "imageUrl": "/uploads/kailash-temple.jpg",
+    "endorsements": 71,
+    "status": "ASI_SEALED",
+    "exifVerified": true,
+    "createdAt": "2026-09-01T10:45:00.000Z"
+  },
+  {
+    "id": "seed-5",
+    "siteId": "brihadisvara-thanjavur",
+    "title": "Brihadisvara Kumbam 80-Tonne Capstone Inscriptions",
+    "description": "Chola granitic vimana engineering with Tamil epigraphic donor records of Rajaraja Chola I.",
+    "authorName": "K. Meenakshisundaram",
+    "imageUrl": "/uploads/brihadisvara.jpg",
+    "endorsements": 39,
+    "status": "ASI_SEALED",
+    "exifVerified": true,
+    "createdAt": "2026-09-10T08:20:00.000Z"
+  },
+  {
+    "id": "seed-6",
+    "siteId": "qutb-minar-complex",
+    "title": "Gupta Era Rust-Resistant Iron Pillar Inscriptions",
+    "description": "4th-century CE high-phosphorus wrough iron column bearing Brahmi inscriptions of King Chandra.",
+    "authorName": "Dr. Tariq Mansoor",
+    "imageUrl": "/uploads/iron-pillar.jpg",
+    "endorsements": 44,
+    "status": "ASI_SEALED",
+    "exifVerified": true,
+    "createdAt": "2026-09-15T12:00:00.000Z"
+  },
+  {
+    "id": "chola-bronze-stone",
+    "slug": "chola-bronze-stone",
+    "title": "Chola Bronze & Stone",
+    "category": "Sculpture & Metallurgy",
+    "region": "Thanjavur, Tamil Nadu",
+    "imageUrl": "/images/heritage/chola_bronze_stone.jpg",
+    "tags": ["Lost-Wax Casting", "Panchaloha", "Granite Relief", "Imperial Chola", "Nataraja"],
+    "shortDescription": "Imperial Chola lost-wax bronze casting and hard granite monolithic sculpting from the Kaveri basin.",
+    "fullDescription": "The zenith of Dravidian metallurgical mastery, Chola bronzes represent an unbroken lineage of lost-wax casting (cire perdue) nurtured along the Kaveri river banks. Created according to strict mathematical canons of the Shilpa Shastras, these hollow-cast and solid Panchaloha masterpieces—most famously the Nataraja embodying the cosmic cycle of creation and dissolution—are celebrated globally for their rhythmic kinetic poise, sensual anatomical elegance, and intricate ornamentation. Paired with monumental metamorphic granite relief sculptures, they epitomize the spiritual and artistic sovereignty of the Imperial Chola epoch."
+  },
+  {
+    "id": "delta-song-and-scroll",
+    "slug": "delta-song-and-scroll",
+    "title": "Delta Song & Scroll",
+    "category": "Performing & Narrative Arts",
+    "region": "Kaveri Basin, Tamil Nadu & Andhra Borders",
+    "imageUrl": "/images/heritage/delta_song_scroll.jpg",
+    "tags": ["Kalamkari", "Temple Scrolls", "Harikatha", "Folk Ballads", "Natural Pigments"],
+    "shortDescription": "Hand-painted narrative textile scrolls synchronized with oral folk epics and riverine ballads.",
+    "fullDescription": "An ancient audiovisual storytelling medium of Southern riverine deltas, the 'Song and Scroll' lineage weaves painted fabric narratives with sung oral epics. Nomadic storytellers and temple balladeers unrolled massive, vegetable-dyed cotton scrolls—rendered with a bamboo kalam using natural mineral pigments, iron rust, and myrobalan mordants—to accompany melodious Harikatha and seasonal agricultural ballads. Each horizontal register depicts episodes from the epics and regional folklore, transforming visual textile craftsmanship into a participatory community performance of song, memory, and heritage preservation."
+  },
+  {
+    "id": "desert-dye-route",
+    "slug": "desert-dye-route",
+    "title": "Desert Dye Route",
+    "category": "Textile Crafts",
+    "region": "Kutch & Thar Desert, Gujarat / Rajasthan",
+    "imageUrl": "/images/heritage/desert_dye_route.jpg",
+    "tags": ["Ajrakh", "Dabu Resist", "Natural Indigo", "Hand Block Printing", "Thar Desert"],
+    "shortDescription": "Arid-zone resist printing and natural indigo-madder textile heritage across historic caravan pathways.",
+    "fullDescription": "Stretching across the arid sands of Kutch and the Thar Desert, the Desert Dye Route chronicles centuries of nomadic pastoralist trade, mineral alchemy, and geometric resist printing. Centered on legendary crafts like Ajrakh and Dabu, artisans hand-stamp unbleached cotton using hand-chiseled wooden blocks and mud-gum resists before submerging them in biological indigo and wild madder vats. Designed to reflect the cosmological harmony of desert stars and oasis water, these textiles were historically traded across ancient caravan pathways, standing as enduring symbols of ecological resourcefulness and tactile geometry."
+  }
+]

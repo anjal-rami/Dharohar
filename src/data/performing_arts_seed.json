@@ -1,0 +1,573 @@
+[
+  {
+    "id": "art-kathakali-kerala",
+    "slug": "kathakali-kerala",
+    "name": "Kathakali Classical Dance-Drama",
+    "title": "Kathakali Classical Dance-Drama",
+    "nativeTitle": "കഥകളി",
+    "state": "Kerala",
+    "region": "South",
+    "category": "Classical Dance",
+    "unescoStatus": "Sangeet Natak Akademi Recognized Classical Form",
+    "heroImage": "/images/arts/kathakali_kerala.jpg",
+    "imageUrl": "/images/arts/kathakali_kerala.jpg",
+    "shortDescription": "Codified Sanskrit dance-drama of Kerala featuring transformative Aharya makeup, towering Kireedam crowns, and 24 root mudras.",
+    "historicalOrigin": {
+      "period": "17th Century CE",
+      "lineageText": "Evolved under the royal patronage of the Raja of Kottarakkara from ancient Sanskrit temple theatre forms (Koodiyattam and Krishnanattam). Codified around heroic and demonic episodes of the Ramayana and Mahabharata.",
+      "traditionOrGharana": "Kalluvazhi & Thekkumkur Lineages"
+    },
+    "signatureElements": [
+      {
+        "title": "Navarasas & Codified Eye Kinetics",
+        "description": "Rigorous facial muscular control conveying 9 primordial emotional states without spoken words."
+      },
+      {
+        "title": "Chutti & Aharya Makeup",
+        "description": "Paccha (green) for virtuous heroes, Kathi (knife) for arrogant kings, and Thadi (bearded) for demonic powers."
+      },
+      {
+        "title": "24 Root Mudras",
+        "description": "Elaborate hand gestures derived from the Hastha Lakshana Deepika lexicon."
+      }
+    ],
+    "costumeAndAttire": "Voluminous pleated hoop skirts, heavy wooden gilt breastplates, and towering carved headgear (Kireedam).",
+    "musicalAccompaniment": [
+      "Chenda",
+      "Maddalam",
+      "Chengila",
+      "Ilathalam",
+      "Sopana Sangeetham"
+    ],
+    "socioEconomicImpact": "Sustains master woodcarvers of Kumaranallur crafting Kireedam crowns, natural mineral dye preparers, and hereditary Chutti makeup artists."
+  },
+  {
+    "id": "art-bharatanatyam-tn",
+    "slug": "bharatanatyam-tamilnadu",
+    "name": "Bharatanatyam of Tamil Nadu",
+    "title": "Bharatanatyam of Tamil Nadu",
+    "nativeTitle": "பரதநாட்டியம்",
+    "state": "Tamil Nadu",
+    "region": "South",
+    "category": "Classical Dance",
+    "unescoStatus": "Sangeet Natak Akademi Recognized Classical Form",
+    "heroImage": "/images/arts/bharatanatyam_tamilnadu.jpg",
+    "imageUrl": "/images/arts/bharatanatyam_tamilnadu.jpg",
+    "shortDescription": "Ancient temple dance codified in Natya Shastra, characterized by geometric Aramandi postures, syncopated Adavus, and sacred Abhinaya.",
+    "historicalOrigin": {
+      "period": "2nd Century BCE – 10th Century CE",
+      "lineageText": "Directly traced to the Sage Bharata Muni's Natya Shastra. Historically nurtured as Sadir Attam by Devadasis in Chola and Nayaka granite temples across Thanjavur.",
+      "traditionOrGharana": "Pandanallur, Kalakshetra, and Vazhuvoor Styles"
+    },
+    "signatureElements": [
+      {
+        "title": "Aramandi Posture",
+        "description": "Geometric half-sitting demi-plié posture grounding the spine and enabling dynamic angular limb extensions."
+      },
+      {
+        "title": "Adavu & Jathi Sequences",
+        "description": "Metric foot striking patterns syncopated against rhythmically recited Sollukattu syllables."
+      },
+      {
+        "title": "Abhinaya & Bhava",
+        "description": "Devotional expressional storytelling depicting the yearning of the individual soul (Jivatma) for the Divine (Paramatma)."
+      }
+    ],
+    "costumeAndAttire": "Tailored Kanchipuram silk sarees with pleated front fans that flare during Aramandi, adorned with temple jewelry set with uncut stones.",
+    "musicalAccompaniment": [
+      "Mridangam",
+      "Carnatic Vocalist",
+      "Nattuvangam (Cymbals)",
+      "Venu (Bamboo Flute)",
+      "Violin"
+    ],
+    "socioEconomicImpact": "Directly fuels the handloom economy of Kanchipuram silk weavers and traditional brass ghungroo bells casters of Kumbakonam."
+  },
+  {
+    "id": "art-garba-gujarat",
+    "slug": "garba-dance-gujarat",
+    "name": "Garba & Dandiya Raas of Gujarat",
+    "title": "Garba & Dandiya Raas of Gujarat",
+    "nativeTitle": "ગરબા અને દાંડિયા રાસ",
+    "state": "Gujarat",
+    "region": "West",
+    "category": "Folk Dance",
+    "unescoStatus": "UNESCO Intangible Cultural Heritage of Humanity",
+    "heroImage": "/images/arts/garba_dance_gujarat.jpg",
+    "imageUrl": "/images/arts/garba_dance_gujarat.jpg",
+    "shortDescription": "UNESCO-inscribed circular sacred dance honoring Goddess Amba, characterized by syncopated claps, Mandvi parikrama, and wooden dandiya rhythms.",
+    "historicalOrigin": {
+      "period": "10th Century CE (Mentioned in medieval Rasas)",
+      "lineageText": "Rooted in folk traditions worshipping the Shakti cosmos. The circular movement symbolizes the eternal wheel of time (Samsara) revolving around the Divine Womb Lamp (Garbha Deep).",
+      "traditionOrGharana": "Saurashtra and Charotar Folk Traditions"
+    },
+    "signatureElements": [
+      {
+        "title": "Tritaal (3 Claps)",
+        "description": "Syncopated footwork matched with 3 sacred rhythmic claps dedicated to Brahma, Vishnu, and Shiva."
+      },
+      {
+        "title": "Mandvi Parikrama",
+        "description": "Concentric counter-clockwise circular progression keeping energy centered on the Mother Goddess shrine."
+      },
+      {
+        "title": "Dandiya Strikes",
+        "description": "Synchronized paired wooden stick strikes enacting the sword combat between Goddess Durga and Mahishasura."
+      }
+    ],
+    "costumeAndAttire": "Heavy backless chaniya cholis with intricate Kutchi Rabari mirror embroidery and bandhani tie-dye; men wear flared Kediyus with Dhoti.",
+    "musicalAccompaniment": [
+      "Dhol",
+      "Manjira",
+      "Shehnai",
+      "Harmonium",
+      "Khanjari"
+    ],
+    "socioEconomicImpact": "Drives the year-round cottage economy of Kutch tie-dye artisans, Abhala mirror craftswomen, and lathe-turned wooden dandiya makers."
+  },
+  {
+    "id": "art-bhangra-punjab",
+    "slug": "bhangra-punjab",
+    "name": "Bhangra & Giddha of Punjab",
+    "title": "Bhangra & Giddha of Punjab",
+    "nativeTitle": "ਭੰਗੜਾ",
+    "state": "Punjab",
+    "region": "North",
+    "category": "Folk Dance",
+    "unescoStatus": "National Heritage Form",
+    "heroImage": "/images/arts/bhangra_punjab.jpg",
+    "imageUrl": "/images/arts/bhangra_punjab.jpg",
+    "shortDescription": "Exuberant harvest celebration dance driven by driving Dhol rhythms, acrobatic leaps, Boliyan poetry, and vibrant pleated Chadras.",
+    "historicalOrigin": {
+      "period": "14th Century CE (Agrarian Folk Origin)",
+      "lineageText": "Celebrated by Punjabi farmers during the Baisakhi harvest of the wheat crop. Embodies physical vitality, resilience, and uninhibited joy.",
+      "traditionOrGharana": "Majha and Malwa Agrarian Traditions"
+    },
+    "signatureElements": [
+      {
+        "title": "Dhol Beats (Dhamaal & Chaal)",
+        "description": "Unmistakable bass accents struck on the barrel drum driving explosive jumping movements."
+      },
+      {
+        "title": "Acrobatic Jumps & Shoulders",
+        "description": "High-energy shoulder shrugs and leaps celebrating bountiful harvest prosperity."
+      },
+      {
+        "title": "Boliyan Call & Response",
+        "description": "Witty, spontaneous couplets chanted to set rhythmic variations."
+      }
+    ],
+    "costumeAndAttire": "Vibrant Chadras (pleated lungis), sleeveless waistcoats, and ornate stiff-pleated Pagri turbans crowned with a fan (Turla).",
+    "musicalAccompaniment": [
+      "Dhol",
+      "Chimta",
+      "Tumbi",
+      "Algoza",
+      "Bugchu"
+    ],
+    "socioEconomicImpact": "Supports multi-generational artisanal dhol drum makers using seasoned mango and sheesham wood in Jalandhar."
+  },
+  {
+    "id": "art-ghoomar-rajasthan",
+    "slug": "ghoomar-rajasthan",
+    "name": "Ghoomar Folk Dance of Rajasthan",
+    "title": "Ghoomar Folk Dance of Rajasthan",
+    "nativeTitle": "घूमर",
+    "state": "Rajasthan",
+    "region": "North",
+    "category": "Folk Dance",
+    "unescoStatus": "National Heritage Form",
+    "heroImage": "/images/arts/ghoomar_rajasthan.jpg",
+    "imageUrl": "/images/arts/ghoomar_rajasthan.jpg",
+    "shortDescription": "Royal pirouetting dance of Rajputana originating from Bhil community rites, featuring swirling flared 80-kali ghagras and modest Ghoonghat etiquette.",
+    "historicalOrigin": {
+      "period": "Medieval Rajputana (Bhil Tribe Origin)",
+      "lineageText": "Originally performed by the indigenous Bhil community to worship Goddess Saraswati, later embraced by royal Rajput courts as a ritual dance of feminine grace.",
+      "traditionOrGharana": "Marwar and Mewar Royal Court Traditions"
+    },
+    "signatureElements": [
+      {
+        "title": "Ghoom (Spinning Movement)",
+        "description": "Graceful twirling pirouettes where the flared 80-kali skirts create a mesmerizing kaleidoscope."
+      },
+      {
+        "title": "Lakh Ghoonghat Etiquette",
+        "description": "Dancers maintain veils (Odhnis) over their faces, expressing modest and regal composure."
+      },
+      {
+        "title": "Swaying Arm Arcs",
+        "description": "Subtle circular wrist movements coordinating with the slow tempo of the dholak."
+      }
+    ],
+    "costumeAndAttire": "Flared Rajasthani Ghaghra with Gota Patti gold borders, paired with an embroidered Choli, sheer Odhni, and ivory Bangles.",
+    "musicalAccompaniment": [
+      "Dholak",
+      "Kamaicha",
+      "Nagada",
+      "Sarangi",
+      "Morchang"
+    ],
+    "socioEconomicImpact": "Directly empowers women artisan collectives producing Gota Patti gold ribbon embroidery across Jaipur and Shekhawati."
+  },
+  {
+    "id": "art-odissi-odisha",
+    "slug": "odissi-odisha",
+    "name": "Odissi Classical Dance of Odisha",
+    "title": "Odissi Classical Dance of Odisha",
+    "nativeTitle": "ଓଡ଼ିଶୀ",
+    "state": "Odisha",
+    "region": "East",
+    "category": "Classical Dance",
+    "unescoStatus": "Sangeet Natak Akademi Recognized Classical Form",
+    "heroImage": "/images/arts/odissi_odisha.jpg",
+    "imageUrl": "/images/arts/odissi_odisha.jpg",
+    "shortDescription": "Ancient temple dance sculpted in Konark and Puri shrines, renowned for sculptural Tribhanga stances, Chauka posture, and Jayadeva's Gita Govinda poetry.",
+    "historicalOrigin": {
+      "period": "2nd Century BCE (Udayagiri Cave Carvings)",
+      "lineageText": "Documented in the ancient Natya Shastra and temple carvings of Konark and Jagannath Puri. Nurtured by Maharis (temple dancers) and Gotipuas.",
+      "traditionOrGharana": "Guru Kelucharan Mohapatra & Deba Prasad Das Styles"
+    },
+    "signatureElements": [
+      {
+        "title": "Tribhanga Stance",
+        "description": "The sculptural three-bend posture (neck, waist, and knee) reflecting ancient stone temple sculptures."
+      },
+      {
+        "title": "Chauka Posture",
+        "description": "A square, masculine grounding stance representing Lord Jagannath."
+      },
+      {
+        "title": "Gita Govinda Expressions",
+        "description": "Lyrical rendition of Jayadeva's Sanskrit verses expressing the longing of Radha and Krishna."
+      }
+    ],
+    "costumeAndAttire": "Sambalpuri or Bomkai handloom silk sarees draped with front fan pleats, adorned with intricate silver filigree (Tarakasi) ornaments from Cuttack.",
+    "musicalAccompaniment": [
+      "Mardala",
+      "Bansuri (Bamboo Flute)",
+      "Sitar",
+      "Manjira",
+      "Odissi Vocalist"
+    ],
+    "socioEconomicImpact": "Vital patron of Cuttack's 500-year-old silver filigree craft and Nuapatna Ikat silk weavers."
+  },
+  {
+    "id": "art-kathak-up",
+    "slug": "kathak-up",
+    "name": "Kathak Dance of Uttar Pradesh",
+    "title": "Kathak Dance of Uttar Pradesh",
+    "nativeTitle": "कथक",
+    "state": "Uttar Pradesh",
+    "region": "North",
+    "category": "Classical Dance",
+    "unescoStatus": "Sangeet Natak Akademi Recognized Classical Form",
+    "heroImage": "/images/arts/kathak_up.jpg",
+    "imageUrl": "/images/arts/kathak_up.jpg",
+    "shortDescription": "Dynamic storytelling dance blending temple devotion with Awadhi courtly grace, known for Tatkar footwork, lightning Chakkars, and subtle Thumri Abhinaya.",
+    "historicalOrigin": {
+      "period": "4th Century BCE – 18th Century CE",
+      "lineageText": "Originated from itinerant temple storytellers (Kathakars) chanting epics. Flourished under Mughal and Awadh royal courts, blending Hindu devotion with sophisticated courtly grace.",
+      "traditionOrGharana": "Lucknow, Banaras, and Jaipur Gharanas"
+    },
+    "signatureElements": [
+      {
+        "title": "Tatkar (Rhythmic Footwork)",
+        "description": "Intricate micro-rhythms executed solely through feet striking the floor with over 150 brass ghungroos."
+      },
+      {
+        "title": "Chakkars (High-Speed Spins)",
+        "description": "Multiple lightning-fast pirouettes terminating in a sudden, razor-sharp statue freeze (Sama)."
+      },
+      {
+        "title": "Nazaakat & Thumri Bhava",
+        "description": "Delicate neck and eyebrow gestures expressing nuanced lyrical poetry."
+      }
+    ],
+    "costumeAndAttire": "Flared Anarkali Angrakhas or Banarasi silk saree with dupatta, accompanied by heavy brass ankle bells.",
+    "musicalAccompaniment": [
+      "Tabla",
+      "Pakhawaj",
+      "Sarangi",
+      "Harmonium",
+      "Santur"
+    ],
+    "socioEconomicImpact": "Preserves the heritage of Banaras brass bell founders and Awadhi Zardozi embroidery workshops."
+  },
+  {
+    "id": "art-yakshagana-karnataka",
+    "slug": "yakshagana-karnataka",
+    "name": "Yakshagana Coastal Theatre of Karnataka",
+    "title": "Yakshagana Coastal Theatre of Karnataka",
+    "nativeTitle": "ಯಕ್ಷಗಾನ",
+    "state": "Karnataka",
+    "region": "South",
+    "category": "Temple Theatre",
+    "unescoStatus": "National Heritage Form",
+    "heroImage": "/images/arts/yakshagana_karnataka.jpg",
+    "imageUrl": "/images/arts/yakshagana_karnataka.jpg",
+    "shortDescription": "All-night coastal open-air theatre featuring massive carved Pagade crowns, dynamic Battalu Nartana battle footwork, and unscripted Kannada philosophical dialogues.",
+    "historicalOrigin": {
+      "period": "11th – 16th Century CE",
+      "lineageText": "Born in coastal and Malenadu regions of Karnataka. An all-night outdoor theatrical celebration enacting episodes from the Ramayana, Mahabharata, and Puranas.",
+      "traditionOrGharana": "Badagutittu (Northern) & Tenkutittu (Southern) Traditions"
+    },
+    "signatureElements": [
+      {
+        "title": "Pagade & Kireeta (Towering Headgear)",
+        "description": "Immense gold-leaf wooden crowns weighing several kilograms worn by divine and demonic characters."
+      },
+      {
+        "title": "Prasanga Improvisation",
+        "description": "Actors improvise witty, philosophical dialogues in Kannada without memorized scripts."
+      },
+      {
+        "title": "Battalu Nartana",
+        "description": "High-octane circular jumps and knee-spinning battle footwork."
+      }
+    ],
+    "costumeAndAttire": "Armlets (Bhujakeerthi), chest girdles, heavy facial makeup with mineral paints, and red-yellow-black checkered waist-cloths.",
+    "musicalAccompaniment": [
+      "Chande",
+      "Maddale",
+      "Tala",
+      "Bhagavatha (Lead Singer)"
+    ],
+    "socioEconomicImpact": "Sustains coastal master woodturners, gold-foil artisans, and hereditary Bhagavata vocalists in Udupi and Dakshina Kannada."
+  },
+  {
+    "id": "art-manipuri-raas",
+    "slug": "manipuri-raas-manipur",
+    "name": "Manipuri Raas Leela of Manipur",
+    "title": "Manipuri Raas Leela of Manipur",
+    "nativeTitle": "মনিপুরী রাসলীলা",
+    "state": "Manipur",
+    "region": "Northeast",
+    "category": "Classical Dance",
+    "unescoStatus": "Sangeet Natak Akademi Recognized Classical Form",
+    "heroImage": "/images/arts/manipuri_raas_manipur.jpg",
+    "imageUrl": "/images/arts/manipuri_raas_manipur.jpg",
+    "shortDescription": "Vaishnava devotional dance-drama celebrated inside Govindajee temple, known for undulating Lasya fluidity, Pung Cholom acrobatic drumming, and iconic Kumil skirts.",
+    "historicalOrigin": {
+      "period": "18th Century CE (King Bhagyachandra Reign)",
+      "lineageText": "Inspired by a divine vision of Maharaja Bhagyachandra in 1779. Celebrated inside the sacred Govindajee temple mandap as an offering of pure Vaishnava devotion.",
+      "traditionOrGharana": "Govindajee Temple Tradition"
+    },
+    "signatureElements": [
+      {
+        "title": "Lasya Fluidity",
+        "description": "Characterized by soft, undulating, wave-like body curves with zero abrupt jerks or angular snaps."
+      },
+      {
+        "title": "Pung Cholom",
+        "description": "Acrobatic, high-jumping drum dance where performers drum and leap simultaneously."
+      },
+      {
+        "title": "Sankirtana Devotion",
+        "description": "Ritual congregational singing and cymbal dancing narrating the cosmic love of Radha-Krishna."
+      }
+    ],
+    "costumeAndAttire": "Iconic Kumil: stiff barrel-shaped skirt embellished with mirror-work, topped by a translucent white gossamer veil (Inaphi).",
+    "musicalAccompaniment": [
+      "Pung (Manipuri Drum)",
+      "Kartal (Large Cymbals)",
+      "Pena (Bowed Lute)",
+      "Flute"
+    ],
+    "socioEconomicImpact": "Supports Manipuri handloom silk weavers and master Pung drum builders who utilize indigenous timber and treated skins."
+  },
+  {
+    "id": "art-sattriya-assam",
+    "slug": "sattriya-assam",
+    "name": "Sattriya Dance of Assam",
+    "title": "Sattriya Dance of Assam",
+    "nativeTitle": "সত্ৰীয়া নৃত্য",
+    "state": "Assam",
+    "region": "Northeast",
+    "category": "Classical Dance",
+    "unescoStatus": "Sangeet Natak Akademi Recognized Classical Form",
+    "heroImage": "/images/arts/sattriya_assam.jpg",
+    "imageUrl": "/images/arts/sattriya_assam.jpg",
+    "shortDescription": "Sacred monastic dance founded by saint Srimanta Sankardev on Majuli Island, rooted in 64 Mati Akhara drills, Borgeet ragas, and indigenous Muga silk.",
+    "historicalOrigin": {
+      "period": "15th Century CE",
+      "lineageText": "Created by the great saint-reformer Mahapurush Srimanta Sankardev as a vital medium for the Neo-Vaishnavite Bhakti movement within monastic institutions (Sattras).",
+      "traditionOrGharana": "Kamalabari & Barpeta Sattra Lineages"
+    },
+    "signatureElements": [
+      {
+        "title": "Mati Akhara (Grammar Drills)",
+        "description": "64 foundational physical exercises rooted in yoga to condition balance, stamina, and posture."
+      },
+      {
+        "title": "Ojapali Storytelling",
+        "description": "Choral chanting and narrative dance expounding philosophical scripture."
+      },
+      {
+        "title": "Borgeet Rendition",
+        "description": "Performances set strictly to the devotional classical ragas composed by Sankardev."
+      }
+    ],
+    "costumeAndAttire": "Woven strictly from raw Assamese Pat and Muga silk in ivory and gold, adorned with traditional Kopoli phool hairpieces and Kanthi jewelry.",
+    "musicalAccompaniment": [
+      "Khol (Terracotta Two-Faced Drum)",
+      "Taal (Large Bronze Cymbals)",
+      "Flute",
+      "Violin"
+    ],
+    "socioEconomicImpact": "Preserves the sacred heritage of Majuli Island's riverine monasteries, bell-metal artisans of Sarthebari, and Muga silk weavers."
+  },
+  {
+    "id": "art-pandavani-chhattisgarh",
+    "slug": "pandavani-chhattisgarh",
+    "name": "Pandavani Musical Ballad of Chhattisgarh",
+    "title": "Pandavani Musical Ballad of Chhattisgarh",
+    "nativeTitle": "पंडवानी",
+    "state": "Chhattisgarh",
+    "region": "Central",
+    "category": "Folk Ballad",
+    "unescoStatus": "National Heritage Form",
+    "heroImage": "/images/arts/pandavani_chhattisgarh.jpg",
+    "imageUrl": "/images/arts/pandavani_chhattisgarh.jpg",
+    "shortDescription": "Gond and Pardhan tribal oral ballad recounting the Mahabharata through the valor of Bhima, featuring dramatic Tambura weapon play and intense vocal chants.",
+    "historicalOrigin": {
+      "period": "Ancient Oral Tradition (Pardhan Gond Tribe)",
+      "lineageText": "The indigenous oral enactment of the Mahabharata from the perspective of the fiery Pandava hero Bhima. Passed down across centuries among Gond and Pardhan forest communities.",
+      "traditionOrGharana": "Kapalik (Dramatic) & Vedamati (Seated Classical) Styles"
+    },
+    "signatureElements": [
+      {
+        "title": "Tambura as Metaphorical Weapon",
+        "description": "The lead performer holds a stringed Tambura, dynamically transforming it into Bhima's mace, Arjun's bow, or Draupadi's hair."
+      },
+      {
+        "title": "Ragi Accompanist Interaction",
+        "description": "The chorus drummer (Ragi) constantly challenges and responds to the lead narrator, sustaining high energy."
+      },
+      {
+        "title": "Vocal Dynamics",
+        "description": "Thunderous vocal modulations shifting from intense battle cries to poignant laments."
+      }
+    ],
+    "costumeAndAttire": "Traditional Chhattisgarhi printed saree or dhoti with ghungroo bells on feet and tribal silver ornaments.",
+    "musicalAccompaniment": [
+      "Tambura",
+      "Kartal",
+      "Dholak",
+      "Harmonium"
+    ],
+    "socioEconomicImpact": "Celebrates tribal storytelling lineages popularized globally by legends like Dr. Teejan Bai."
+  },
+  {
+    "id": "art-chhau-east",
+    "slug": "chhau-dance-east",
+    "name": "Chhau Martial Dance of Eastern India",
+    "title": "Chhau Martial Dance of Eastern India",
+    "nativeTitle": "ଛଉ / ছৌ নৃত্য",
+    "state": "Jharkhand / Odisha / West Bengal",
+    "region": "East",
+    "category": "Martial Art",
+    "unescoStatus": "UNESCO Intangible Cultural Heritage of Humanity",
+    "heroImage": "/images/arts/chhau_dance_east.jpg",
+    "imageUrl": "/images/arts/chhau_dance_east.jpg",
+    "shortDescription": "UNESCO-inscribed martial dance drama enacting mythological warfare with acrobatic mid-air leaps, sword strikes, and handcrafted Purulia clay masks.",
+    "historicalOrigin": {
+      "period": "Medieval Martial Tradition",
+      "lineageText": "Originated from indigenous military drills (Chhauni means camp). Performed during the spring Chaitra Parva festival to invoke protective deities.",
+      "traditionOrGharana": "Seraikella (Jharkhand), Mayurbhanj (Odisha), and Purulia (West Bengal) Styles"
+    },
+    "signatureElements": [
+      {
+        "title": "Ufli & Chali Combat Movements",
+        "description": "Martial footwork simulating sword parries, tiger leaps, and river crossings."
+      },
+      {
+        "title": "Handcrafted Clay & Papier-Mâché Masks",
+        "description": "Expressive painted masks in Purulia and Seraikella depicting mythological gods and demons."
+      },
+      {
+        "title": "Acrobatic Leaps",
+        "description": "Dancers execute mid-air splits, spinning falls, and shield strikes without losing rhythm."
+      }
+    ],
+    "costumeAndAttire": "Ornate velvet jackets, silk dhotis, tribal feathered crests, and painted clay masks with glass beads.",
+    "musicalAccompaniment": [
+      "Dhamsa (Kettledrum)",
+      "Dhol",
+      "Shehnai",
+      "Mohuri"
+    ],
+    "socioEconomicImpact": "Directly supports the hereditary mask-making artisan cluster of Charida village in Purulia, West Bengal."
+  },
+  {
+    "id": "art-baul-song-bengal",
+    "slug": "baul-song-bengal",
+    "title": "Baul Song Tradition of Bengal",
+    "name": "Baul Song Tradition of Bengal",
+    "category": "Performing Arts",
+    "state": "West Bengal",
+    "region": "East",
+    "unescoStatus": "UNESCO Intangible Cultural Heritage",
+    "heritageStatus": "UNESCO Intangible Cultural Heritage",
+    "imageUrl": "/images/performing_arts/baul_song_bengal.jpg",
+    "heroImage": "/images/performing_arts/baul_song_bengal.jpg",
+    "tags": [
+      "Folk Music",
+      "Ektara",
+      "Lalon Shah",
+      "UNESCO Intangible Heritage",
+      "Mystic Poetry",
+      "Baul",
+      "Performing Arts"
+    ],
+    "shortDescription": "Wandering mystic minstrelsy singing ecstatic acoustic ballads of cosmic love and casteless spiritual surrender.",
+    "fullDescription": "Inscribed on UNESCO's Representative List of the Intangible Cultural Heritage, the Bauls of rural Bengal represent an unbroken spiritual and musical counter-culture rooted in Vaishnava Sahajiya, Tantric philosophy, and Sufi mysticism. Carrying an Ektara (single-string drone plucked with one finger), a brass cymbal, and ankle bells (ghungroos), Baul singers like the lineage of Fakir Lalon Shah perform at rural gatherings (Akhras) and village fairs, singing ecstatic allegories that dismiss caste and formal religion in search of the 'Moner Manush' (the inner soul)."
+  },
+  {
+    "id": "art-majuli-sattriya-satra",
+    "slug": "majuli-sattriya-satra-life",
+    "title": "Sattriya Dance & Satra Life of Majuli",
+    "name": "Sattriya Dance & Satra Life of Majuli",
+    "category": "Performing Arts",
+    "state": "Assam",
+    "region": "Northeast",
+    "unescoStatus": "Classical Dance & Monastic Living Tradition",
+    "heritageStatus": "Classical Dance & Monastic Living Tradition",
+    "imageUrl": "/images/performing_arts/majuli_sattriya_satra.jpg",
+    "heroImage": "/images/performing_arts/majuli_sattriya_satra.jpg",
+    "tags": [
+      "Classical Dance",
+      "Bhakti Movement",
+      "Monastic Satras",
+      "Bamboo Masks",
+      "Khol & Bor-Taal",
+      "Majuli",
+      "Performing Arts"
+    ],
+    "shortDescription": "500-year-old living monastic art form preserved by celibate monks on the Brahmaputra's river island of Majuli.",
+    "fullDescription": "Instituted in the 15th century by saint-reformer Srimanta Sankaradeva, the Satras (monasteries) of Majuli island have continuously fostered the classical dance form of Sattriya and devotional theatre (Ankiya Nat). Resident monks (Bhakats) practice celibate, communal routines dedicated to learning complex rhythmic footwork, classical hastas, and musical performance using the terracotta Khol drum and heavy Bor-taal cymbals. The tradition also maintains master craftsmanship in fabricating oversized bamboo and cow-dung theatrical masks (Mukhas) depicting demons and avatars."
+  },
+  {
+    "id": "art-pandavani-chhattisgarh",
+    "slug": "pandavani-epic-chhattisgarh",
+    "title": "Pandavani Oral Ballad Tradition",
+    "name": "Pandavani Oral Ballad Tradition",
+    "category": "Performing Arts",
+    "state": "Chhattisgarh",
+    "region": "Central",
+    "unescoStatus": "National Living Oral Epic Tradition",
+    "heritageStatus": "National Living Oral Epic Tradition",
+    "imageUrl": "/images/performing_arts/pandavani_chhattisgarh.jpg",
+    "heroImage": "/images/performing_arts/pandavani_chhattisgarh.jpg",
+    "tags": [
+      "Oral Epics",
+      "Mahabharata",
+      "Teejan Bai",
+      "Tambura",
+      "Folk Theatre",
+      "Pandavani",
+      "Performing Arts"
+    ],
+    "shortDescription": "Electrifying solo folk rendition of the Mahabharata, enacted with a stringed tambura brandished as a bow, sword, or mace.",
+    "fullDescription": "Pandavani (literally 'Songs of the Pandavas') is a dynamic tribal and rural oral performance tradition from Chhattisgarh, recounting the trials and battles of the Mahabharata with a focal emphasis on the heroic deeds of Bhima. Performed in two primary styles—Vedamati (seated, classical recitation) and Kapalik (standing, kinetic theatrical dramatization pioneered by legendary performer Teejan Bai)—the lead narrator strums a single-stringed tambura adorned with peacock feathers, wielding the instrument dynamically as Bhima’s mace, Arjuna’s bow, or a royal battle chariot amidst responsive singing from accompanying drummers."
+  }
+]

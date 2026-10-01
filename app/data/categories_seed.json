@@ -1,0 +1,1252 @@
+[
+  {
+    "id": "fest-garba-01",
+    "title": "Navratri Garba",
+    "category": "festivals",
+    "state": "Gujarat",
+    "region": "West",
+    "shortDescription": "UNESCO Intangible Cultural Heritage — Nine nights of devotional circular rhythm dance.",
+    "heritageStatus": "UNESCO Intangible Cultural Heritage",
+    "imageUrl": "/images/festivals/garba_gujarat.jpg",
+    "tags": [
+      "garba",
+      "dandiya",
+      "shakti",
+      "unesco",
+      "nine-nights"
+    ]
+  },
+  {
+    "id": "fest-wb-durga-puja",
+    "title": "Durga Puja of Kolkata",
+    "category": "festivals",
+    "state": "West Bengal",
+    "region": "East",
+    "shortDescription": "UNESCO Intangible Cultural Heritage — Grand community pandals, Dhunuchi Naach, Dhaak percussion rhythms, and magnificent clay idol craftsmanship celebrating the triumph of good over evil.",
+    "heritageStatus": "UNESCO Intangible Cultural Heritage",
+    "imageUrl": "/images/festivals/durga_puja_bengal.jpg",
+    "tags": [
+      "durga-puja",
+      "pandals",
+      "dhunuchi",
+      "unesco",
+      "kolkata"
+    ]
+  },
+  {
+    "id": "fest-punjab-baisakhi",
+    "title": "Baisakhi & Lohri",
+    "category": "festivals",
+    "state": "Punjab",
+    "region": "North",
+    "shortDescription": "Vibrant harvest celebration and solar new year, marked by bonfire gatherings, Giddha ballads, joyful Bhangra rhythms, and commemoration of the Khalsa Panth formation in 1699.",
+    "heritageStatus": "National Heritage",
+    "imageUrl": "/images/festivals/baisakhi_punjab.jpg",
+    "tags": [
+      "baisakhi",
+      "lohri",
+      "harvest",
+      "bhangra",
+      "khalsa"
+    ]
+  },
+  {
+    "id": "fest-kerala-onam",
+    "title": "Onam & Vallam Kali",
+    "category": "festivals",
+    "state": "Kerala",
+    "region": "South",
+    "shortDescription": "Ancient harvest festival welcoming mythical King Mahabali, celebrated with elaborate Pookkalam floral carpets, 26-dish Onasadya feasts, and thrilling snake boat races on backwaters.",
+    "heritageStatus": "National Heritage",
+    "imageUrl": "/images/festivals/onam_kerala.jpg",
+    "tags": [
+      "onam",
+      "vallam-kali",
+      "snake-boat",
+      "pookkalam",
+      "onasadya"
+    ]
+  },
+  {
+    "id": "fest-tn-pongal",
+    "title": "Pongal & Jallikattu",
+    "category": "festivals",
+    "state": "Tamil Nadu",
+    "region": "South",
+    "shortDescription": "Four-day agrarian thanksgiving festival honoring Surya (the Sun God) and cattle, featuring newly harvested sweet Pongal rice boiled in clay pots and traditional bull-embracing valour sports.",
+    "heritageStatus": "National Heritage",
+    "imageUrl": "/images/festivals/pongal_tamilnadu.jpg",
+    "tags": [
+      "pongal",
+      "jallikattu",
+      "harvest",
+      "surya",
+      "tamil-nadu"
+    ]
+  },
+  {
+    "id": "fest-assam-bihu",
+    "title": "Rongali Bihu",
+    "category": "festivals",
+    "state": "Assam",
+    "region": "Northeast",
+    "shortDescription": "The vibrant Assamese New Year marking the advent of spring and the agricultural seeding season, celebrated with traditional Bihu dance, dhol, pepa buffalo horn flutes, and pithas.",
+    "heritageStatus": "National Heritage",
+    "imageUrl": "/images/festivals/rongali_bihu_assam.jpg",
+    "tags": [
+      "bihu",
+      "rongali",
+      "brahmaputra",
+      "spring",
+      "pepa"
+    ]
+  },
+  {
+    "id": "fest-odisha-ratha-yatra",
+    "title": "Ratha Yatra of Puri",
+    "category": "festivals",
+    "state": "Odisha",
+    "region": "East",
+    "shortDescription": "World-famous Chariot Festival where massive wooden chariots of Lord Jagannath, Balabhadra, and Subhadra are hand-pulled by millions of devotees along Puri's Grand Road to Gundicha Temple.",
+    "heritageStatus": "National Heritage",
+    "imageUrl": "/images/festivals/ratha_yatra_odisha.jpg",
+    "tags": [
+      "ratha-yatra",
+      "puri",
+      "jagannath",
+      "chariot",
+      "odisha"
+    ]
+  },
+  {
+    "id": "fest-bihar-chhath",
+    "title": "Chhath Puja",
+    "category": "festivals",
+    "state": "Bihar",
+    "region": "East",
+    "shortDescription": "Ancient Vedic solar thanksgiving ritual spanning 36 hours of rigorous fasting without water, offering Arghya to the setting and rising Sun God and Chhathi Maiya at sacred river ghats.",
+    "heritageStatus": "National Heritage",
+    "imageUrl": "/images/festivals/chhath_puja_bihar.jpg",
+    "tags": [
+      "chhath-puja",
+      "surya",
+      "arghya",
+      "ganga-ghat",
+      "bihar"
+    ]
+  },
+  {
+    "id": "fest-mh-ganesh-chaturthi",
+    "title": "Ganesh Chaturthi",
+    "category": "festivals",
+    "state": "Maharashtra",
+    "region": "West",
+    "shortDescription": "Ten-day public celebration pioneered by Lokmanya Tilak, featuring spectacular Sarvajanik Ganpati pandals, energetic Dhol-Tasha pathak drumming, modak offerings, and Visarjan processions.",
+    "heritageStatus": "National Heritage",
+    "imageUrl": "/images/festivals/ganesh_chaturthi_maharashtra.jpg",
+    "tags": [
+      "ganesh-chaturthi",
+      "dhol-tasha",
+      "modak",
+      "mumbai",
+      "pune"
+    ]
+  },
+  {
+    "id": "fest-nagaland-hornbill",
+    "title": "Hornbill Festival",
+    "category": "festivals",
+    "state": "Nagaland",
+    "region": "Northeast",
+    "shortDescription": "The 'Festival of Festivals' held at Kisama Heritage Village, uniting 17 Naga indigenous tribes through ceremonial morung architecture, warrior dances, folk songs, and indigenous sports.",
+    "heritageStatus": "National Heritage",
+    "imageUrl": "/images/festivals/hornbill_nagaland.jpg",
+    "tags": [
+      "hornbill",
+      "kisama",
+      "naga-tribes",
+      "kohima",
+      "warrior-dance"
+    ]
+  },
+  {
+    "id": "fest-ladakh-hemis",
+    "title": "Hemis Monastery Festival",
+    "category": "festivals",
+    "state": "Ladakh",
+    "region": "North",
+    "shortDescription": "Sacred Himalayan monastic festival held in the courtyard of Hemis Gompa, featuring vibrant masked Cham dances depicting the victory of good over demonic forces, dedicated to Guru Padmasambhava.",
+    "heritageStatus": "National Heritage",
+    "imageUrl": "/images/festivals/hemis_ladakh.jpg",
+    "tags": [
+      "hemis",
+      "ladakh",
+      "cham-dance",
+      "padmasambhava",
+      "monastery"
+    ]
+  },
+  {
+    "id": "fest-rajasthan-pushkar",
+    "title": "Pushkar Camel Fair & Desert Festival",
+    "category": "festivals",
+    "state": "Rajasthan",
+    "region": "West",
+    "shortDescription": "One of the world's largest livestock gatherings on the dunes of the Thar desert, timed with Kartik Purnima holy dips in Lake Pushkar, folk music bards, turban tying, and camel beauty contests.",
+    "heritageStatus": "National Heritage",
+    "imageUrl": "/images/festivals/pushkar_rajasthan.jpg",
+    "tags": [
+      "pushkar",
+      "desert-festival",
+      "camel-fair",
+      "rajasthan",
+      "kartik-purnima"
+    ]
+  },
+  {
+    "id": "art-kerala-kathakali",
+    "title": "Kathakali & Koodiyattam",
+    "category": "performing_arts",
+    "state": "Kerala",
+    "region": "South",
+    "shortDescription": "UNESCO Intangible Cultural Heritage — Classical Sanskrit temple theatre and dance-drama distinguished by green pacha facial makeup, towering kireedam headdresses, and codified eye mudras.",
+    "heritageStatus": "UNESCO Intangible Cultural Heritage",
+    "imageUrl": "/images/arts/kathakali_kerala.jpg",
+    "tags": [
+      "kathakali",
+      "koodiyattam",
+      "unesco",
+      "temple-theatre",
+      "mudra"
+    ]
+  },
+  {
+    "id": "art-tn-bharatanatyam",
+    "title": "Bharatanatyam",
+    "category": "performing_arts",
+    "state": "Tamil Nadu",
+    "region": "South",
+    "shortDescription": "Ancient classical dance originating from Tamil temple devadasis, codified in the Natya Shastra with geometric aramandi postures, intricate rhythmic adavus, and emotive abhinaya.",
+    "heritageStatus": "Classical Tradition",
+    "imageUrl": "/images/arts/bharatanatyam_tamilnadu.jpg",
+    "tags": [
+      "bharatanatyam",
+      "natya-shastra",
+      "classical-dance",
+      "adavus",
+      "tanjore"
+    ]
+  },
+  {
+    "id": "art-gujarat-garba-raas",
+    "title": "Garba & Raas",
+    "category": "performing_arts",
+    "state": "Gujarat",
+    "region": "West",
+    "shortDescription": "UNESCO Intangible Cultural Heritage — Devotional circular folk dance performed with wooden sticks (dandiya) and synchronised claps, symbolising the cyclic nature of time and cosmic creation.",
+    "heritageStatus": "UNESCO Intangible Cultural Heritage",
+    "imageUrl": "/images/arts/garba_dance_gujarat.jpg",
+    "tags": [
+      "garba",
+      "dandiya-raas",
+      "divine-feminine",
+      "unesco",
+      "folk-dance"
+    ]
+  },
+  {
+    "id": "art-punjab-bhangra",
+    "title": "Bhangra & Giddha",
+    "category": "performing_arts",
+    "state": "Punjab",
+    "region": "North",
+    "shortDescription": "Exuberant Punjabi folk dances celebrating the bountiful rabi harvest, propelled by driving dhol beats, chimta tongs, boliyan poetry, and athletic acrobatics.",
+    "heritageStatus": "Folk Tradition",
+    "imageUrl": "/images/arts/bhangra_punjab.jpg",
+    "tags": [
+      "bhangra",
+      "giddha",
+      "dhol",
+      "punjabi-folk",
+      "harvest-dance"
+    ]
+  },
+  {
+    "id": "dance-ghoomar-01",
+    "title": "Ghoomar Folk Dance",
+    "category": "performing_arts",
+    "state": "Rajasthan",
+    "region": "West",
+    "shortDescription": "Graceful royal twirling dance developed by the Bhil tribe and adopted by Rajput royalty, performed by veiled women in swirling multi-hued ghaghras.",
+    "heritageStatus": "UNESCO Intangible Cultural Heritage",
+    "imageUrl": "/images/arts/ghoomar_rajasthan.jpg",
+    "tags": [
+      "ghoomar",
+      "rajasthani-dance",
+      "ghaghra",
+      "unesco",
+      "folk-dance"
+    ]
+  },
+  {
+    "id": "art-odisha-odissi",
+    "title": "Odissi",
+    "category": "performing_arts",
+    "state": "Odisha",
+    "region": "East",
+    "shortDescription": "Sculptural classical temple dance codified in ancient Odishan temple reliefs, renowned for the lyrical tribhanga (three-bend) body posture, fluid torso movements, and Gita Govinda bhakti.",
+    "heritageStatus": "Classical Tradition",
+    "imageUrl": "/images/arts/odissi_odisha.jpg",
+    "tags": [
+      "odissi",
+      "tribhanga",
+      "jagannath",
+      "classical-dance",
+      "odisha"
+    ]
+  },
+  {
+    "id": "art-up-kathak",
+    "title": "Kathak",
+    "category": "performing_arts",
+    "state": "Uttar Pradesh",
+    "region": "North",
+    "shortDescription": "Classical storytelling dance nurtured across temple courtyards and Mughal royal courts of Lucknow and Banaras, renowned for swift pirouettes (chakkars) and rhythmic footwork (tatkar).",
+    "heritageStatus": "Classical Tradition",
+    "imageUrl": "/images/arts/kathak_up.jpg",
+    "tags": [
+      "kathak",
+      "lucknow-gharana",
+      "chakkars",
+      "tatkar",
+      "ghungroo"
+    ]
+  },
+  {
+    "id": "art-karnataka-yakshagana",
+    "title": "Yakshagana",
+    "category": "performing_arts",
+    "state": "Karnataka",
+    "region": "South",
+    "shortDescription": "Vibrant coastal folk theatre combining classical music, energetic battle steps, towering pagade headgear, intricate face makeup, and spontaneous dialogue drawn from the epics.",
+    "heritageStatus": "Folk Theatre",
+    "imageUrl": "/images/arts/yakshagana_karnataka.jpg",
+    "tags": [
+      "yakshagana",
+      "folk-theatre",
+      "kannada",
+      "maddale",
+      "costumes"
+    ]
+  },
+  {
+    "id": "art-manipur-raas-leela",
+    "title": "Manipuri Raas Leela",
+    "category": "performing_arts",
+    "state": "Manipur",
+    "region": "Northeast",
+    "shortDescription": "Classical lyrical dance expressing the divine romance of Radha and Krishna, performed with smooth, continuous circular motions and iconic cylindrical, mirror-embroidered Kumil skirts.",
+    "heritageStatus": "Classical Tradition",
+    "imageUrl": "/images/arts/manipuri_raas_manipur.jpg",
+    "tags": [
+      "manipuri",
+      "raas-leela",
+      "kumil",
+      "radha-krishna",
+      "classical"
+    ]
+  },
+  {
+    "id": "art-assam-sattriya",
+    "title": "Sattriya",
+    "category": "performing_arts",
+    "state": "Assam",
+    "region": "Northeast",
+    "shortDescription": "500-year-old monastery dance created by Vaishnavite saint Srimanta Sankardev in Assam's satras, combining devotional Ankiya Nat drama, cymbals (bartal), and khol drumming.",
+    "heritageStatus": "Classical Tradition",
+    "imageUrl": "/images/arts/sattriya_assam.jpg",
+    "tags": [
+      "sattriya",
+      "sankardev",
+      "satra",
+      "classical-dance",
+      "assam"
+    ]
+  },
+  {
+    "id": "art-chhattisgarh-pandavani",
+    "title": "Pandavani",
+    "category": "performing_arts",
+    "state": "Chhattisgarh",
+    "region": "Central",
+    "shortDescription": "Epic folk ballad singing narrating stories from the Mahabharata with a single stringed tambura / ektara, made legendary internationally by master exponent Teejan Bai.",
+    "heritageStatus": "Folk Tradition",
+    "imageUrl": "/images/arts/pandavani_chhattisgarh.jpg",
+    "tags": [
+      "pandavani",
+      "teejan-bai",
+      "mahabharata",
+      "ballad",
+      "chhattisgarh"
+    ]
+  },
+  {
+    "id": "art-east-chhau",
+    "title": "Chhau Dance",
+    "category": "performing_arts",
+    "state": "Jharkhand / West Bengal",
+    "region": "East",
+    "shortDescription": "UNESCO Intangible Cultural Heritage — Martial and acrobatics-infused masked folk dance depicting episodes from the Ramayana, Mahabharata, and local folklore to the thunderous beats of nagara and dhol.",
+    "heritageStatus": "UNESCO Intangible Cultural Heritage",
+    "imageUrl": "/images/arts/chhau_dance_east.jpg",
+    "tags": [
+      "chhau",
+      "unesco",
+      "martial-dance",
+      "purulia",
+      "seraikella",
+      "masks"
+    ]
+  },
+  {
+    "id": "food-gujarat-fafda-jalebi",
+    "slug": "fafda-jalebi-gujarat",
+    "title": "Fafda, Jalebi & Sambharo",
+    "name": "Fafda-Jalebi",
+    "category": "culinary",
+    "state": "Gujarat",
+    "region": "West",
+    "cookingTechnique": "Deep-Frying & Sugar Syrup Poaching",
+    "heritageStatus": "Geographical Indication (GI) Protected",
+    "imageUrl": "/images/food/fafda_jalebi_gujarat.jpg",
+    "heroImage": "/images/food/fafda_jalebi_gujarat.jpg",
+    "shortDescription": "Crispy spiced chickpea-flour fafda strips paired with golden spiral saffron jalebis drenched in syrup, complemented by fiery green chilies and shredded raw papaya sambharo.",
+    "culturalSignificance": "Sacred Dussehra dawn ritual celebrating the triumph of good over evil, consumed across Gujarat with cooling kadhi and papaya relish.",
+    "tags": [
+      "fafda",
+      "jalebi",
+      "sambharo",
+      "besan-craft",
+      "gujarat"
+    ]
+  },
+  {
+    "id": "food-rajasthan-dal-baati",
+    "slug": "dal-baati-rajasthan",
+    "title": "Dal Baati Churma",
+    "name": "Dal Baati Churma",
+    "category": "culinary",
+    "state": "Rajasthan",
+    "region": "West",
+    "cookingTechnique": "Pit-Baking & Desi Ghee Drenching",
+    "heritageStatus": "Geographical Indication (GI) Protected",
+    "imageUrl": "/images/food/dal_baati_rajasthan.jpg",
+    "heroImage": "/images/food/dal_baati_rajasthan.jpg",
+    "shortDescription": "Signature desert feast born of warrior travels: hard-baked whole wheat baatis drenched in pure desi cow ghee, served with crushed cardamom-sweetened churma and slow-simmered panchmel dal.",
+    "culturalSignificance": "Created during Rajput military campaigns in the Thar Desert where dough balls were buried under hot desert sands for survival cuisine.",
+    "tags": [
+      "dal-baati",
+      "churma",
+      "desi-ghee",
+      "panchmel-dal",
+      "rajasthan"
+    ]
+  },
+  {
+    "id": "food-punjab-makki-sarson",
+    "slug": "makki-sarson-punjab",
+    "title": "Makki di Roti & Sarson da Saag",
+    "name": "Makki di Roti & Sarson da Saag",
+    "category": "culinary",
+    "state": "Punjab",
+    "region": "North",
+    "cookingTechnique": "Slow Earthenware Stewing & Griddle Baking",
+    "heritageStatus": "National Culinary Heritage",
+    "imageUrl": "/images/food/makki_sarson_punjab.jpg",
+    "heroImage": "/images/food/makki_sarson_punjab.jpg",
+    "shortDescription": "Iconic agrarian winter tradition featuring freshly harvested tender mustard greens slow-cooked for hours in clay pots with bathua and ginger, paired with tawa-baked yellow corn rotis, fresh white butter (makhan), and jaggery.",
+    "culturalSignificance": "Hearty winter staple celebrating the winter harvest and Lohri bonfires across Punjab's agricultural belt.",
+    "tags": [
+      "makki-roti",
+      "sarson-saag",
+      "white-butter",
+      "winter-harvest",
+      "punjab"
+    ]
+  },
+  {
+    "id": "food-kerala-onasadya",
+    "slug": "onasadya-kerala",
+    "title": "Traditional Onasadya Feast",
+    "name": "Traditional Onasadya",
+    "category": "culinary",
+    "state": "Kerala",
+    "region": "South",
+    "cookingTechnique": "Coconut-Steam Simmering & Tempura Frying",
+    "heritageStatus": "National Culinary Heritage",
+    "imageUrl": "/images/food/onasadya_kerala.jpg",
+    "heroImage": "/images/food/onasadya_kerala.jpg",
+    "shortDescription": "A grand 26-dish vegetarian banquet ceremonially served on fresh plantain leaves during Onam, presenting Avial, Thoran, Olan, Kalan, Parippu with ghee, sharkara payasam, and crisp banana chips.",
+    "culturalSignificance": "Annual ceremonial banquet welcoming the legendary King Mahabali, embodying agricultural abundance, communal equality, and Ayurvedic spice harmony.",
+    "tags": [
+      "onasadya",
+      "plantain-leaf",
+      "avial",
+      "payasam",
+      "kerala-cuisine"
+    ]
+  },
+  {
+    "id": "food-bihar-litti-chokha",
+    "slug": "litti-chokha-bihar",
+    "title": "Litti Chokha",
+    "name": "Litti Chokha",
+    "category": "culinary",
+    "state": "Bihar",
+    "region": "East",
+    "cookingTechnique": "Cow-Dung Charcoal Roasting",
+    "heritageStatus": "Geographical Indication (GI) Protected",
+    "imageUrl": "/images/food/litti_chokha_bihar.jpg",
+    "heroImage": "/images/food/litti_chokha_bihar.jpg",
+    "shortDescription": "Ancient nutrition of Magadh warriors: whole wheat dough balls stuffed with roasted gram flour (sattu), ajwain, and mustard oil, slow-baked over cow dung charcoal embers, plunged in ghee, and accompanied by smoky baingan-tamatar chokha.",
+    "culturalSignificance": "Nourished Maurya and Mughal armies across central India with high-protein sattu that required no perishable cooking oils.",
+    "tags": [
+      "litti-chokha",
+      "sattu",
+      "charcoal-baked",
+      "magadh",
+      "bihar"
+    ]
+  },
+  {
+    "id": "food-telangana-biryani",
+    "slug": "biryani-hyderabad",
+    "title": "Hyderabadi Dum Biryani & Mirchi ka Salan",
+    "name": "Hyderabadi Dum Biryani",
+    "category": "culinary",
+    "state": "Telangana",
+    "region": "South",
+    "cookingTechnique": "Sealed Handi Slow-Steam Cooking (Dum Pukht)",
+    "heritageStatus": "Geographical Indication (GI) Protected",
+    "imageUrl": "/images/food/biryani_hyderabad.jpg",
+    "heroImage": "/images/food/biryani_hyderabad.jpg",
+    "shortDescription": "Culinary masterpiece of the Nizams: raw marinated mutton and aged long-grain basmati layered in a sealed copper handi, slow-cooked in its own steam over low charcoal (dum pukht) with saffron milk, paired with spicy peanut-sesame salan.",
+    "culturalSignificance": "Synthesized Persian court technique with Deccani spices in the royal kitchens of the Asaf Jahi Dynasty.",
+    "tags": [
+      "hyderabadi-biryani",
+      "dum-pukht",
+      "nizami",
+      "salan",
+      "saffron"
+    ]
+  },
+  {
+    "id": "food-bengal-rosogolla",
+    "slug": "rosogolla-bengal",
+    "title": "Banglar Rosogolla & Mishti Doi",
+    "name": "Banglar Rosogolla",
+    "category": "culinary",
+    "state": "West Bengal",
+    "region": "East",
+    "cookingTechnique": "Fresh Chenna Kneading & Boiling Sugar Syrup Poaching",
+    "heritageStatus": "Geographical Indication (GI) Protected",
+    "imageUrl": "/images/food/rosogolla_bengal.jpg",
+    "heroImage": "/images/food/rosogolla_bengal.jpg",
+    "shortDescription": "GI-certified iconic sweet heritage created by Nobin Chandra Das in 1868: spongy, porous spherical chenna (fresh cottage cheese) poached in light hot sugar syrup, followed by fermented caramelized earthenware mishti doi.",
+    "culturalSignificance": "Symbol of Bengal's confectionery renaissance, honored with an official GI tag and served at all sacred pujas.",
+    "tags": [
+      "rosogolla",
+      "mishti-doi",
+      "chenna",
+      "gi-tag",
+      "bengal"
+    ]
+  },
+  {
+    "id": "food-tn-idli-coffee",
+    "slug": "idli-coffee-tamilnadu",
+    "title": "Traditional Idli, Sambar & Filter Coffee",
+    "name": "Idli & Degree Filter Coffee",
+    "category": "culinary",
+    "state": "Tamil Nadu",
+    "region": "South",
+    "cookingTechnique": "Stone-Ground Overnight Fermentation & Steam-Baking",
+    "heritageStatus": "National Culinary Heritage",
+    "imageUrl": "/images/food/idli_coffee_tamilnadu.jpg",
+    "heroImage": "/images/food/idli_coffee_tamilnadu.jpg",
+    "shortDescription": "Pillowy steamed rice-urad fermented cakes served with spiced toor dal sambar and stone-ground coconut chutneys, concluded with frothy chicory-infused South Indian filter coffee poured in brass dabarah-tumbler sets.",
+    "culturalSignificance": "Millennia-old fermentation art mentioned in ancient Kannada and Tamil sangam texts as a gold standard of breakfast wellness.",
+    "tags": [
+      "idli",
+      "sambar",
+      "filter-coffee",
+      "fermentation",
+      "tamil-nadu"
+    ]
+  },
+  {
+    "id": "food-kashmir-wazwan",
+    "slug": "wazwan-kashmir",
+    "name": "Kashmiri Wazwan",
+    "title": "Kashmiri Wazwan & Shahi Rogan Josh",
+    "category": "culinary",
+    "state": "Jammu & Kashmir",
+    "region": "North",
+    "cookingTechnique": "Wooden-Hammer Meat Pounding & Copper Pot Simmering",
+    "heritageStatus": "National Culinary Heritage",
+    "imageUrl": "/images/food/wazwan_kashmir.jpg",
+    "heroImage": "/images/food/wazwan_kashmir.jpg",
+    "shortDescription": "A majestic multi-course royal feast orchestrated by hereditary master chefs (Vastas), featuring velvet-textured pounded meatballs (Gushtaba, Rista), saffron Rogan Josh cooked with ratanjot, and fragrant Kehwa tea brewed with Kashmiri saffron.",
+    "culturalSignificance": "Introduced in the 14th century via Samarkand weavers and cooks, regarded as the ultimate symbol of Kashmiri hospitality (Mehmaan-nawazi).",
+    "tags": [
+      "wazwan",
+      "rogan-josh",
+      "gushtaba",
+      "saffron",
+      "kashmir"
+    ]
+  },
+  {
+    "id": "food-maharashtra-misal-pav",
+    "slug": "misal-pav-maharashtra",
+    "name": "Kolhapuri Misal Pav",
+    "title": "Kolhapuri Misal Pav & Puran Poli",
+    "category": "culinary",
+    "state": "Maharashtra",
+    "region": "West",
+    "cookingTechnique": "Sprouted Legume Slow-Boiling & Griddle Ghee Roasting",
+    "heritageStatus": "Geographical Indication (GI) Protected",
+    "imageUrl": "/images/food/misal_pav_maharashtra.jpg",
+    "heroImage": "/images/food/misal_pav_maharashtra.jpg",
+    "shortDescription": "Fiery moth bean (matki) sprouted curry infused with lavangi chili and aromatic black goda masala, garnished with crisp farsan and lime, complemented by delicate cardamom-scented jaggery chana dal puran poli flatbreads.",
+    "culturalSignificance": "Everyday working-class sustenance that elevated into an internationally celebrated culinary ambassador of Maharashtra.",
+    "tags": [
+      "misal-pav",
+      "puran-poli",
+      "goda-masala",
+      "matki",
+      "maharashtra"
+    ]
+  },
+  {
+    "id": "food-goa-curry-bebinca",
+    "slug": "goan-curry-goa",
+    "name": "Goan Curry & Bebinca",
+    "title": "Goan Fish Curry & Traditional Bebinca",
+    "category": "culinary",
+    "state": "Goa",
+    "region": "West",
+    "cookingTechnique": "Earthen Kokum Simmering & Multi-Layer Oven Caramelization",
+    "heritageStatus": "Geographical Indication (GI) Protected",
+    "imageUrl": "/images/food/goan_curry_goa.jpg",
+    "heroImage": "/images/food/goan_curry_goa.jpg",
+    "shortDescription": "Sun-drenched coastal harmony of sour wild kokum (solam), fresh coconut milk, and Kashmiri chilies simmered with fresh sea catch, topped off with Bebinca, the multi-layered royal Indo-Portuguese pudding baked with coconut milk, egg yolks, and nutmeg.",
+    "culturalSignificance": "Celebrates 450 years of Konkan-Portuguese synthesis, with Bebinca recognized as an official GI-protected dessert of Goa.",
+    "tags": [
+      "goan-curry",
+      "bebinca",
+      "kokum",
+      "coconut-milk",
+      "goa"
+    ]
+  },
+  {
+    "id": "food-assam-masor-tenga",
+    "slug": "masor-tenga-assam",
+    "name": "Masor Tenga & Khar",
+    "title": "Masor Tenga & Traditional Khar",
+    "category": "culinary",
+    "state": "Assam",
+    "region": "Northeast",
+    "cookingTechnique": "Mustard Oil Flash-Frying & Sour Fruit Reduction",
+    "heritageStatus": "National Culinary Heritage",
+    "imageUrl": "/images/food/masor_tenga_assam.jpg",
+    "heroImage": "/images/food/masor_tenga_assam.jpg",
+    "shortDescription": "Soul-satisfying sour fish broth prepared with fresh Rohu carp, tomatoes, elephant apple (ou tenga), and lemon, preceded by alkaline Kolakhar filtered through sun-dried banana peels, epitomizing Assamese gut-health wisdom.",
+    "culturalSignificance": "Foundational course in classical Assamese thalis, balancing alkaline Khar start with a sour Tenga finale to cleanse the palate.",
+    "tags": [
+      "masor-tenga",
+      "khar",
+      "ou-tenga",
+      "rohu",
+      "assam"
+    ]
+  },
+  {
+    "id": "craft-patola-gujarat",
+    "slug": "patan-patola-gujarat",
+    "title": "Patan Patola Double Ikat",
+    "category": "crafts",
+    "state": "Gujarat",
+    "region": "West",
+    "shortDescription": "GI-certified 12th-century Solanki royal double-ikat silk weave where both warp and weft yarns are resist tie-dyed with natural extracts and mathematical precision.",
+    "heritageStatus": "Geographical Indication (GI)",
+    "imageUrl": "/images/crafts/patola_gujarat.jpg",
+    "tags": [
+      "patola",
+      "double-ikat",
+      "natural-dyes",
+      "gi-tag",
+      "patan"
+    ]
+  },
+  {
+    "id": "craft-blue-pottery-rajasthan",
+    "slug": "blue-pottery-jaipur",
+    "title": "Jaipur Glazed Blue Pottery",
+    "category": "crafts",
+    "state": "Rajasthan",
+    "region": "North",
+    "shortDescription": "Turko-Persian glazed pottery crafted without natural clay using quartz stone powder, Fuller's earth, and cobalt oxide, revolutionized by Sawai Ram Singh II.",
+    "heritageStatus": "Geographical Indication (GI)",
+    "imageUrl": "/images/crafts/blue_pottery_rajasthan.jpg",
+    "tags": [
+      "blue-pottery",
+      "quartz",
+      "jaipur",
+      "gi-tag",
+      "glaze"
+    ]
+  },
+  {
+    "id": "craft-banarasi-silk-up",
+    "slug": "banarasi-brocade-up",
+    "title": "Banarasi Zari Brocade & Silk",
+    "category": "crafts",
+    "state": "Uttar Pradesh",
+    "region": "North",
+    "shortDescription": "Opulent Katan silk brocade interwoven with real silver electroplated gold zari in Kadwa technique, originating in Vedic literature and perfected in Mughal Banaras.",
+    "heritageStatus": "Geographical Indication (GI)",
+    "imageUrl": "/images/crafts/banarasi_silk_up.jpg",
+    "tags": [
+      "banarasi",
+      "zari",
+      "brocade",
+      "kadwa",
+      "gi-tag"
+    ]
+  },
+  {
+    "id": "craft-pashmina-kashmir",
+    "slug": "pashmina-kani-kashmir",
+    "title": "Kashmiri Pashmina & Kani Shawls",
+    "category": "crafts",
+    "state": "Jammu & Kashmir",
+    "region": "North",
+    "shortDescription": "Finest Capra hircus underfleece woven on wooden looms with eyeless bobbins using coded Talim scripts, introduced by Mir Sayyid Ali Hamadani.",
+    "heritageStatus": "Geographical Indication (GI)",
+    "imageUrl": "/images/crafts/pashmina_kashmir.jpg",
+    "tags": [
+      "pashmina",
+      "kani-shawl",
+      "changthangi",
+      "cashmere",
+      "gi-tag"
+    ]
+  },
+  {
+    "id": "craft-pattachitra-odisha",
+    "slug": "pattachitra-odisha",
+    "title": "Raghurajpur Pattachitra Scroll Painting",
+    "category": "crafts",
+    "state": "Odisha",
+    "region": "East",
+    "shortDescription": "Lord Jagannath temple narrative scroll painting on cloth prepared with tamarind glue and chalk, hand-drawn with squirrel-hair brushes using mineral pigments.",
+    "heritageStatus": "Geographical Indication (GI)",
+    "imageUrl": "/images/crafts/pattachitra_odisha.jpg",
+    "tags": [
+      "pattachitra",
+      "raghurajpur",
+      "jagannath",
+      "scroll-painting",
+      "gi-tag"
+    ]
+  },
+  {
+    "id": "craft-chanderi-mp",
+    "slug": "chanderi-weaves-mp",
+    "title": "Chanderi Silk-Cotton Weaves",
+    "category": "crafts",
+    "state": "Madhya Pradesh",
+    "region": "Central",
+    "shortDescription": "Featherweight sheer fabrics woven on pit looms from raw silk and gossamer cotton featuring hand-picked Ashrafi buttis and shimmering zari borders.",
+    "heritageStatus": "Geographical Indication (GI)",
+    "imageUrl": "/images/crafts/chanderi_mp.jpg",
+    "tags": [
+      "chanderi",
+      "silk-cotton",
+      "handloom",
+      "zari",
+      "gi-tag"
+    ]
+  },
+  {
+    "id": "kanchipuram-silk-weaving",
+    "slug": "kanchipuram-silk-weaving",
+    "title": "Kanchipuram Silk Weaving",
+    "category": "crafts",
+    "state": "Tamil Nadu",
+    "region": "South",
+    "shortDescription": "Heavy mulberry silk sarees renowned for interlocking contrasting borders woven with pure gold and silver zari.",
+    "heritageStatus": "Geographical Indication (GI) Registered",
+    "imageUrl": "/images/crafts/kanchipuram_silk.jpg",
+    "tags": [
+      "Mulberry Silk",
+      "Zari",
+      "Korvai Technique",
+      "Temple Borders",
+      "Dravidian Heritage"
+    ],
+    "fullDescription": "Woven on traditional wooden pit looms by hereditary weaver communities tracing their descent to Sage Markanda, Kanchipuram silk sarees represent the pinnacle of South Indian handloom mastery. Crafted from three-ply mulberry silk yarn twisted with pure silver electroplated in 24k gold zari, these textiles are distinguished by the 'Korvai' technique—where the contrasting body and border are woven separately and interlocked seamlessly using a specialized three-shuttle interlocking process. The motifs draw directly from Chola and Pallava temple iconography, featuring temple gopuram spires (Thazhampoo rekku), floral creepers (kodi visiri), celestial swans (annapakshi), and mythical winged beasts (yali)."
+  },
+  {
+    "id": "bandhani-kutch",
+    "slug": "bandhani-kutch",
+    "title": "Bandhani Tie-Dye of Kutch",
+    "category": "crafts",
+    "state": "Gujarat",
+    "region": "West",
+    "shortDescription": "Centuries-old resist tie-dye art of Kutch, producing intricate dot constellations using fingernail-plucked thread resists.",
+    "heritageStatus": "Geographical Indication (GI) Registered",
+    "imageUrl": "/images/crafts/bandhani_kutch.jpg",
+    "tags": [
+      "Tie-Dye",
+      "Khatri Community",
+      "Resist Dyeing",
+      "Natural Dyes",
+      "Kutch Heritage"
+    ],
+    "fullDescription": "Practiced primarily by the Khatri community across Kutch and Saurashtra, Bandhani (derived from the Sanskrit 'Bandh' meaning to tie) is one of the world's oldest resist-dyeing traditions. Artisans use pointed fingernails or metal rings to pluck pinpoint folds of fine silk, georgette, or muslin into tiny knots bound tightly with waxed cotton thread. When immersed in successive baths of natural madder, pomegranate, and indigo, the bound areas resist color absorption. The unpicked textile reveals kaleidoscopic patterns of dots (bindi), paisleys (kodi), and waves (leheriya), celebrated for their distinctive crinkled texture and auspicious wedding significance."
+  },
+  {
+    "id": "craft-muga-silk-assam",
+    "slug": "muga-silk-assam",
+    "title": "Golden Muga Silk & Gamosa",
+    "category": "crafts",
+    "state": "Assam",
+    "region": "Northeast",
+    "shortDescription": "Naturally shimmering golden wild silk endemic to the Brahmaputra valley, patronized by Ahom kings, woven with Gos Buta motifs into Mekhela Chador.",
+    "heritageStatus": "Geographical Indication (GI)",
+    "imageUrl": "/images/crafts/muga_silk_assam.jpg",
+    "tags": [
+      "muga-silk",
+      "gamosa",
+      "assam",
+      "wild-silk",
+      "gi-tag"
+    ]
+  },
+  {
+    "id": "craft-kalamkari-andhra",
+    "slug": "srikalahasti-kalamkari-andhra",
+    "title": "Srikalahasti Freehand Kalamkari",
+    "category": "crafts",
+    "state": "Andhra Pradesh",
+    "region": "South",
+    "shortDescription": "Freehand temple narrative art rendered with bamboo reed styluses on buffalo-milk treated cotton, washed in the sacred flowing waters of Swarnamukhi.",
+    "heritageStatus": "Geographical Indication (GI)",
+    "imageUrl": "/images/crafts/kalamkari_andhra.jpg",
+    "tags": [
+      "kalamkari",
+      "srikalahasti",
+      "freehand",
+      "natural-dyes",
+      "gi-tag"
+    ]
+  },
+  {
+    "id": "craft-channapatna-karnataka",
+    "slug": "channapatna-lacquer-toys",
+    "title": "Channapatna Ivory-Wood Lacquerware",
+    "category": "crafts",
+    "state": "Karnataka",
+    "region": "South",
+    "shortDescription": "Non-toxic, lead-free child-safe turned lacquerware toys crafted from seasoned Wrightia tinctoria wood and natural shellac infused with vegetable dyes.",
+    "heritageStatus": "Geographical Indication (GI)",
+    "imageUrl": "/images/crafts/channapatna_toys_karnataka.jpg",
+    "tags": [
+      "channapatna",
+      "lacquerware",
+      "wooden-toys",
+      "tipu-sultan",
+      "gi-tag"
+    ]
+  },
+  {
+    "id": "craft-bastar-dhokra-cg",
+    "slug": "bastar-dhokra-chhattisgarh",
+    "title": "Bastar Lost-Wax Dhokra Metal Casting",
+    "category": "crafts",
+    "state": "Chhattisgarh",
+    "region": "Central",
+    "shortDescription": "4,500-year-old Harappan cire perdue metal casting tradition practiced by the tribal Ghadwa community using beeswax threads and anthill clay molds.",
+    "heritageStatus": "Geographical Indication (GI)",
+    "imageUrl": "/images/crafts/bastar_dhokra_chhattisgarh.jpg",
+    "tags": [
+      "dhokra",
+      "lost-wax",
+      "bell-metal",
+      "bastar",
+      "gi-tag"
+    ]
+  },
+  {
+    "id": "craft-madhubani-bihar",
+    "slug": "madhubani-painting-bihar",
+    "title": "Mithila Madhubani Folk Art",
+    "category": "crafts",
+    "state": "Bihar",
+    "region": "East",
+    "shortDescription": "Ancient Ramayana-era ritual folk art rendered with double-line outlines and horror vacui geometry by Mithila women using bamboo nibs and natural dyes.",
+    "heritageStatus": "Geographical Indication (GI)",
+    "imageUrl": "/images/crafts/madhubani_bihar.jpg",
+    "tags": [
+      "madhubani",
+      "mithila",
+      "folk-art",
+      "kachni-bharni",
+      "gi-tag"
+    ]
+  },
+  {
+    "id": "chola-bronze-stone",
+    "slug": "chola-bronze-stone",
+    "title": "Chola Bronze & Stone",
+    "category": "crafts",
+    "heritageStatus": "Sculpture & Metallurgy",
+    "state": "Thanjavur, Tamil Nadu",
+    "region": "South",
+    "imageUrl": "/images/heritage/chola_bronze_stone.jpg",
+    "tags": [
+      "Lost-Wax Casting",
+      "Panchaloha",
+      "Granite Relief",
+      "Imperial Chola",
+      "Nataraja"
+    ],
+    "shortDescription": "Imperial Chola lost-wax bronze casting and hard granite monolithic sculpting from the Kaveri basin.",
+    "fullDescription": "The zenith of Dravidian metallurgical mastery, Chola bronzes represent an unbroken lineage of lost-wax casting (cire perdue) nurtured along the Kaveri river banks. Created according to strict mathematical canons of the Shilpa Shastras, these hollow-cast and solid Panchaloha masterpieces—most famously the Nataraja embodying the cosmic cycle of creation and dissolution—are celebrated globally for their rhythmic kinetic poise, sensual anatomical elegance, and intricate ornamentation. Paired with monumental metamorphic granite relief sculptures, they epitomize the spiritual and artistic sovereignty of the Imperial Chola epoch."
+  },
+  {
+    "id": "delta-song-and-scroll",
+    "slug": "delta-song-and-scroll",
+    "title": "Delta Song & Scroll",
+    "category": "performing_arts",
+    "heritageStatus": "Performing & Narrative Arts",
+    "state": "Kaveri Basin, Tamil Nadu & Andhra Borders",
+    "region": "South",
+    "imageUrl": "/images/heritage/delta_song_scroll.jpg",
+    "tags": [
+      "Kalamkari",
+      "Temple Scrolls",
+      "Harikatha",
+      "Folk Ballads",
+      "Natural Pigments"
+    ],
+    "shortDescription": "Hand-painted narrative textile scrolls synchronized with oral folk epics and riverine ballads.",
+    "fullDescription": "An ancient audiovisual storytelling medium of Southern riverine deltas, the 'Song and Scroll' lineage weaves painted fabric narratives with sung oral epics. Nomadic storytellers and temple balladeers unrolled massive, vegetable-dyed cotton scrolls—rendered with a bamboo kalam using natural mineral pigments, iron rust, and myrobalan mordants—to accompany melodious Harikatha and seasonal agricultural ballads. Each horizontal register depicts episodes from the epics and regional folklore, transforming visual textile craftsmanship into a participatory community performance of song, memory, and heritage preservation."
+  },
+  {
+    "id": "desert-dye-route",
+    "slug": "desert-dye-route",
+    "title": "Desert Dye Route",
+    "category": "crafts",
+    "heritageStatus": "Textile Crafts",
+    "state": "Kutch & Thar Desert, Gujarat / Rajasthan",
+    "region": "West",
+    "imageUrl": "/images/heritage/desert_dye_route.jpg",
+    "tags": [
+      "Ajrakh",
+      "Dabu Resist",
+      "Natural Indigo",
+      "Hand Block Printing",
+      "Thar Desert"
+    ],
+    "shortDescription": "Arid-zone resist printing and natural indigo-madder textile heritage across historic caravan pathways.",
+    "fullDescription": "Stretching across the arid sands of Kutch and the Thar Desert, the Desert Dye Route chronicles centuries of nomadic pastoralist trade, mineral alchemy, and geometric resist printing. Centered on legendary crafts like Ajrakh and Dabu, artisans hand-stamp unbleached cotton using hand-chiseled wooden blocks and mud-gum resists before submerging them in biological indigo and wild madder vats. Designed to reflect the cosmological harmony of desert stars and oasis water, these textiles were historically traded across ancient caravan pathways, standing as enduring symbols of ecological resourcefulness and tactile geometry."
+  },
+  {
+    "id": "odisha-palm-leaf-manuscript",
+    "slug": "odisha-palm-leaf-manuscript",
+    "title": "Palm-Leaf Manuscript Tradition (Tala Pattachitra)",
+    "category": "crafts",
+    "state": "Odisha",
+    "region": "East",
+    "shortDescription": "Ancient epigraphic and illustrative art incised with a sharp iron stylus on cured palmyra palm leaves.",
+    "fullDescription": "Known natively as 'Tala Pattachitra', Odisha's palm-leaf manuscript tradition dates back over a millennium as an epigraphic medium for recording sacred texts, treatises, and astrological horoscopes. Artisans harvest fronds from the Palmyra palm (*Borassus flabellifer*), cure them in turmeric water, dry them in shaded breezes, and cut them to uniform sizes. Master calligraphers and painters etch intricate line drawings directly onto the brittle surface using a fine-tipped iron stylus (*Lekhani*). Natural lampblack mixed with bean juice is rubbed into the fine incisions to reveal black illustrative registers depicting the Gita Govinda, Ramayana, and botanical motifs, stitched together with silk cord.",
+    "heritageStatus": "Geographical Indication (GI) Registered",
+    "imageUrl": "/images/crafts/odisha_palm_leaf.jpg",
+    "tags": [
+      "Tala Patra",
+      "Iron Stylus",
+      "Natural Lampblack",
+      "Puri Heritage",
+      "Manuscript Painting"
+    ]
+  },
+  {
+    "id": "kinnaur-wooden-temple",
+    "slug": "kinnaur-wooden-temple",
+    "title": "Wooden Hill Temple Architecture of Kinnaur",
+    "category": "monuments",
+    "state": "Himachal Pradesh",
+    "region": "North",
+    "shortDescription": "Interlocking wood-and-slate pagoda shrines engineered with earthquake-resistant dry-stone Kath-Kuni construction.",
+    "fullDescription": "Deep within the Sutlej and Baspa river valleys of Kinnaur, indigenous village shrines (such as the Chandika Devi temple in Kothi and the Kamru fort-temple) represent the architectural peak of Himalayan timber construction. Engineered using the traditional 'Kath-Kuni' technique, alternating horizontal courses of hand-hewn Himalayan deodar logs and metamorphic stone are interlocked without nails or mortar, allowing the structure to flex and absorb severe seismic tremors. Elaborate timber eaves, cantilevered balconies, and multi-tiered slate roofs feature intricate low-relief carvings of serpents, floral scrolls, and animist village protector deities.",
+    "heritageStatus": "National Heritage",
+    "imageUrl": "/images/monuments/kinnaur_wooden_temple.jpg",
+    "tags": [
+      "Kath-Kuni",
+      "Deodar Timber",
+      "Pagoda Shikhara",
+      "Seismic Engineering",
+      "Himalayan Belt"
+    ]
+  },
+  {
+    "id": "kedarnath-temple",
+    "slug": "kedarnath-temple",
+    "title": "Kedarnath Jyotirlinga Temple",
+    "category": "monuments",
+    "state": "Uttarakhand",
+    "region": "North",
+    "shortDescription": "One of the twelve sacred Jyotirlingas, perched at 3,583 meters against glacial snow peaks in the Garhwal Himalayas.",
+    "fullDescription": "Standing at an altitude of 3,583 meters near the Chorabari Glacier and the headwaters of the Mandakini River, Kedarnath is the highest of the twelve sacred Shiva Jyotirlingas. Attributed historically to the 8th-century revival by Adi Shankaracharya and constructed from massive, interlocked grey granite ashlar blocks, the temple follows a sturdy Himalayan Nagara architectural plan designed to endure brutal sub-zero blizzards and snow pressure. Its inner sanctum preserves an unhewn, natural conical rock pedestal (*Svayambhu lingam*) revered for centuries by high-altitude pilgrims.",
+    "heritageStatus": "National Heritage",
+    "imageUrl": "/images/monuments/kedarnath_temple.jpg",
+    "tags": [
+      "Jyotirlinga",
+      "Nagara Style",
+      "Mandakini Valley",
+      "Char Dham",
+      "Glacial Granite"
+    ]
+  },
+  {
+    "id": "kashi-vishwanath-temple",
+    "slug": "kashi-vishwanath-temple",
+    "title": "Kashi Vishwanath Temple",
+    "category": "monuments",
+    "state": "Uttar Pradesh",
+    "region": "North",
+    "shortDescription": "The spiritual heart of Varanasi on the western banks of the sacred Ganges, crowned by golden spires.",
+    "fullDescription": "Regarded as one of the holiest sanctums in Hinduism, Kashi Vishwanath enshrines the Vishveshvara Jyotirlinga in the historic core of Varanasi. Rebuilt in 1780 CE by Maharani Ahilyabai Holkar of Indore following historical desecrations, the temple’s signature twin spires were gilded in pure gold leaf gifted by Maharaja Ranjit Singh of Punjab in 1835. Located adjacent to the historic Gyanvapi compound and Manikarnika Ghat, the temple serves as the eternal theological nexus for Shaivite philosophy and the timeless river rituals of the Ganges.",
+    "heritageStatus": "National Heritage",
+    "imageUrl": "/images/monuments/kashi_vishwanath.jpg",
+    "tags": [
+      "Jyotirlinga",
+      "Ganges River",
+      "Golden Shikhara",
+      "Ahilyabai Holkar",
+      "Sacred Kashi"
+    ]
+  },
+  {
+    "id": "meenakshi-sundareswarar-temple",
+    "slug": "meenakshi-sundareswarar-temple",
+    "title": "Meenakshi Sundareswarar Temple",
+    "category": "monuments",
+    "state": "Tamil Nadu",
+    "region": "South",
+    "shortDescription": "Monumental Dravidian sacred complex in Madurai, famed for 14 soaring polychrome gopurams and the Thousand Pillar Hall.",
+    "fullDescription": "Dominating the ancient grid-planned city of Madurai, the Meenakshi Sundareswarar complex is a monumental masterpiece of mature Dravidian architecture rebuilt and expanded under the Madurai Nayaka rulers in the 16th and 17th centuries. Dedicated to Goddess Meenakshi and Lord Sundareswarar, the complex is enclosed by concentric stone walls pierced by 14 monumental gateway towers (*Gopurams*), the tallest rising over 51 meters and encrusted with thousands of stucco figures depicting cosmic mythologies. The complex houses the famed 'Aayiram Kaal Mandapam' (Hall of a Thousand Pillars) carved with hyper-detailed granite monoliths.",
+    "heritageStatus": "National Heritage",
+    "imageUrl": "/images/monuments/meenakshi_sundareswarar.jpg",
+    "tags": [
+      "Dravidian Architecture",
+      "Nayaka Dynasty",
+      "Polychromatic Gopurams",
+      "Aayiram Kaal Mandapam"
+    ]
+  },
+  {
+    "id": "somnath-temple",
+    "slug": "somnath-temple",
+    "title": "Somnath Jyotirlinga Temple",
+    "category": "monuments",
+    "state": "Gujarat",
+    "region": "West",
+    "shortDescription": "The first of the twelve sacred Jyotirlingas, rising in Maru-Gurjara sandstone directly along the Arabian Sea shore.",
+    "fullDescription": "Revered as the foremost of the twelve Jyotirlingas (*Prathama Jyotirlinga*), Somnath is positioned at Prabhas Patan along the rugged Saurashtra coast where the sacred Saraswati, Hiran, and Kapila rivers converge into the Arabian Sea. Having withstood multiple cycles of historical destruction and reconstruction, the current monument was rebuilt after Indian independence under the guidance of Sardar Vallabhbhai Patel, executed in the classical Solanki / Maru-Gurjara architectural style by master Sompura artisans using golden sandstone.",
+    "heritageStatus": "National Heritage",
+    "imageUrl": "/images/monuments/somnath_temple.jpg",
+    "tags": [
+      "First Jyotirlinga",
+      "Maru-Gurjara Style",
+      "Arabian Sea",
+      "Sompura Masons",
+      "Trisangam"
+    ]
+  },
+  {
+    "id": "puri-jagannath-temple",
+    "slug": "puri-jagannath-temple",
+    "title": "Puri Jagannath Temple",
+    "category": "monuments",
+    "state": "Odisha",
+    "region": "East",
+    "shortDescription": "Monumental 12th-century Kalinga sanctuary of Lord Jagannath, renowned for the colossal annual Ratha Yatra.",
+    "fullDescription": "Constructed in the 12th century by King Anantavarman Chodaganga Deva of the Eastern Ganga Dynasty, the Jagannath Temple in Puri is one of the four cardinal Char Dham pilgrimage destinations. Representing the pinnacle of the Kalinga architectural order (*Rekha Deula*), the sanctum rises over 65 meters on an elevated stone plinth, crowned by the sacred Neelachakra and Patitapabana flag. The temple preserves the worship of Lord Jagannath, Balabhadra, and Subhadra through wooden idols hand-carved from sacred neem logs and ritually renewed during the 'Nabakalebara' ceremony.",
+    "heritageStatus": "National Heritage",
+    "imageUrl": "/images/monuments/puri_jagannath.jpg",
+    "tags": [
+      "Kalinga Architecture",
+      "Ratha Yatra",
+      "Char Dham",
+      "Deula",
+      "Neelachakra"
+    ]
+  },
+  {
+    "id": "tirupati-venkateswara-temple",
+    "slug": "tirupati-venkateswara-temple",
+    "title": "Tirumala Venkateswara Temple",
+    "category": "monuments",
+    "state": "Andhra Pradesh",
+    "region": "North",
+    "shortDescription": "Ancient hill shrine in the Seshachalam range, enshrining Lord Venkateswara beneath the gilded Ananda Nilayam vimana.",
+    "fullDescription": "Perched atop the seventh peak of the sacred Seshachalam range (Venkatadri) in Tirumala, this historic temple is dedicated to Lord Venkateswara (Balaji). Receiving historic royal patronage from the Pallavas, Cholas, and the Vijayanagara Empire (most notably Emperor Sri Krishnadevaraya), the temple features three concentric prakaras, monumental granite gopurams, and the gilded 'Ananda Nilayam' tower over the sanctum sanctorum. It stands as one of the world's most venerated pilgrimage hubs, upholding ancient Vaikhanasa Agama liturgical traditions.",
+    "heritageStatus": "National Heritage",
+    "imageUrl": "/images/monuments/tirupati_venkateswara.jpg",
+    "tags": [
+      "Dravidian Architecture",
+      "Ananda Nilayam",
+      "Seshachalam Hills",
+      "Vijayanagara Patronage",
+      "Vaishnavite"
+    ]
+  },
+  {
+    "id": "kailasa-ellora-cave-16",
+    "slug": "kailasa-ellora-cave-16",
+    "title": "Kailasa Temple (Cave 16, Ellora)",
+    "category": "monuments",
+    "state": "Maharashtra",
+    "region": "West",
+    "shortDescription": "The world's largest monolithic rock excavation, chiseled top-to-bottom from a single volcanic basalt cliff face.",
+    "fullDescription": "Commissioned in the 8th century CE under Rashtrakuta King Krishna I, Cave 16 (Kailasa) at Ellora is widely considered one of the greatest feats of rock-cut architecture in human history. Rather than assembling masonry, master craftsmen excavated over 200,000 tons of solid volcanic basalt cliff from the top downward, carving out a complete, multi-story Dravidian temple complex directly in situ. The monument features life-size carved elephants, monolithic obelisks (dhwaja stambhas), and dynamic relief friezes depicting the epic battle of Kurukshetra and Ravana shaking Mount Kailasa.",
+    "heritageStatus": "UNESCO Intangible Cultural Heritage",
+    "imageUrl": "/images/monuments/kailasa_ellora.jpg",
+    "tags": [
+      "Rock-Cut Architecture",
+      "Rashtrakuta Dynasty",
+      "Monolithic",
+      "UNESCO World Heritage",
+      "Basalt Carving"
+    ]
+  },
+  {
+    "id": "ramanathaswamy-temple",
+    "slug": "ramanathaswamy-temple",
+    "title": "Ramanathaswamy Temple, Rameswaram",
+    "category": "monuments",
+    "state": "Tamil Nadu",
+    "region": "South",
+    "shortDescription": "Island Jyotirlinga shrine famed for having the longest sculptured pillared temple corridors in the world.",
+    "fullDescription": "Situated on the sacred island of Rameswaram, Ramanathaswamy Temple is both one of the twelve Jyotirlingas and a cardinal Char Dham pilgrimage destination. Expanded extensively by the Jaffna Kingdom and the Sethupathi rulers of Ramanathapuram in the 12th to 18th centuries, the temple is famed for its monumental third outer corridor (*Prakara*), which stretches for nearly 1,220 meters flanked by more than 1,200 carved granite pillars. Pilgrims traditionally bathe at the 22 sacred temple water tanks (*Theerthams*) before paying homage to the presiding lingam.",
+    "heritageStatus": "National Heritage",
+    "imageUrl": "/images/monuments/ramanathaswamy_temple.jpg",
+    "tags": [
+      "Pillared Corridors",
+      "Jyotirlinga",
+      "Char Dham",
+      "Dravidian Architecture",
+      "Sethupathi Kings"
+    ]
+  },
+  {
+    "id": "dwarkadhish-temple",
+    "slug": "dwarkadhish-temple",
+    "title": "Dwarkadhish Temple (Jagat Mandir)",
+    "category": "monuments",
+    "state": "Gujarat",
+    "region": "West",
+    "shortDescription": "5-story tiered limestone sanctuary of Lord Krishna rising at the confluence of the Gomti River and Arabian Sea.",
+    "fullDescription": "Revered as 'Jagat Mandir' (Temple of the World), Dwarkadhish is dedicated to Lord Krishna as the sovereign ruler of ancient Dwarka. Positioned at the mouth of the Gomti River along the Arabian Sea, the current five-story limestone edifice reflects the Chalukya-Nagara architectural tradition, supported by 72 exquisitely sculpted pillars. The temple is famous for its 52-yard triangular ceremonial banner (*Dhwaja*), displaying the sun and moon, which is ritually hoisted atop the 78-meter high shikhara five times daily.",
+    "heritageStatus": "National Heritage",
+    "imageUrl": "/images/monuments/dwarkadhish_temple.jpg",
+    "tags": [
+      "Char Dham",
+      "Chalukya-Nagara Style",
+      "Gomti River",
+      "Krishna Lore",
+      "Arabian Sea"
+    ]
+  },
+  {
+    "id": "chettinad-kitchen-traditions",
+    "slug": "chettinad-kitchen-traditions",
+    "title": "Chettinad Kitchen & Culinary Traditions",
+    "category": "culinary",
+    "state": "Tamil Nadu",
+    "region": "South",
+    "shortDescription": "Famed culinary lineage of maritime merchant traders, defined by freshly hand-ground black pepper, kalpasi, and sun-dried meats.",
+    "fullDescription": "Originating from the seafaring merchant community of Nattukottai Chettiars, Chettinad cuisine is one of India's most aromatic and complex culinary traditions. Developed through overseas trade links across Burma, Ceylon, and Southeast Asia, Chettinad recipes rely on stone-ground spice pastes featuring star anise, marathi mokku (dried flower pods), and kalpasi (black stone flower). Traditional kitchens (*Veedukal*) prepare dishes like Chettinad Kozhi, Vellai Paniyaram, and sun-dried crisps (*Vadam*) in heavy brass, seasoned soapstone (*Kalchatti*), and cast-iron cookware over wood-fired stoves.",
+    "heritageStatus": "National Heritage",
+    "imageUrl": "/images/food/chettinad_kitchen.jpg",
+    "tags": [
+      "Nattukotai Chettiars",
+      "Stone Ground Spices",
+      "Kalpasi",
+      "Cast Iron Adukku",
+      "Banana Leaf"
+    ]
+  },
+  {
+    "id": "baul-song-bengal",
+    "slug": "baul-song-bengal",
+    "title": "Baul Song Tradition of Bengal",
+    "category": "performing_arts",
+    "state": "West Bengal",
+    "region": "East",
+    "shortDescription": "Wandering mystic minstrelsy singing ecstatic acoustic ballads of cosmic love and casteless spiritual surrender.",
+    "fullDescription": "Inscribed on UNESCO's Representative List of the Intangible Cultural Heritage, the Bauls of rural Bengal represent an unbroken spiritual and musical counter-culture rooted in Vaishnava Sahajiya, Tantric philosophy, and Sufi mysticism. Carrying an Ektara (single-string drone plucked with one finger), a brass cymbal, and ankle bells (*ghungroos*), Baul singers like the lineage of Fakir Lalon Shah perform at rural gatherings (*Akhras*) and village fairs, singing ecstatic allegories that dismiss caste and formal religion in search of the 'Moner Manush' (the inner soul).",
+    "heritageStatus": "UNESCO Intangible Cultural Heritage",
+    "imageUrl": "/images/performing_arts/baul_song_bengal.jpg",
+    "tags": [
+      "Folk Music",
+      "Ektara",
+      "Lalon Shah",
+      "UNESCO Intangible Heritage",
+      "Mystic Poetry"
+    ]
+  },
+  {
+    "id": "majuli-sattriya-satra-life",
+    "slug": "majuli-sattriya-satra-life",
+    "title": "Sattriya Dance & Satra Life of Majuli",
+    "category": "performing_arts",
+    "state": "Assam",
+    "region": "Northeast",
+    "shortDescription": "500-year-old living monastic art form preserved by celibate monks on the Brahmaputra's river island of Majuli.",
+    "fullDescription": "Instituted in the 15th century by saint-reformer Srimanta Sankaradeva, the Satras (monasteries) of Majuli island have continuously fostered the classical dance form of Sattriya and devotional theatre (*Ankiya Nat*). Resident monks (*Bhakats*) practice celibate, communal routines dedicated to learning complex rhythmic footwork, classical hastas, and musical performance using the terracotta Khol drum and heavy Bor-taal cymbals. The tradition also maintains master craftsmanship in fabricating oversized bamboo and cow-dung theatrical masks (*Mukhas*) depicting demons and avatars.",
+    "heritageStatus": "National Heritage",
+    "imageUrl": "/images/performing_arts/majuli_sattriya_satra.jpg",
+    "tags": [
+      "Classical Dance",
+      "Bhakti Movement",
+      "Monastic Satras",
+      "Bamboo Masks",
+      "Khol & Bor-Taal"
+    ]
+  },
+  {
+    "id": "pandavani-epic-chhattisgarh",
+    "slug": "pandavani-epic-chhattisgarh",
+    "title": "Pandavani Oral Ballad Tradition",
+    "category": "performing_arts",
+    "state": "Chhattisgarh",
+    "region": "Central",
+    "shortDescription": "Electrifying solo folk rendition of the Mahabharata, enacted with a stringed tambura brandished as a bow, sword, or mace.",
+    "fullDescription": "Pandavani (literally 'Songs of the Pandavas') is a dynamic tribal and rural oral performance tradition from Chhattisgarh, recounting the trials and battles of the Mahabharata with a focal emphasis on the heroic deeds of Bhima. Performed in two primary styles—Vedamati (seated, classical recitation) and Kapalik (standing, kinetic theatrical dramatization pioneered by legendary performer Teejan Bai)—the lead narrator strums a single-stringed tambura adorned with peacock feathers, wielding the instrument dynamically as Bhima’s mace, Arjuna’s bow, or a royal battle chariot amidst responsive singing from accompanying drummers.",
+    "heritageStatus": "National Heritage",
+    "imageUrl": "/images/performing_arts/pandavani_chhattisgarh.jpg",
+    "tags": [
+      "Oral Epics",
+      "Mahabharata",
+      "Teejan Bai",
+      "Tambura",
+      "Folk Theatre"
+    ]
+  }
+]

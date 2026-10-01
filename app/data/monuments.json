@@ -1,0 +1,632 @@
+[
+  {
+    "id": "monument-rani-ki-vav",
+    "slug": "rani-ki-vav-patan",
+    "name": "Rani ki Vav (The Queen's Stepwell)",
+    "city": "Patan",
+    "state": "Gujarat",
+    "lat": 23.8589,
+    "lng": 72.1014,
+    "architecturalStyle": "Maru-Gurjara (Solanki Stepwell Architecture)",
+    "constructionEra": "11th Century CE (c. 1063 CE)",
+    "patronDynasty": "Solanki / Chaulukya Dynasty (Commissioned by Queen Udayamati in memory of King Bhima I)",
+    "preservationScore": "94% Intact (Subterranean Silt Preservation & ASI Supervised Conservation)",
+    "unesco": true,
+    "unescoYear": 2014,
+    "visitorDetails": {
+      "timings": "08:00 AM – 06:00 PM (Open all 7 days)",
+      "entryFee": "₹40 for Indian & SAARC Citizens; ₹600 for Foreign Tourists; Free for Children under 15",
+      "bestSeason": "October to March (Mild semi-arid winter; Patan Patola festival in December)",
+      "photographyFee": "Free for mobile cameras; ₹25 for professional DSLRs (No tripods permitted)"
+    },
+    "audioNarrationScript": "Rani ki Vav is an inverted stepwell temple descending through seven subterranean pavilions, adorned with over five hundred monumental stone sculptures of Lord Vishnu and the Dashavatara. Commissioned in 1063 CE by Queen Udayamati as a sacred memorial, it remains an engineering marvel uniting divine sculpture with desert water harvesting.",
+    "audioDurationSeconds": 24,
+    "heroImage": "/images/monuments/rani_ki_vav.jpg",
+    "thumbnail": "/images/monuments/rani_ki_vav.jpg",
+    "highlights": [
+      "Seven terraces of sculpted pillars and water pavilions",
+      "Monumental relief of Sheshashayi Vishnu reclining on the cosmic serpent",
+      "Sacred hydraulic cistern preserving subterranean groundwater"
+    ]
+  },
+  {
+    "id": "monument-hampi",
+    "slug": "hampi-monuments",
+    "name": "Group of Monuments at Hampi (Vijayanagara)",
+    "city": "Hampi, Ballari District",
+    "state": "Karnataka",
+    "lat": 15.335,
+    "lng": 76.46,
+    "architecturalStyle": "Vijayanagara Dravidian Granite Architecture",
+    "constructionEra": "14th – 16th Century CE (1336–1565 CE)",
+    "patronDynasty": "Vijayanagara Empire (Sangama & Tuluva Dynasties; Emperor Krishnadevaraya)",
+    "preservationScore": "88% Stable (Extensive archaeological protection across 41 sq km open-air museum)",
+    "unesco": true,
+    "unescoYear": 1986,
+    "visitorDetails": {
+      "timings": "06:00 AM – 06:00 PM (Vittala Temple & Zenana Enclosure: 08:30 AM – 05:30 PM)",
+      "entryFee": "₹40 for Indian & BIMSTEC Citizens; ₹600 for Foreign Visitors; Combined entry for Vittala Temple & Lotus Mahal",
+      "bestSeason": "October to February (Pleasant winter weather; Annual Hampi Utsav in January)",
+      "photographyFee": "Free for mobile devices; ₹25 for still camera video recording"
+    },
+    "audioNarrationScript": "Sprawling across granite boulder hills along the sacred Tungabhadra River, Hampi was the imperial capital of the Vijayanagara Empire, once among the wealthiest metropolises of the medieval world. Here, the legendary monolithic Stone Chariot and the fifty-six musical pillars of Vittala Temple embody the zenith of South Indian artistic glory.",
+    "audioDurationSeconds": 26,
+    "heroImage": "/images/monuments/hampi.jpg",
+    "thumbnail": "/images/monuments/hampi.jpg",
+    "highlights": [
+      "Iconic monolithic Stone Chariot dedicated to Garuda",
+      "Vittala Temple's 56 musical granite pillars producing notes of the saptaswara",
+      "Active Virupaksha Temple with 50-metre eastern gopuram"
+    ]
+  },
+  {
+    "id": "monument-konark",
+    "slug": "konark-sun-temple",
+    "name": "Konark Sun Temple (The Black Pagoda)",
+    "city": "Konark, Puri District",
+    "state": "Odisha",
+    "lat": 19.8876,
+    "lng": 86.0945,
+    "architecturalStyle": "Kalinga Architecture (Rekha & Bhadra Deula Sanctuary)",
+    "constructionEra": "c. 1250 CE (13th Century CE)",
+    "patronDynasty": "Eastern Ganga Dynasty (King Narasimhadeva I)",
+    "preservationScore": "86% Conserved (Jagamohana structural infill by ASI; exterior chariot wheels intact)",
+    "unesco": true,
+    "unescoYear": 1984,
+    "visitorDetails": {
+      "timings": "06:00 AM – 08:00 PM (Daily; Light & Sound show: 07:00 PM – 08:00 PM)",
+      "entryFee": "₹40 for Indian & BIMSTEC Citizens; ₹600 for Foreign Tourists",
+      "bestSeason": "November to February (Mild coastal winter; Konark Dance Festival in December)",
+      "photographyFee": "Free for non-commercial mobile photography; ₹30 for video cameras"
+    },
+    "audioNarrationScript": "Conceived as a colossal cosmic chariot for Surya the Sun God, the Konark temple rests upon twenty-four intricately carved stone wheels drawn by seven galloping celestial horses. Constructed in the thirteenth century by King Narasimhadeva, its green chlorite and khondalite reliefs form an immortal testament to ancient Indian astronomy and sculpture.",
+    "audioDurationSeconds": 25,
+    "heroImage": "/images/monuments/konark_sun_temple.jpg",
+    "thumbnail": "/images/monuments/konark_sun_temple.jpg",
+    "highlights": [
+      "24 stone chariot wheels serving as functional solar sundials",
+      "Seven sculpted stone horses facing eastward toward the Bay of Bengal dawn",
+      "Exquisite chlorite Natya Mandap friezes of classical Odissi dance postures"
+    ]
+  },
+  {
+    "id": "monument-brihadisvara",
+    "slug": "brihadisvara-temple-thanjavur",
+    "name": "Brihadisvara Temple (Peruvudaiyar Koyil)",
+    "city": "Thanjavur",
+    "state": "Tamil Nadu",
+    "lat": 10.7828,
+    "lng": 79.1318,
+    "architecturalStyle": "Chola Imperial Dravidian Architecture",
+    "constructionEra": "1010 CE (11th Century CE)",
+    "patronDynasty": "Chola Empire (Emperor Rajaraja Chola I)",
+    "preservationScore": "96% Pristine (Intact monolithic granite vimana; active functioning sanctum)",
+    "unesco": true,
+    "unescoYear": 1987,
+    "visitorDetails": {
+      "timings": "06:00 AM – 12:30 PM, 04:00 PM – 08:30 PM (Daily pooja and temple hours)",
+      "entryFee": "Free Entry (Active place of worship and ASI protected monument)",
+      "bestSeason": "October to March (Cool Tamil Nadu winter; Mahashivratri & Pongal celebrations)",
+      "photographyFee": "Free inside courtyard; photography strictly prohibited in the inner sanctum"
+    },
+    "audioNarrationScript": "Rising sixty-six metres without mortar or binding cement, the majestic granite vimana of Brihadisvara Temple was consecrated in 1010 CE by Emperor Rajaraja Chola. Decorated with imperial epigraphs and Chola frescoes, this monument stands as an engineering benchmark and living testament to ancient Indian royal architecture.",
+    "audioDurationSeconds": 24,
+    "heroImage": "/uploads/brihadisvara.jpg",
+    "thumbnail": "/uploads/brihadisvara-thumb.jpg",
+    "highlights": [
+      "66-metre high monolithic granite vimana capped by an 80-tonne kumbam",
+      "Monolithic Nandi bull carved from a single granite block weighing 20 tonnes",
+      "Ancient Tamil epigraphs recording the temple's 400 dancers, musicians, and treasurers"
+    ]
+  },
+  {
+    "id": "monument-amer-fort",
+    "slug": "amber-fort-jaipur",
+    "name": "Amer Fort & Palace (Amber Palace)",
+    "city": "Jaipur",
+    "state": "Rajasthan",
+    "lat": 26.9855,
+    "lng": 75.8513,
+    "architecturalStyle": "Rajput-Mughal Fusion Architecture",
+    "constructionEra": "c. 1592 CE (16th–17th Century CE)",
+    "patronDynasty": "Kachwaha Rajput Dynasty (Raja Man Singh I & Mirza Raja Jai Singh)",
+    "preservationScore": "93% Intact (Active conservation of Sheesh Mahal Belgian glass and water lift circuits)",
+    "unesco": true,
+    "unescoYear": 2013,
+    "visitorDetails": {
+      "timings": "08:00 AM – 05:30 PM (Day Visit); 06:30 PM – 09:15 PM (Night Tourism & Light Show)",
+      "entryFee": "₹100 for Indian Adults; ₹10 for Indian Students; ₹500 for Foreign Visitors",
+      "bestSeason": "October to March (Cool desert breeze; Teej festival in August)",
+      "photographyFee": "₹50 for still camera; ₹100 for video camera"
+    },
+    "audioNarrationScript": "Perched upon the rugged Aravalli ridges above Maota Lake, Amer Palace unites imposing red sandstone fortifications with the radiant brilliance of the Sheesh Mahal mirror palace. Established in 1592 by Raja Man Singh, its marble courtyards and intricate frescoed gateways echo the chivalry and royal pageantry of the Rajputana era.",
+    "audioDurationSeconds": 25,
+    "heroImage": "/images/monuments/amer_fort.jpg",
+    "thumbnail": "/images/monuments/amer_fort.jpg",
+    "highlights": [
+      "Sheesh Mahal (Palace of Mirrors) with convex glass mosaics reflecting single candle flames",
+      "Ganesh Pol gateway decorated with natural vegetable dye frescoes",
+      "Ancient Persian water wheel system lifting water from Maota Lake into royal hammams"
+    ]
+  },
+  {
+    "id": "monument-sanchi",
+    "slug": "sanchi-stupa",
+    "name": "Great Stupa at Sanchi (Sanchi Stupa Complex)",
+    "city": "Sanchi, Raisen District",
+    "state": "Madhya Pradesh",
+    "lat": 23.4795,
+    "lng": 77.7397,
+    "architecturalStyle": "Early Buddhist & Mauryan Monolithic Architecture",
+    "constructionEra": "3rd Century BCE to 1st Century CE",
+    "patronDynasty": "Mauryan Empire (Emperor Ashoka) & Shunga/Satavahana Dynasties",
+    "preservationScore": "95% Intact (Pristine stone torana gateways and hemispherical dome)",
+    "unesco": true,
+    "unescoYear": 1989,
+    "visitorDetails": {
+      "timings": "06:30 AM – 06:30 PM (Sunrise to Sunset daily)",
+      "entryFee": "₹40 for Indian & SAARC Citizens; ₹600 for Foreign Visitors; Free for Children under 15",
+      "bestSeason": "November to March (Pleasant Malwa plateau winters; Chethiyagiri festival in November)",
+      "photographyFee": "Free for mobile devices; ₹25 for video cameras"
+    },
+    "audioNarrationScript": "Commissioned by Emperor Ashoka in the third century BCE to enshrine sacred relics of the Buddha, the Great Stupa of Sanchi is India's oldest surviving monumental stone structure. Its four intricately sculpted torana gateways narrate the Jataka tales, marking the very dawn of classical Buddhist stone sculpture in ancient Asia.",
+    "audioDurationSeconds": 24,
+    "heroImage": "/images/monuments/sanchi_stupa.jpg",
+    "thumbnail": "/images/monuments/sanchi_stupa.jpg",
+    "highlights": [
+      "Hemispherical sandstone dome enshrining sacred Buddhist relics",
+      "Four monumental Torana ceremonial gateways illustrating Jataka legends",
+      "Ashokan sandstone pillar with inscribed royal edicts"
+    ]
+  },
+  {
+    "id": "temple-kedarnath",
+    "slug": "kedarnath-temple",
+    "name": "Kedarnath Temple",
+    "deity": "Lord Shiva (Jyotirlinga)",
+    "consecrationEra": "8th Century CE (revived by Adi Shankaracharya; Pandava legendary origins)",
+    "patronMaker": "Adi Shankaracharya (re-consecration); Pandava lineage (mythological origins)",
+    "patronDynasty": "Adi Shankaracharya & Katyuri Dynasty",
+    "history": "Perched at 3,584 metres in the Garhwal Himalayas near the Mandakini River source, Kedarnath is the most sacred and highest among the twelve Jyotirlingas of Lord Shiva. According to the Mahabharata, the Pandavas sought Shiva to absolve the karma of the Kurukshetra war, where the Lord took the form of a cosmic bull whose hump materialized at this exact sacred site. Constructed from massive grey granite blocks interlocked with iron clamps without mortar, the temple has remarkably withstood centuries of harsh Himalayan avalanches and glacial floods.",
+    "coordinates": [
+      79.0669,
+      30.7352
+    ],
+    "lat": 30.7352,
+    "lng": 79.0669,
+    "city": "Kedarnath, Rudraprayag District",
+    "state": "Uttarakhand",
+    "locationDetails": {
+      "state": "Uttarakhand",
+      "district": "Rudraprayag",
+      "nearestCity": "Gaurikund / Guptkashi",
+      "landmark": "Mandakini River valley, Garhwal Himalayas"
+    },
+    "howToReach": {
+      "air": "Jolly Grant Airport Dehradun (238 km)",
+      "rail": "Rishikesh Railway Station (216 km) / Haridwar (240 km)",
+      "road": "Drive to Gaurikund via NH-107 -> 16 km mountain trek or helicopter service from Phata/Guptkashi/Sirsi."
+    },
+    "architecturalStyle": "Garhwal Himalayan Nagara / Katyuri Stone Style",
+    "ticketAndTimings": "Darshan: 04:00 AM – 09:00 PM (Gates open Akshaya Tritiya in April/May to Bhai Dooj in October/November; temple closes during heavy sub-zero winter snowfall). Free general entry; VIP/Maha Abhishek bookings via Shri Badrinath Kedarnath Temple Committee (BKTC).",
+    "category": "temple",
+    "preservationState": "Active Place of Worship",
+    "preservationScore": "95% Intact (Conserved by ASI and BKTC after 2013 floods)",
+    "unesco": false,
+    "visitorDetails": {
+      "timings": "04:00 AM – 09:00 PM (Seasonal: May to November)",
+      "entryFee": "Free general darshan; Special morning puja passes available via BKTC",
+      "bestSeason": "May to June & September to October (Avoid peak monsoon landslide risks)"
+    },
+    "audioNarrationScript": "Standing resolute amidst the snow-capped Garhwal Himalayas at over 3,500 metres altitude, Kedarnath Temple is the highest of Shiva's twelve Jyotirlingas. Carved from massive interlocked grey granite blocks without mortar, its enduring stone walls bear witness to over a millennium of Himalayan faith and architectural resilience.",
+    "audioDurationSeconds": 25,
+    "heroImage": "/images/monuments/kedarnath_temple.jpg",
+    "thumbnail": "/images/monuments/kedarnath_temple.jpg",
+    "highlights": [
+      "Sacred pyramidal rock lingam worshipped as Lord Shiva's divine hump",
+      "Ancient grey granite stone masonry capable of surviving extreme avalanches",
+      "Dramatic backdrop of 6,940-metre Mount Kedarnath and Kedar Dome peaks"
+    ]
+  },
+  {
+    "id": "temple-kashi-vishwanath",
+    "slug": "kashi-vishwanath-temple",
+    "name": "Kashi Vishwanath Temple",
+    "deity": "Lord Shiva (Vishveshwara / Jyotirlinga)",
+    "consecrationEra": "1780 CE (Present sanctum; ancient Puranic origins spanning millennia)",
+    "patronMaker": "Maharani Ahilyabai Holkar of Indore; modern corridor developed by Government of India (2021)",
+    "patronDynasty": "Holkar Maratha Dynasty (Maharani Ahilyabai Holkar)",
+    "history": "Standing on the sacred western bank of the River Ganga in Varanasi, Kashi Vishwanath is revered as the spiritual capital of Hinduism, where Lord Shiva is believed to grant liberation (Moksha). After repeated medieval demolitions, the sanctum was resurrectively rebuilt in 1780 by the pious Maratha queen Maharani Ahilyabai Holkar of Indore, and its 15.5-metre spires were later adorned with 800 kilograms of pure gold leaf donated in 1839 by Maharaja Ranjit Singh of Punjab. The historic 2021 Kashi Vishwanath Corridor transformed the pilgrimage experience, providing an unobstructed 50,000-square-metre sacred pedestrian promenade connecting the Manikarnika and Lalita Ghats directly to the sanctum.",
+    "coordinates": [
+      83.0107,
+      25.3109
+    ],
+    "lat": 25.3109,
+    "lng": 83.0107,
+    "city": "Varanasi",
+    "state": "Uttar Pradesh",
+    "locationDetails": {
+      "state": "Uttar Pradesh",
+      "district": "Varanasi",
+      "nearestCity": "Varanasi",
+      "landmark": "Vishwanath Gali, near Dashashwamedh and Manikarnika Ghats"
+    },
+    "howToReach": {
+      "air": "Lal Bahadur Shastri Airport Varanasi (25 km)",
+      "rail": "Varanasi Junction (BSB) (4.5 km) / Banaras Railway Station (6 km)",
+      "road": "E-rickshaws to Godowlia Chowk -> Pedestrian corridor to Ganga Ghats & Vishwanath Dham."
+    },
+    "architecturalStyle": "Nagara Architecture (Quadrangle Sanctum with Gold Shikhara & Sabha Mandapa)",
+    "ticketAndTimings": "Darshan: 03:00 AM – 11:00 PM daily. Mangala Aarti at 03:00 AM, Bhog Aarti at 11:15 AM, Sandhya Aarti at 07:00 PM, Shringar Aarti at 09:00 PM. Free general entry; Sugam Darshan passes available online via temple trust.",
+    "category": "temple",
+    "preservationState": "Active Place of Worship",
+    "preservationScore": "98% Pristine (State-of-the-art conservation & modern corridor development)",
+    "unesco": false,
+    "visitorDetails": {
+      "timings": "03:00 AM – 11:00 PM (Daily)",
+      "entryFee": "Free general darshan; Sugam Darshan: ₹300 (fast-track pass online)",
+      "bestSeason": "October to March (Pleasant winter weather along the Ganga ghats)"
+    },
+    "audioNarrationScript": "At the eternal heart of Varanasi along the sacred River Ganga, the golden spires of Kashi Vishwanath enshrine the Jyotirlinga of Vishveshwara, the sovereign Lord of the Universe. Rebuilt by Maharani Ahilyabai Holkar and crowned with gold by Maharaja Ranjit Singh, this sanctuary stands as India's enduring symbol of spiritual renewal.",
+    "audioDurationSeconds": 24,
+    "heroImage": "/images/monuments/kashi_vishwanath.jpg",
+    "thumbnail": "/images/monuments/kashi_vishwanath.jpg",
+    "highlights": [
+      "Gilded shikharas clad with 800 kilograms of pure gold leaf",
+      "Unbroken sacred pedestrian corridor connecting the temple directly to the River Ganga",
+      "Historic Jnana Vapi well and sacred Sabha Mandapa pillared quadrangle"
+    ]
+  },
+  {
+    "id": "temple-meenakshi",
+    "slug": "meenakshi-sundareswarar-temple",
+    "name": "Meenakshi Sundareswarar Temple",
+    "deity": "Goddess Meenakshi (Parvati) and Lord Sundareswarar (Shiva)",
+    "consecrationEra": "1623–1655 CE (Current monumental complex; ancient Sangam origins dating to 6th Century BCE)",
+    "patronMaker": "King Tirumala Nayaka of the Madurai Nayaka Dynasty",
+    "patronDynasty": "Madurai Nayaka Dynasty (King Tirumala Nayaka)",
+    "history": "Anchoring the ancient lotus-shaped city of Madurai along the Vaigai River, Meenakshi Sundareswarar Temple is a crowning jewel of Dravidian architecture where Goddess Meenakshi holds primary ritual supremacy over Shiva. The sacred complex covers 14 acres surrounded by fourteen magnificent gopurams (gateway towers), the tallest southern tower soaring to 52 metres adorned with thousands of vibrantly sculpted stucco deities, celestial beings, and mythic figures. Inside lies the celebrated Hall of Thousand Pillars (Aayiram Kaal Mandapam) displaying 985 exquisitely carved granite pillars, along with five historic musical pillars that resonate with saptaswara notes when tapped.",
+    "coordinates": [
+      78.1194,
+      9.9195
+    ],
+    "lat": 9.9195,
+    "lng": 78.1194,
+    "city": "Madurai",
+    "state": "Tamil Nadu",
+    "locationDetails": {
+      "state": "Tamil Nadu",
+      "district": "Madurai",
+      "nearestCity": "Madurai",
+      "landmark": "Central Madurai, south of Vaigai River"
+    },
+    "howToReach": {
+      "air": "Madurai Airport (IXM) (12 km)",
+      "rail": "Madurai Junction (MDU) (1.5 km)",
+      "road": "Direct auto/taxis to central gopuram gates via West Veli & Netaji Road."
+    },
+    "architecturalStyle": "Madurai Nayaka Dravidian Architecture",
+    "ticketAndTimings": "Darshan: 05:00 AM – 12:30 PM & 04:00 PM – 10:00 PM. Free general darshan; Special darshan tickets ₹50–₹100; Thousand Pillar Hall museum ₹50. Traditional modest attire mandatory (dhoti/kurta for men, saree/salwar for women).",
+    "category": "temple",
+    "preservationState": "Active Place of Worship",
+    "preservationScore": "97% Pristine (Living temple complex conserved by HR&CE Department)",
+    "unesco": false,
+    "visitorDetails": {
+      "timings": "05:00 AM – 12:30 PM & 04:00 PM – 10:00 PM (Daily)",
+      "entryFee": "Free general entry; Special Darshan: ₹50–₹100; Thousand Pillar Hall: ₹50",
+      "bestSeason": "October to March (Pleasant weather; Chithirai festival celebrated in April)"
+    },
+    "audioNarrationScript": "Guarded by fourteen colossal gopurams encrusted with thousands of polychromatic stone sculptures, Madurai's Meenakshi Temple is the crown jewel of Nayaka Dravidian architecture. Here, within the legendary Hall of a Thousand Pillars and beside the sacred Golden Lotus Pond, living ritual and stone mastery have flourished unbroken for millennia.",
+    "audioDurationSeconds": 26,
+    "heroImage": "/images/monuments/meenakshi_sundareswarar.jpg",
+    "thumbnail": "/images/monuments/meenakshi_sundareswarar.jpg",
+    "highlights": [
+      "Fourteen monumental gateway gopurams, the highest rising 52 metres",
+      "Aayiram Kaal Mandapam (Hall of 1000 Pillars) with 985 carved monolithic granite pillars",
+      "Potramarai Kulam (Golden Lotus Tank) where ancient Sangam poets evaluated literary manuscripts"
+    ]
+  },
+  {
+    "id": "temple-somnath",
+    "slug": "somnath-temple",
+    "name": "Somnath Temple",
+    "deity": "Lord Shiva (First of the 12 Jyotirlingas)",
+    "consecrationEra": "1951 CE (Modern revival; original Chaulukya foundations dating to 1st millennium CE)",
+    "patronMaker": "Sardar Vallabhbhai Patel (reconstruction initiator), Prabhashankar Sompura (architect); ancient Chaulukya kings",
+    "patronDynasty": "Sardar Patel Trust revival; ancient Chaulukya / Solanki Dynasty",
+    "history": "Revered as the first among the twelve holy Jyotirlingas, Somnath sits dramatically on the Saurashtra coast where the Arabian Sea crashes against its fortress-like sandstone walls. On its sea-facing promontory stands the historic Baan Stambh (Arrow Pillar), inscribed with the remarkable geodetic truth that an uninterrupted sea line extends from Somnath straight to Antarctica with zero landmass. Repeatedly raided and destroyed across centuries of foreign invasions, Somnath was rebuilt sixteen times, earning its status as the 'Eternal Shrine' symbolizing civilizational resilience, resurrected in 1951 through the vision of Sardar Vallabhbhai Patel and consecrated by India's first President, Dr. Rajendra Prasad.",
+    "coordinates": [
+      70.4013,
+      20.888
+    ],
+    "lat": 20.888,
+    "lng": 70.4013,
+    "city": "Prabhas Patan, Veraval",
+    "state": "Gujarat",
+    "locationDetails": {
+      "state": "Gujarat",
+      "district": "Gir Somnath",
+      "nearestCity": "Veraval / Prabhas Patan",
+      "landmark": "Triveni Sangam coast, Prabhas Patan"
+    },
+    "howToReach": {
+      "air": "Diu Airport (85 km) or Rajkot Airport (195 km)",
+      "rail": "Veraval Junction (7 km) / Somnath Railway Station (0.5 km)",
+      "road": "Regular state transport buses, highway connectivity via NH-51 and coastal highway."
+    },
+    "architecturalStyle": "Chaulukya / Maru-Gurjara Kailash Mahameru Prasad Style",
+    "ticketAndTimings": "Darshan: 06:00 AM – 10:00 PM. Aarti at 07:00 AM, 12:00 PM, and 07:00 PM; 'Jay Somnath' Light & Sound show at 08:00 PM. Free entry; all electronic devices, cameras, and mobiles must be deposited at trust lockers.",
+    "category": "temple",
+    "preservationState": "Active Place of Worship",
+    "preservationScore": "99% Pristine (Impeccably maintained shoreline sandstone complex by Shree Somnath Trust)",
+    "unesco": false,
+    "visitorDetails": {
+      "timings": "06:00 AM – 10:00 PM (Daily)",
+      "entryFee": "Free general entry; Sound & Light show: ₹30; Free cloaking for bags and electronics",
+      "bestSeason": "November to February (Pleasant Saurashtra winter breeze; Mahashivratri in February/March)"
+    },
+    "audioNarrationScript": "Standing defiant against the crashing waves of the Arabian Sea, Somnath is the venerable first of the twelve Jyotirlingas of Lord Shiva. Renowned as the Eternal Shrine rebuilt sixteen times through epochs of history, its golden-hued Maru-Gurjara sandstone architecture stands as an indomitable symbol of India's cultural eternity.",
+    "audioDurationSeconds": 25,
+    "heroImage": "/images/monuments/somnath_temple.jpg",
+    "thumbnail": "/images/monuments/somnath_temple.jpg",
+    "highlights": [
+      "Baan Stambh (Arrow Pillar) pointing an uninterrupted oceanic meridian to the South Pole",
+      "Spectacular coastal Sabha Mandap with 150-foot tall Kalash spires",
+      "Nightly 'Jay Somnath' ocean-facing sound and light projection"
+    ]
+  },
+  {
+    "id": "temple-puri-jagannath",
+    "slug": "puri-jagannath-temple",
+    "name": "Puri Jagannath Temple",
+    "deity": "Lord Jagannath, Balabhadra, and Subhadra",
+    "consecrationEra": "12th Century CE (c. 1161 CE)",
+    "patronMaker": "King Anantavarman Chodaganga & King Anangabhima Deva of the Eastern Ganga Dynasty",
+    "patronDynasty": "Eastern Ganga Dynasty (King Anantavarman Chodaganga)",
+    "history": "One of the sacred Char Dham pilgrimage destinations, the Jagannath Temple at Puri rises 65 metres high near the Bay of Bengal, enshrining holy neem-wood deities that undergo ritual rebirth (Nabakalebara) every 12 to 19 years. The temple is famed for architectural and atmospheric wonders: its sacred Nilachakra flag flutters counter to the prevailing coastal wind, no shadows are cast on the ground at high noon, and birds never fly over the sanctum dome. Its ancient Rosaghara is the world's largest traditional kitchen, where hundreds of sevayats cook Chhappan Bhog (56 delicacies) in stacked earthen pots over wood fires to nourish thousands at the sacred Ananda Bazar.",
+    "coordinates": [
+      85.8179,
+      19.8049
+    ],
+    "lat": 19.8049,
+    "lng": 85.8179,
+    "city": "Puri",
+    "state": "Odisha",
+    "locationDetails": {
+      "state": "Odisha",
+      "district": "Puri",
+      "nearestCity": "Puri",
+      "landmark": "Grand Road (Bada Danda), Puri Town"
+    },
+    "howToReach": {
+      "air": "Biju Patnaik International Airport Bhubaneswar (60 km)",
+      "rail": "Puri Railway Station (PURI) (2.5 km)",
+      "road": "Direct four-lane NH-316 highway corridor from Bhubaneswar."
+    },
+    "architecturalStyle": "Kalinga Architecture (Reha Deula, Jagamohana, Natamandapa, Bhogamandapa)",
+    "ticketAndTimings": "Darshan: 05:00 AM – 11:00 PM. Dwaraphita at 05:00 AM; Pahuda at 11:00 PM. Free general entry (entry restricted to practicing Hindus according to ancient custom); Mahaprasad served daily from 01:00 PM at Ananda Bazar.",
+    "category": "temple",
+    "preservationState": "Active Place of Worship",
+    "preservationScore": "94% Intact (Active conservation of Kalinga sandstone by ASI & Temple Administration)",
+    "unesco": false,
+    "visitorDetails": {
+      "timings": "05:00 AM – 11:00 PM (Daily)",
+      "entryFee": "Free general entry (Strict traditional dress code; Hindus only)",
+      "bestSeason": "October to March (Comfortable coastal temperatures; Ratha Yatra in June/July)"
+    },
+    "audioNarrationScript": "Rising sixty-five metres above the Bay of Bengal coast, the ancient Jagannath Temple at Puri is one of India's four sacred Char Dham shrines. Famous for its monumental Ratha Yatra chariot festival and its sacred wood-fired kitchen feeding tens of thousands daily, this Kalinga marvel embodies living devotion across nine centuries.",
+    "audioDurationSeconds": 24,
+    "heroImage": "/images/monuments/puri_jagannath.jpg",
+    "thumbnail": "/images/monuments/puri_jagannath.jpg",
+    "highlights": [
+      "Nilachakra (Eight-spoked Vishnu disc) atop the 214-foot Rekha Deula spire",
+      "World's largest traditional temple kitchen (Rosaghara) preparing 56 sacred delicacies",
+      "Annual Ratha Yatra where millions pull three monumental wooden chariots along the Grand Road"
+    ]
+  },
+  {
+    "id": "temple-tirupati",
+    "slug": "tirupati-venkateswara-temple",
+    "name": "Tirupati Venkateswara Temple",
+    "deity": "Lord Venkateswara (Vishnu / Srinivasa / Balaji)",
+    "consecrationEra": "Circa 300 CE onwards (Expanded across 12th–16th Centuries CE)",
+    "patronMaker": "Patronized by Pallavas, Cholas, and extensively expanded by Sri Krishnadevaraya of Vijayanagara",
+    "patronDynasty": "Pallava, Chola, and Vijayanagara Empires (Emperor Sri Krishnadevaraya)",
+    "history": "Enthroned amidst the sacred Seven Hills of Seshachalam in Tirumala, the Tirupati Venkateswara Temple is the most visited spiritual sanctuary on earth, revered as the Vaikuntha of Kali Yuga where Vishnu manifested to grant solace. The sanctum features the magnificent Ananda Nilayam Vimana, a three-tiered golden tower hovering over the self-manifested (Swayambhu) black stone deity adorned with precious gemstones and fragrant flower garlands. Devotees participate in sacred tonsuring (Kalyanakatta) and receive the renowned GI-tagged Tirupati Laddu Prasadam, with offerings supporting extensive complimentary pilgrim dining halls, free hospitals, and educational trusts.",
+    "coordinates": [
+      79.3474,
+      13.6833
+    ],
+    "lat": 13.6833,
+    "lng": 79.3474,
+    "city": "Tirumala, Tirupati",
+    "state": "Andhra Pradesh",
+    "locationDetails": {
+      "state": "Andhra Pradesh",
+      "district": "Tirupati (erstwhile Chittoor)",
+      "nearestCity": "Tirupati",
+      "landmark": "Tirumala Hills, Seshachalam Range"
+    },
+    "howToReach": {
+      "air": "Tirupati Airport (TIR) (40 km) / Chennai International Airport (MAA) (140 km)",
+      "rail": "Tirupati Main Railway Station (TPTY) (22 km) / Renigunta Junction (RU) (30 km)",
+      "road": "Dedicated twin ghat roads with APSRTC electric/diesel buses, or scenic pedestrian footpaths via Alipiri (3,550 steps) and Srivari Mettu."
+    },
+    "architecturalStyle": "Dravidian Architecture (Gilded Ananda Nilayam Vimana & Chola-Vijayanagara Mandapas)",
+    "ticketAndTimings": "Darshan: 03:00 AM – 01:30 AM (Open ~22 hours daily). Free Sarvadarshanam (SSD token) or ₹300 Special Entry Darshan (SED booked online via TTD portal). Strict traditional attire mandatory (dhoti/pyjama with upper cloth for men; saree/half-saree/churidar with dupatta for women).",
+    "category": "temple",
+    "preservationState": "Active Place of Worship",
+    "preservationScore": "99% Pristine (World-class crowd management & heritage conservation by TTD)",
+    "unesco": false,
+    "visitorDetails": {
+      "timings": "03:00 AM – 01:30 AM (Open nearly 22 hours daily)",
+      "entryFee": "Free Sarvadarshanam; Special Entry Darshan: ₹300 (Advance online booking required)",
+      "bestSeason": "September to February (Cooler hill climate; annual Brahmotsavam in September/October)"
+    },
+    "audioNarrationScript": "Enshrined high atop the sacred Seven Hills of Tirumala, Sri Venkateswara Temple is the most visited religious sanctuary on earth. Crowning the sanctum is the dazzling golden Ananda Nilayam Vimana, beneath which the Lord of the Seven Hills has received the devotion and royal patronages of Chola, Pallava, and Vijayanagara emperors for over a millennium.",
+    "audioDurationSeconds": 26,
+    "heroImage": "/images/monuments/tirupati_venkateswara.jpg",
+    "thumbnail": "/images/monuments/tirupati_venkateswara.jpg",
+    "highlights": [
+      "Ananda Nilayam: Three-tiered gilded golden tower crowning the sanctum sanctorum",
+      "Swayambhu Lord Venkateswara deity adorned with the world's largest diamond crown",
+      "Historic Alipiri and Srivari Mettu ancient stone walking pilgrim trails"
+    ]
+  },
+  {
+    "id": "temple-kailasa",
+    "slug": "kailasa-ellora-cave-16",
+    "name": "Kailasa Temple (Cave 16, Ellora)",
+    "deity": "Lord Shiva",
+    "consecrationEra": "8th Century CE (756–773 CE)",
+    "patronMaker": "King Krishna I of the Rashtrakuta Dynasty",
+    "patronDynasty": "Rashtrakuta Dynasty (King Krishna I)",
+    "history": "Considered the zenith of monolithic rock-cut engineering worldwide, Kailasa Temple at Ellora (Cave 16) was carved top-down from a vertical basalt cliff face, scooping out over 200,000 tonnes of volcanic stone without cranes, mortar, or scaffolding. Commissioned by Rashtrakuta King Krishna I to recreate Mount Kailash on earth, the temple rises across two storeys featuring a 32-metre vimana, life-sized carved war elephants, and two freestanding 15-metre victory pillars (Dhvaja Stambhas). Its monumental bas-reliefs depict high drama from Indian epics, including the celebrated panel of Demon King Ravana attempting to shake Mount Kailash while Shiva serenely stabilizes the cosmos with his toe.",
+    "coordinates": [
+      75.178,
+      20.0238
+    ],
+    "lat": 20.0238,
+    "lng": 75.178,
+    "city": "Ellora, Chhatrapati Sambhaji Nagar",
+    "state": "Maharashtra",
+    "locationDetails": {
+      "state": "Maharashtra",
+      "district": "Chhatrapati Sambhaji Nagar (Aurangabad)",
+      "nearestCity": "Ellora / Khuldabad",
+      "landmark": "Ellora Caves Complex, Cave 16"
+    },
+    "howToReach": {
+      "air": "Aurangabad Airport (IXU) (35 km)",
+      "rail": "Chhatrapati Sambhaji Nagar Railway Station (30 km)",
+      "road": "Smooth highway connection via MH SH-22 with tourist coaches and private taxis from Chhatrapati Sambhaji Nagar."
+    },
+    "architecturalStyle": "Monolithic Rock-cut Dravidian / Rashtrakuta Architecture",
+    "ticketAndTimings": "Timings: 06:00 AM – 06:00 PM (Closed on Tuesdays). Entry fee: ₹40 for Indian/BIMSTEC citizens; ₹600 for Foreign tourists; Free for children under 15 years. Best season: October to March.",
+    "category": "temple",
+    "preservationState": "Safe",
+    "preservationScore": "96% Intact (Rock-cut basalt longevity; continuous conservation by ASI)",
+    "unesco": true,
+    "visitorDetails": {
+      "timings": "06:00 AM – 06:00 PM (Closed on Tuesdays)",
+      "entryFee": "₹40 for Indian & BIMSTEC Citizens; ₹600 for Foreign Visitors; Free for Children under 15",
+      "bestSeason": "October to March (Comfortable sightseeing weather; Ellora-Ajanta Festival in January)"
+    },
+    "audioNarrationScript": "Carved top-down from a single colossal volcanic basalt cliff without joints or mortar, Kailasa Temple at Ellora is humanity's greatest rock-cut architectural marvel. Commissioned in the eighth century by Rashtrakuta King Krishna the First, this monolithic masterpiece scooped away two hundred thousand tons of solid rock to recreate Mount Kailash on earth.",
+    "audioDurationSeconds": 26,
+    "heroImage": "/images/monuments/kailasa_ellora.jpg",
+    "thumbnail": "/images/monuments/kailasa_ellora.jpg",
+    "highlights": [
+      "World's largest monolithic rock excavation executed entirely from the top downward",
+      "Life-sized monolithic carved war elephants guarding the lower plinth",
+      "Monumental 'Ravana shaking Mount Kailash' relief demonstrating dynamic sculptural drama"
+    ]
+  },
+  {
+    "id": "temple-ramanathaswamy",
+    "slug": "ramanathaswamy-temple",
+    "name": "Ramanathaswamy Temple",
+    "deity": "Lord Shiva (Ramanathaswamy Jyotirlinga)",
+    "consecrationEra": "12th Century CE (Expanded by Pandya and Jaffna Sethupathi rulers through 18th Century)",
+    "patronMaker": "Pandya Dynasty and Jaffna kings of Sethupathi lineage (King Muthuramalinga Sethupathi)",
+    "patronDynasty": "Pandya Dynasty & Sethupathi Rulers of Ramnad",
+    "history": "Perched on the holy island of Rameswaram, Ramanathaswamy Temple is both one of the four sacred Char Dham destinations and one of the twelve divine Jyotirlingas, revered as the holy site where Lord Rama consecrated a Shiva Linga crafted by Sita to seek atonement following his victory over Ravana. The temple is universally celebrated for housing the longest pillared corridor in the world, with its outer third corridor stretching 1,212 metres lined by 1,212 intricately sculpted monolithic granite pillars. Before entering the sanctum, pilgrims traditionally take holy dips in twenty-two sacred theerthams (water kunds) within the temple compound, each containing fresh water with documented mineral compositions.",
+    "coordinates": [
+      79.3174,
+      9.2881
+    ],
+    "lat": 9.2881,
+    "lng": 79.3174,
+    "city": "Rameswaram",
+    "state": "Tamil Nadu",
+    "locationDetails": {
+      "state": "Tamil Nadu",
+      "district": "Ramanathapuram",
+      "nearestCity": "Rameswaram",
+      "landmark": "Rameswaram Island, eastern tip facing Gulf of Mannar"
+    },
+    "howToReach": {
+      "air": "Madurai Airport (IXM) (175 km)",
+      "rail": "Rameswaram Railway Station (RMM) (2 km)",
+      "road": "Scenic coastal highway crossing the historic Pamban Bridge road corridor linking Mandapam to Rameswaram Island."
+    },
+    "architecturalStyle": "Dravidian Architecture (World's Longest Outer Corridor & Soaring Gopurams)",
+    "ticketAndTimings": "Darshan: 05:00 AM – 01:00 PM & 03:00 PM – 09:00 PM daily. 22 holy kund theertham bathing: 05:30 AM – 12:00 PM. Free general entry; Special Darshan ₹50; Spatika Linga Darshan 05:00 AM – 06:00 AM.",
+    "category": "temple",
+    "preservationState": "Active Place of Worship",
+    "preservationScore": "96% Pristine (Protected island sanctuary conserved by HR&CE and ASI)",
+    "unesco": false,
+    "visitorDetails": {
+      "timings": "05:00 AM – 01:00 PM & 03:00 PM – 09:00 PM (Daily)",
+      "entryFee": "Free general entry; Special Darshan: ₹50; Theertham bathing guide fee: ₹25",
+      "bestSeason": "October to March (Gentle sea breeze; Mahashivratri and Arudra Darshanam in winter)"
+    },
+    "audioNarrationScript": "Situated where the Indian Ocean meets the Bay of Bengal on Rameswaram Island, Ramanathaswamy Temple unites Char Dham holiness with the cosmic presence of a Jyotirlinga. With its breathtaking third corridor stretching over one point two kilometres supported by twelve hundred carved granite pillars, it stands as one of the triumphs of Dravidian sacred architecture.",
+    "audioDurationSeconds": 26,
+    "heroImage": "/images/monuments/ramanathaswamy_temple.jpg",
+    "thumbnail": "/images/monuments/ramanathaswamy_temple.jpg",
+    "highlights": [
+      "World's longest temple corridor measuring 1,212 metres with 1,212 sculpted granite pillars",
+      "Twenty-two sacred fresh water theerthams used for ritual pilgrim purification dips",
+      "Pamban Bridge sea approach connecting the mainland across the Gulf of Mannar"
+    ]
+  },
+  {
+    "id": "monument-kinnaur-temple",
+    "slug": "kinnaur-wooden-temple",
+    "name": "Wooden Hill Temple Architecture of Kinnaur",
+    "city": "Kinnaur Valley",
+    "state": "Himachal Pradesh",
+    "lat": 31.5358,
+    "lng": 78.2758,
+    "architecturalStyle": "Kath-Kuni Himalayan Timber Architecture",
+    "constructionEra": "12th – 15th Century CE",
+    "patronDynasty": "Bushahr State & Himalayan Village Republics",
+    "preservationScore": "92% Stable (Community Timber Care & Earthquake-Resistant Engineering)",
+    "unesco": false,
+    "visitorDetails": {
+      "timings": "06:00 AM – 06:00 PM (Daily)",
+      "entryFee": "Free entry for all pilgrims and visitors",
+      "bestSeason": "April to October (Pleasant Himalayan summer and harvest season)",
+      "photographyFee": "Free outside sanctum"
+    },
+    "audioNarrationScript": "Deep within the Sutlej and Baspa river valleys of Kinnaur, indigenous village shrines represent the architectural peak of Himalayan timber construction. Engineered using the traditional Kath-Kuni technique, alternating courses of hand-hewn Himalayan deodar logs and metamorphic stone are interlocked without nails or mortar.",
+    "audioDurationSeconds": 25,
+    "heroImage": "/images/monuments/kinnaur_wooden_temple.jpg",
+    "thumbnail": "/images/monuments/kinnaur_wooden_temple.jpg",
+    "highlights": [
+      "Interlocking dry-stone and deodar wood Kath-Kuni framework",
+      "Multi-tiered slate pagoda roofs and cantilevered wooden balconies",
+      "Intricate low-relief carvings of serpents and village protector deities"
+    ]
+  },
+  {
+    "id": "monument-dwarkadhish-temple",
+    "slug": "dwarkadhish-temple",
+    "name": "Dwarkadhish Temple (Jagat Mandir)",
+    "city": "Dwarka",
+    "state": "Gujarat",
+    "lat": 22.2376,
+    "lng": 68.9678,
+    "architecturalStyle": "Chalukya-Nagara Coastal Sandstone Architecture",
+    "constructionEra": "16th Century CE (Current Edifice; Consecrated 2,200+ years BP)",
+    "patronDynasty": "Vajranabha (Grandson of Krishna) / Later Western Satraps & Chalukyas",
+    "preservationScore": "95% Intact (Active Char Dham Sanctum Protected by ASI)",
+    "unesco": false,
+    "visitorDetails": {
+      "timings": "06:30 AM – 01:00 PM, 05:00 PM – 09:30 PM",
+      "entryFee": "Free entry; VIP Darshan passes available via temple trust",
+      "bestSeason": "October to March (Pleasant coastal breezes; Janmashtami festivities in Aug/Sep)",
+      "photographyFee": "No electronic devices allowed inside sanctum"
+    },
+    "audioNarrationScript": "Revered as Jagat Mandir, Dwarkadhish stands at the confluence of the sacred Gomti River and the Arabian Sea. Supported by 72 exquisitely sculpted limestone pillars, this five-story sanctuary is crowned by a 52-yard ceremonial banner hoisted five times daily.",
+    "audioDurationSeconds": 24,
+    "heroImage": "/images/monuments/dwarkadhish_temple.jpg",
+    "thumbnail": "/images/monuments/dwarkadhish_temple.jpg",
+    "highlights": [
+      "Five-story Chalukya-Nagara limestone shikhara on 72 sculpted pillars",
+      "Ritual hoisting of the 52-yard Dhwaja displaying the Sun and Moon",
+      "Sacred Sangam Ghat at the confluence of Gomti River and the Arabian Sea"
+    ]
+  }
+]

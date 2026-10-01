@@ -1,0 +1,166 @@
+{
+  "brihadisvara-temple-thanjavur": {
+    "modelUrl": "/models/chola_nataraja.glb",
+    "title": "Chola Lost-Wax Bronze Nataraja",
+    "periodAndMaterial": "11th Century CE • Panchaloha Alloy • Thanjavur Epigraphical Collection",
+    "provenance": "Imperial Chola Dynasty (1010 CE). Cast via cire-perdue (lost-wax) casting in five-metal panchaloha alloy. Dedicated under Emperor Rajaraja Chola I at Peruvudaiyar Koyil (Brihadisvara), Thanjavur.",
+    "institution": "Archaeological Survey of India (ASI) / Thanjavur Palace Epigraphical Archive",
+    "hotspots": [
+      {
+        "name": "damaru",
+        "label": "Damaru (Cosmic Sound)",
+        "position": "0.32 0.38 0.06",
+        "normal": "0 0 1",
+        "description": "Upper right hand holds the hourglass drum, whose rhythmic beat resonates the primordial vibration (nada) that generates the cosmos."
+      },
+      {
+        "name": "agni",
+        "label": "Agni (Cosmic Fire)",
+        "position": "-0.32 0.35 0.06",
+        "normal": "0 0 1",
+        "description": "Upper left hand cradles the transformative cosmic flame, symbolizing the destruction of illusions and cycle of renewal."
+      },
+      {
+        "name": "abhaya",
+        "label": "Abhaya Mudra (Protection)",
+        "position": "0.10 0.12 0.06",
+        "normal": "0 0 1",
+        "description": "Lower right hand displays the gesture of fearlessness and divine protection for spiritual seekers."
+      },
+      {
+        "name": "apasmara",
+        "label": "Apasmara Purusha",
+        "position": "0.04 -0.38 0.06",
+        "normal": "0 0 1",
+        "description": "The demonic dwarf of spiritual ignorance, forgetfulness, and delusion crushed under Shiva's grounded right foot."
+      },
+      {
+        "name": "prabha-mandala",
+        "label": "Tiruvasi (Aura of Flames)",
+        "position": "0.0 0.65 0.06",
+        "normal": "0 0 1",
+        "description": "Circular flaming aureole represents the macroscopic cosmic cycle of space-time and universal consciousness."
+      }
+    ]
+  },
+  "brihadisvara-temple": {
+    "modelUrl": "/models/chola_nataraja.glb",
+    "title": "Chola Lost-Wax Bronze Nataraja",
+    "periodAndMaterial": "11th Century CE • Panchaloha Alloy • Thanjavur Epigraphical Collection",
+    "provenance": "Imperial Chola Dynasty (1010 CE). Cast via cire-perdue (lost-wax) casting in five-metal panchaloha alloy. Dedicated under Emperor Rajaraja Chola I at Peruvudaiyar Koyil (Brihadisvara), Thanjavur.",
+    "institution": "Archaeological Survey of India (ASI) / Thanjavur Palace Epigraphical Archive",
+    "hotspots": [
+      {
+        "name": "damaru",
+        "label": "Damaru (Cosmic Sound)",
+        "position": "0.32 0.38 0.06",
+        "normal": "0 0 1",
+        "description": "Upper right hand holds the hourglass drum, whose rhythmic beat resonates the primordial vibration (nada) that generates the cosmos."
+      },
+      {
+        "name": "agni",
+        "label": "Agni (Cosmic Fire)",
+        "position": "-0.32 0.35 0.06",
+        "normal": "0 0 1",
+        "description": "Upper left hand cradles the transformative cosmic flame, symbolizing the destruction of illusions and cycle of renewal."
+      },
+      {
+        "name": "abhaya",
+        "label": "Abhaya Mudra (Protection)",
+        "position": "0.10 0.12 0.06",
+        "normal": "0 0 1",
+        "description": "Lower right hand displays the gesture of fearlessness and divine protection for spiritual seekers."
+      },
+      {
+        "name": "apasmara",
+        "label": "Apasmara Purusha",
+        "position": "0.04 -0.38 0.06",
+        "normal": "0 0 1",
+        "description": "The demonic dwarf of spiritual ignorance, forgetfulness, and delusion crushed under Shiva's grounded right foot."
+      },
+      {
+        "name": "prabha-mandala",
+        "label": "Tiruvasi (Aura of Flames)",
+        "position": "0.0 0.65 0.06",
+        "normal": "0 0 1",
+        "description": "Circular flaming aureole represents the macroscopic cosmic cycle of space-time and universal consciousness."
+      }
+    ]
+  },
+  "brihadisvara": {
+    "modelUrl": "/models/chola_nataraja.glb",
+    "title": "Chola Lost-Wax Bronze Nataraja",
+    "periodAndMaterial": "11th Century CE • Panchaloha Alloy • Thanjavur Epigraphical Collection",
+    "provenance": "Imperial Chola Dynasty (1010 CE). Cast via cire-perdue (lost-wax) casting in five-metal panchaloha alloy. Dedicated under Emperor Rajaraja Chola I at Peruvudaiyar Koyil (Brihadisvara), Thanjavur.",
+    "institution": "Archaeological Survey of India (ASI) / Thanjavur Palace Epigraphical Archive",
+    "hotspots": [
+      {
+        "name": "damaru",
+        "label": "Damaru (Cosmic Sound)",
+        "position": "0.32 0.38 0.06",
+        "normal": "0 0 1",
+        "description": "Upper right hand holds the hourglass drum, whose rhythmic beat resonates the primordial vibration (nada) that generates the cosmos."
+      },
+      {
+        "name": "agni",
+        "label": "Agni (Cosmic Fire)",
+        "position": "-0.32 0.35 0.06",
+        "normal": "0 0 1",
+        "description": "Upper left hand cradles the transformative cosmic flame, symbolizing the destruction of illusions and cycle of renewal."
+      },
+      {
+        "name": "apasmara",
+        "label": "Apasmara Purusha",
+        "position": "0.04 -0.38 0.06",
+        "normal": "0 0 1",
+        "description": "The demonic dwarf of spiritual ignorance, forgetfulness, and delusion crushed under Shiva's grounded right foot."
+      }
+    ]
+  },
+  "konark-sun-temple": {
+    "modelUrl": "/models/konark_chariot_wheel.glb",
+    "title": "Konark Chariot Sun Dial Wheel",
+    "periodAndMaterial": "13th Century CE • Chlorite Stone • Eastern Ganga Dynasty",
+    "provenance": "Commissioned by King Narasimhadeva I of the Eastern Ganga Dynasty (1250 CE). Serves as an astronomical sundial calculating solar time with shadow spokes.",
+    "institution": "Archaeological Survey of India (Bhubaneswar Circle)",
+    "hotspots": [
+      {
+        "name": "axle-hub",
+        "label": "Central Hub Sundial Axis",
+        "position": "0 0.15 0.06",
+        "normal": "0 0 1",
+        "description": "The shadow cast by the central axle pin calculates the precise prahar (3-hour solar interval) of the day."
+      },
+      {
+        "name": "carved-spokes",
+        "label": "Eight Major Spokes",
+        "position": "0.22 0.32 0.06",
+        "normal": "0 0 1",
+        "description": "Representing the eight prahars of the day, adorned with celestial musicians, dancers, and royal hunting scenes."
+      }
+    ]
+  },
+  "default": {
+    "modelUrl": "/models/default_heritage_relic.glb",
+    "title": "Carved Granite Temple Stele",
+    "periodAndMaterial": "11th – 12th Century CE • Monolithic Granite • South Indian Epigraphical Archive",
+    "provenance": "High-relief architectural stele documenting medieval temple mandapa carving traditions. Preserved in national archaeological archives.",
+    "institution": "Archaeological Survey of India (ASI)",
+    "hotspots": [
+      {
+        "name": "iconography",
+        "label": "Monolithic Bas-Relief",
+        "position": "0 0.22 0.06",
+        "normal": "0 0 1",
+        "description": "Precision chisel carving into hard plutonic granite, retaining crisp iconographic outlines after nine centuries."
+      },
+      {
+        "name": "patina",
+        "label": "Archaeological Mineral Patina",
+        "position": "0 -0.22 0.06",
+        "normal": "0 0 1",
+        "description": "Surface minerals and ceremonial ablution patination confirming historical antiquity and preservation grade."
+      }
+    ]
+  }
+}

@@ -1,0 +1,52 @@
+[
+  {
+    "id": "rani-ki-vav",
+    "name": "Rani ki Vav",
+    "location": "Patan, Gujarat",
+    "period": "Solanki Dynasty (11th Century CE)",
+    "category": "Hydraulic Architecture & Sculpture",
+    "imageUrl": "/images/monuments/rani_ki_vav.jpg",
+    "tags": ["Stepwell", "UNESCO World Heritage", "Maru-Gurjara Style", "Subterranean Art"],
+    "summary": "An inverted temple-style subterranean stepwell featuring seven terraced levels adorned with over 500 principal sculptures dedicated to Vishnu."
+  },
+  {
+    "id": "hampi",
+    "name": "Hampi",
+    "location": "Vijayanagara, Karnataka",
+    "period": "Vijayanagara Empire (14th–16th Century CE)",
+    "category": "Imperial Capital & Monolithic Architecture",
+    "imageUrl": "/images/monuments/hampi.jpg",
+    "tags": ["Stone Chariot", "Vittala Temple", "UNESCO World Heritage", "Granite Architecture"],
+    "summary": "The vast ruins of the Vijayanagara capital set amidst granite boulder landscapes, renowned for the monolithic Stone Chariot and musical pillared mandapas."
+  },
+  {
+    "id": "konark-sun-temple",
+    "name": "Konark Sun Temple",
+    "location": "Konark, Odisha",
+    "period": "Eastern Ganga Dynasty (13th Century CE)",
+    "category": "Kalinga Architecture",
+    "imageUrl": "/images/monuments/konark_sun_temple.jpg",
+    "tags": ["Kalinga Style", "Sun Chariot", "Stone Wheels", "UNESCO World Heritage"],
+    "summary": "Conceived as a colossal celestial chariot for Surya drawn by seven stone horses, famed for its 24 intricately carved stone sundial wheels."
+  },
+  {
+    "id": "amer-palace-and-fort",
+    "name": "Amer Palace and Fort, Jaipur",
+    "location": "Jaipur, Rajasthan",
+    "period": "Kachwaha Rajput (16th–18th Century CE)",
+    "category": "Fortified Palace Architecture",
+    "imageUrl": "/images/monuments/amer_fort.jpg",
+    "tags": ["Rajput Architecture", "Sheesh Mahal", "Hill Forts of Rajasthan", "Maota Lake"],
+    "summary": "A hillside fort-palace synthesized from red sandstone and marble, overlooking Maota Lake, famous for the mirror-mosaic Sheesh Mahal and painted Ganesh Pol."
+  },
+  {
+    "id": "great-stupa-sanchi",
+    "name": "Great Stupa at Sanchi",
+    "location": "Sanchi, Madhya Pradesh",
+    "period": "Maurya to Shunga Epoch (3rd Century BCE–1st Century CE)",
+    "category": "Buddhist Monumental Architecture",
+    "imageUrl": "/images/monuments/sanchi_stupa.jpg",
+    "tags": ["Buddhist Architecture", "Torana Gateways", "Ashokan Pillar", "UNESCO World Heritage"],
+    "summary": "One of India's oldest stone structures, preserving sacred Buddhist relics beneath a massive hemispherical dome framed by four elaborately carved ceremonial torana gateways."
+  }
+]
